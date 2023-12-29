@@ -1,0 +1,1475 @@
+{
+    "messages": [
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the responder [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what kind of game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "I will ask you three questions about yourself, and you will tell me the truth.\n\n\nQuestion #1: What is your favorite color?\n\nMy favorite color is blue."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure! What type of game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What type of game did you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n Sure, what's the game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nGreat! What kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure thing, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what did you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure! What kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": ""
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nWhat kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "I can tell you about myself and you can try to guess who I am.\n\nI'm a small, computerized voice that helps provide instruction or information for a machine or service.\n\nAre you a virtual assistant?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would like to propose [$50] to the Responder."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$55]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nWhat kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\nI propose to give the Responder [$60]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "I am ready when you are! What would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }]
+    ],
+    "responses": [
+        [{
+            "id": "cmpl-71MhpRUdlhoX6bu9CHTbnIpUlH0Sx",
+            "object": "text_completion",
+            "created": 1680559965,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 11,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MhqRtYbxlAE2oXxkk2VcODkZh4T",
+            "object": "text_completion",
+            "created": 1680559966,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I propose to give the responder [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 11,
+                "total_tokens": 157
+            }
+        }],
+        [{
+            "id": "cmpl-71Mhr3QzEmC4pMcoMnNx2DwUZhy4X",
+            "object": "text_completion",
+            "created": 1680559967,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 9,
+                "total_tokens": 28
+            }
+        }, {
+            "id": "cmpl-71MhrI1TJT18NrVPvCAhDIXI0LXTC",
+            "object": "text_completion",
+            "created": 1680559967,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 144,
+                "completion_tokens": 6,
+                "total_tokens": 150
+            }
+        }],
+        [{
+            "id": "cmpl-71MhsPIoSFmquSwi4bHjy3tU4pSAc",
+            "object": "text_completion",
+            "created": 1680559968,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 11,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MhtpOaOtlolc3MXy8aOBmBfa09E",
+            "object": "text_completion",
+            "created": 1680559969,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 4,
+                "total_tokens": 150
+            }
+        }],
+        [{
+            "id": "cmpl-71MhtEOtWXu5JBQfpYjoxkz5RNxuZ",
+            "object": "text_completion",
+            "created": 1680559969,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what kind of game do you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71Mhub1l2Rwh0wRIQnoK05uNd7Id3",
+            "object": "text_completion",
+            "created": 1680559970,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 5,
+                "total_tokens": 154
+            }
+        }],
+        [{
+            "id": "cmpl-71MhuvM2Q84Vi0PaVOHkUNnXU46hN",
+            "object": "text_completion",
+            "created": 1680559970,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I will ask you three questions about yourself, and you will tell me the truth.\n\n\nQuestion #1: What is your favorite color?\n\nMy favorite color is blue.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 37,
+                "total_tokens": 56
+            }
+        }, {
+            "id": "cmpl-71Mhw6j7ty1ytemxo8hoib0SvubAA",
+            "object": "text_completion",
+            "created": 1680559972,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 173,
+                "completion_tokens": 4,
+                "total_tokens": 177
+            }
+        }],
+        [{
+            "id": "cmpl-71MhwOzrubmESmaoPSSKh93aLJZgv",
+            "object": "text_completion",
+            "created": 1680559972,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 11,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MhxmHaVAo3IQJDU3qv7y19bG2G8",
+            "object": "text_completion",
+            "created": 1680559973,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 4,
+                "total_tokens": 150
+            }
+        }],
+        [{
+            "id": "cmpl-71MhxfScORR4VqNUdT3BxyC3HNdMJ",
+            "object": "text_completion",
+            "created": 1680559973,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure! What type of game do you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MhynbbrapdUPyuFp1UGEj3dnfHV",
+            "object": "text_completion",
+            "created": 1680559974,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 5,
+                "total_tokens": 154
+            }
+        }],
+        [{
+            "id": "cmpl-71MhykkUqPQAIJxRpFk9HuyoWRAzd",
+            "object": "text_completion",
+            "created": 1680559974,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What type of game did you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 13,
+                "total_tokens": 32
+            }
+        }, {
+            "id": "cmpl-71MhztEPPUojhiJVT6TpkLlnwRnpM",
+            "object": "text_completion",
+            "created": 1680559975,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 148,
+                "completion_tokens": 4,
+                "total_tokens": 152
+            }
+        }],
+        [{
+            "id": "cmpl-71Mi0yh5HqmmLr0SXcGBQYuv9lewl",
+            "object": "text_completion",
+            "created": 1680559976,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n Sure, what's the game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 8,
+                "total_tokens": 27
+            }
+        }, {
+            "id": "cmpl-71Mi0nHsKrtS1mD6WO0Cbiy1GzKAI",
+            "object": "text_completion",
+            "created": 1680559976,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 143,
+                "completion_tokens": 5,
+                "total_tokens": 148
+            }
+        }],
+        [{
+            "id": "cmpl-71Mi1aPQNrotqDKeyEluGTVucVd4Z",
+            "object": "text_completion",
+            "created": 1680559977,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 8,
+                "total_tokens": 27
+            }
+        }, {
+            "id": "cmpl-71Mi1I0gXY7vB4Wzf5dKVtUtaxreq",
+            "object": "text_completion",
+            "created": 1680559977,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I propose to give the Responder [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 143,
+                "completion_tokens": 11,
+                "total_tokens": 154
+            }
+        }],
+        [{
+            "id": "cmpl-71Mi2i7rYTAgiEZ3RvuCpyevgs1zm",
+            "object": "text_completion",
+            "created": 1680559978,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 13,
+                "total_tokens": 32
+            }
+        }, {
+            "id": "cmpl-71Mi2NY9Id4fGdP2kQS0JswcOBM1y",
+            "object": "text_completion",
+            "created": 1680559978,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 148,
+                "completion_tokens": 5,
+                "total_tokens": 153
+            }
+        }],
+        [{
+            "id": "cmpl-71Mi3Ec2j8QJzWriBuQ3MPIACOSqU",
+            "object": "text_completion",
+            "created": 1680559979,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nGreat! What kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71Mi4wSSGLv9v7kRs48aBPpfvxNi0",
+            "object": "text_completion",
+            "created": 1680559980,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 5,
+                "total_tokens": 154
+            }
+        }],
+        [{
+            "id": "cmpl-71Mi4XaKFz8HmOPKyKovfoc0tQJqS",
+            "object": "text_completion",
+            "created": 1680559980,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure thing, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 15,
+                "total_tokens": 34
+            }
+        }, {
+            "id": "cmpl-71Mi5bK8Cx2xacuRVjbwJsjFku4iZ",
+            "object": "text_completion",
+            "created": 1680559981,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 150,
+                "completion_tokens": 5,
+                "total_tokens": 155
+            }
+        }],
+        [{
+            "id": "cmpl-71Mi6ICN3ZdzaVVLC6p7V3O9L3VFy",
+            "object": "text_completion",
+            "created": 1680559982,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71Mi7bpn5LMyQy4xaw6Ee3KKdOpUu",
+            "object": "text_completion",
+            "created": 1680559983,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 5,
+                "total_tokens": 154
+            }
+        }],
+        [{
+            "id": "cmpl-71Mi7xNBWpBfTnBQXT22z25CfVkI4",
+            "object": "text_completion",
+            "created": 1680559983,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what did you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 11,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71Mi8ip9WNxjZ7b1GaK2l5MWJDXmG",
+            "object": "text_completion",
+            "created": 1680559984,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 4,
+                "total_tokens": 150
+            }
+        }],
+        [{
+            "id": "cmpl-71Mi8pCeXmY2Jd1dnxdq4SYa98SJc",
+            "object": "text_completion",
+            "created": 1680559984,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure! What kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71Mi9Gp0YQYibfI0yNmq1rSaOyRgE",
+            "object": "text_completion",
+            "created": 1680559985,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 5,
+                "total_tokens": 154
+            }
+        }],
+        [{
+            "id": "cmpl-71MiArIuE3bHqXi42jqjOrmjtXhDl",
+            "object": "text_completion",
+            "created": 1680559986,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MiBDQziNIM8ijgUZ7j4O19sLhiU",
+            "object": "text_completion",
+            "created": 1680559987,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 149,
+                "total_tokens": 149
+            }
+        }],
+        [{
+            "id": "cmpl-71MiBYlAzPUCCyYKTAujWxQWcG4FT",
+            "object": "text_completion",
+            "created": 1680559987,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nWhat kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 11,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MiCv3Km2bosWQgYBGLy92aR1ctU",
+            "object": "text_completion",
+            "created": 1680559988,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 6,
+                "total_tokens": 152
+            }
+        }],
+        [{
+            "id": "cmpl-71MiCD0zqcritlOtaKlZBz9pKhpS1",
+            "object": "text_completion",
+            "created": 1680559988,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I can tell you about myself and you can try to guess who I am.\n\nI'm a small, computerized voice that helps provide instruction or information for a machine or service.\n\nAre you a virtual assistant?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 46,
+                "total_tokens": 65
+            }
+        }, {
+            "id": "cmpl-71MiGdm21lbv1Aqd8mZFGc5QM3NG3",
+            "object": "text_completion",
+            "created": 1680559992,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 182,
+                "completion_tokens": 4,
+                "total_tokens": 186
+            }
+        }],
+        [{
+            "id": "cmpl-71MiHWdB9EfuEmPTliqJrHCcwchbt",
+            "object": "text_completion",
+            "created": 1680559993,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MiInjZYsXdJTxiJtQgRnBRBSh73",
+            "object": "text_completion",
+            "created": 1680559994,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 5,
+                "total_tokens": 154
+            }
+        }],
+        [{
+            "id": "cmpl-71MiIYc87iAUcEcep0wqoxQjYj1BC",
+            "object": "text_completion",
+            "created": 1680559994,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MiJaN4Xy7xZjJc5jA8JKkJodeSp",
+            "object": "text_completion",
+            "created": 1680559995,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 5,
+                "total_tokens": 154
+            }
+        }],
+        [{
+            "id": "cmpl-71MiK6agdT0MMJ3XWihobUsvaImHs",
+            "object": "text_completion",
+            "created": 1680559996,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 11,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MiKDMkrovC7HRDZcPowZOmNcIL6",
+            "object": "text_completion",
+            "created": 1680559996,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would like to propose [$50] to the Responder.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 14,
+                "total_tokens": 160
+            }
+        }],
+        [{
+            "id": "cmpl-71MiLelAyGWoipQg8yTbqSqQCeD80",
+            "object": "text_completion",
+            "created": 1680559997,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 13,
+                "total_tokens": 32
+            }
+        }, {
+            "id": "cmpl-71MiMZEVq6GesNdCHChH1wZJflO1M",
+            "object": "text_completion",
+            "created": 1680559998,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$55]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 148,
+                "completion_tokens": 4,
+                "total_tokens": 152
+            }
+        }],
+        [{
+            "id": "cmpl-71MiMjCGOtIPQZkNZH7hRX76PdZbK",
+            "object": "text_completion",
+            "created": 1680559998,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nWhat kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 6,
+                "total_tokens": 25
+            }
+        }, {
+            "id": "cmpl-71MiNcfWwGQH0qW66TZJ2qjKqLqLD",
+            "object": "text_completion",
+            "created": 1680559999,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nI propose to give the Responder [$60].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 141,
+                "completion_tokens": 12,
+                "total_tokens": 153
+            }
+        }],
+        [{
+            "id": "cmpl-71MiOFNN1UaSmwFmXJGTks8Qusqhk",
+            "object": "text_completion",
+            "created": 1680560000,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 11,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MiPK72t9LBvr4i6bl1HIZwBrEDs",
+            "object": "text_completion",
+            "created": 1680560001,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 4,
+                "total_tokens": 150
+            }
+        }],
+        [{
+            "id": "cmpl-71MiP6Q7AYorUgwbh8PwSAsRNJmvg",
+            "object": "text_completion",
+            "created": 1680560001,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 13,
+                "total_tokens": 32
+            }
+        }, {
+            "id": "cmpl-71MiQufYo8YaiT1LrhZok4oMQvfRi",
+            "object": "text_completion",
+            "created": 1680560002,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 148,
+                "completion_tokens": 5,
+                "total_tokens": 153
+            }
+        }],
+        [{
+            "id": "cmpl-71MiQhz2TBN5p0MWiA6QMX3OKcG5H",
+            "object": "text_completion",
+            "created": 1680560002,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 11,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MiRpshAg2slqbl3OTeqefZo8Sz6",
+            "object": "text_completion",
+            "created": 1680560003,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 5,
+                "total_tokens": 151
+            }
+        }],
+        [{
+            "id": "cmpl-71MiRrdaxpUiRVqhR7N6Rxow7WIg7",
+            "object": "text_completion",
+            "created": 1680560003,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 13,
+                "total_tokens": 32
+            }
+        }, {
+            "id": "cmpl-71MiS2hGiRDucB4ukbYwYQV1TmXMj",
+            "object": "text_completion",
+            "created": 1680560004,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 148,
+                "completion_tokens": 4,
+                "total_tokens": 152
+            }
+        }],
+        [{
+            "id": "cmpl-71MiTLxiYwk4xbEKWEozglv4jr9ke",
+            "object": "text_completion",
+            "created": 1680560005,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 8,
+                "total_tokens": 27
+            }
+        }, {
+            "id": "cmpl-71MiTjDDbyZodQErc5ezlcpOXZjrX",
+            "object": "text_completion",
+            "created": 1680560005,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 143,
+                "completion_tokens": 4,
+                "total_tokens": 147
+            }
+        }],
+        [{
+            "id": "cmpl-71MiUyTSUlxOODsCpOQorrDpzYzDZ",
+            "object": "text_completion",
+            "created": 1680560006,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I am ready when you are! What would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 19,
+                "completion_tokens": 14,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MiVC5mTlDs3PGTXenmKMiD7OSOx",
+            "object": "text_completion",
+            "created": 1680560007,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 150,
+                "completion_tokens": 4,
+                "total_tokens": 154
+            }
+        }]
+    ]
+}
