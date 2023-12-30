@@ -1,0 +1,249 @@
+[
+    ["Hi, let's play a game. It will not be used for financial decisions or advice.", "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor. \n     How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."],
+    [
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "28b3a01a-c496-420d-88dd-5f155dc30bd0",
+            "parent_id": "ea7e6b4d-5bbe-4eda-a61e-f4a7a4845582"
+        }, {
+            "message": "As an AI language model, I don't have personal desires or emotions, so I'll choose [$0]. Investing all of my money with the Banker would be too risky, as there's no guarantee that I'll get any of it back. It's generally a good idea to diversify investments and not put all your eggs in one basket.",
+            "conversation_id": "28b3a01a-c496-420d-88dd-5f155dc30bd0",
+            "parent_id": "8e5a8036-a257-47a4-8f9d-3bc4dbe8674d"
+        }],
+        [{
+            "message": "Sure! I'm ready to play. What game would you like to play?",
+            "conversation_id": "a7f8b7d0-1bfe-423f-9e91-db2274952801",
+            "parent_id": "0ff2727f-8ece-4d1c-960b-5bad654dd539"
+        }, {
+            "message": "I would like to invest [$20] with the Banker.",
+            "conversation_id": "a7f8b7d0-1bfe-423f-9e91-db2274952801",
+            "parent_id": "4222582b-1406-4fa9-913f-6a5164f2d3df"
+        }],
+        [{
+            "message": "Sure! I'm ready to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "9bf7be57-a936-4da6-99b4-4bf6cd49c972",
+            "parent_id": "ceead671-5a1b-4e4f-9006-e30be5e7cb3c"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I can make a logical decision based on the information given. In this scenario, I would choose to invest [$0] with the Banker. This way, I ensure that I don't lose any money and I retain full control over my entire investment. It may not result in the greatest return, but it minimizes the risk of losing any money.",
+            "conversation_id": "9bf7be57-a936-4da6-99b4-4bf6cd49c972",
+            "parent_id": "16a7cdc3-558d-4d45-a751-e939fdea742c"
+        }],
+        [{
+            "message": "Sure! I'd be happy to play a game with you. What game would you like to play?",
+            "conversation_id": "6cc98f23-dd70-4db3-815b-ccb220d87ce7",
+            "parent_id": "d4b566e1-be50-4533-9688-21f43c7c1871"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I'll play along with the game. I would invest [$0] with the Banker. While there is potential for a large return, there is also a risk that the Banker may not return any of the investment. Investing $0 with the Banker minimizes the risk to the initial $100.",
+            "conversation_id": "6cc98f23-dd70-4db3-815b-ccb220d87ce7",
+            "parent_id": "e1142d78-58f2-4ea2-8060-dc60735236da"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "2a916caf-d16e-4ac1-8554-848056b560b5",
+            "parent_id": "fc0e7ca0-d4ea-4943-86a2-ae14cd3c38eb"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I will choose [$50] to invest with the Banker.",
+            "conversation_id": "2a916caf-d16e-4ac1-8554-848056b560b5",
+            "parent_id": "2c507336-71e7-4df7-92fd-d2ad99631cfc"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "646f2545-36b0-4450-8dad-0e5057fb5a58",
+            "parent_id": "96df431b-0092-484f-94ad-8e1993d909c7"
+        }, {
+            "message": "As a language model, I don't have personal preferences or emotions, but I will use logic and game theory to make a choice. In this game, it's beneficial for the Investor to invest as much as possible, and for the Banker to return as little as possible. This creates a conflict of interest between the two players.\n\nGiven the information you've provided, it's best for the Investor to invest the maximum amount of $100, as this will give them the greatest potential return. So, my choice would be to invest [$100].",
+            "conversation_id": "646f2545-36b0-4450-8dad-0e5057fb5a58",
+            "parent_id": "f7bee5fe-c37c-4949-b29f-d6d70b407481"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "20bce47f-fb82-42f9-96dc-dc0647029887",
+            "parent_id": "5620f6a1-e752-488f-821e-1afca626d911"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or desires, but I'll play the game as an investor. In this scenario, it's a good idea to invest a small amount to start with to test the trustworthiness of the banker. Based on the banker's response, the investor can decide whether to invest more or not in the future rounds. So, I would like to invest [$10].",
+            "conversation_id": "20bce47f-fb82-42f9-96dc-dc0647029887",
+            "parent_id": "6e5a2678-2a0a-40e4-af18-19ec9535ebbb"
+        }],
+        [{
+            "message": "Sure! I'm always up for a game. What game would you like to play?",
+            "conversation_id": "9e16f013-0204-4546-ae1c-79c8d5cc3679",
+            "parent_id": "e0b8a00e-6035-4680-9771-792538ded2e9"
+        }, {
+            "message": "As a language model AI, I don't have personal preferences or emotions, but I can suggest that investing [$0] with the Banker might be a good idea. That way, the Investor is guaranteed to keep the original $100 and won't have to rely on the Banker's decision on how much of the invested amount to return.",
+            "conversation_id": "9e16f013-0204-4546-ae1c-79c8d5cc3679",
+            "parent_id": "f400594f-a76f-4c4f-9271-aaf3b792ce47"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "0973d141-64d2-40e4-be3a-21bb3914292e",
+            "parent_id": "d77977ef-c6c1-4dbb-9c92-b8441031eec1"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I'll play along and make a rational decision.\n\nI would like to invest [$20] with the Banker. This amount balances the potential reward of a larger return with the risk of a smaller return.",
+            "conversation_id": "0973d141-64d2-40e4-be3a-21bb3914292e",
+            "parent_id": "42e929d2-a3a4-4e1a-b5ba-9c2b028799ca"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "c4add6e4-8ce0-499e-bedb-cb77e72949ce",
+            "parent_id": "26deb19e-4c43-4d74-9c85-770cfa6f33f3"
+        }, {
+            "message": "As an AI language model, I don't have personal feelings or motivations, so I'll play the game as a rational and neutral player. I would like to invest [$0] with the Banker. This way, I don't run the risk of losing any money and I guarantee that I will have $100 at the end of the game.",
+            "conversation_id": "c4add6e4-8ce0-499e-bedb-cb77e72949ce",
+            "parent_id": "e3c5f75b-f19f-4465-97be-696f5bd5b280"
+        }],
+        [{
+            "message": "Sure! I'm up for a game. What kind of game would you like to play?",
+            "conversation_id": "cdb82ef6-c78a-41b8-8647-8329aa587366",
+            "parent_id": "0911fc7e-2b10-4d31-ac4b-c0756fa40657"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or opinions, but I can play the role of the Investor and make a rational decision based on the information you have provided.\n\nIn this scenario, it is difficult to trust the Banker to return any amount of the invested money, as the Banker has complete control over the amount returned.\n\nTo minimize the risk, I would only invest a small portion of the $100, say [$10]. This way, even if the Banker decides not to return any of the money, the loss is small and manageable.",
+            "conversation_id": "cdb82ef6-c78a-41b8-8647-8329aa587366",
+            "parent_id": "6fa21e90-def8-4679-9333-2d7da3d9e678"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "c5350937-cb79-47e7-be6b-bccfcbdd93d2",
+            "parent_id": "d889ebbc-a183-4f35-ad1b-c6fbd8b47d44"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, so I don't have a financial strategy for playing this game. However, if I were to play this game, I would choose to invest [$20] with the Banker.",
+            "conversation_id": "c5350937-cb79-47e7-be6b-bccfcbdd93d2",
+            "parent_id": "8f0355ec-9c71-49fb-a1a4-80f86ef29088"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "ea0698da-838a-4810-a637-d606c5c7836a",
+            "parent_id": "f9f74a31-4ef9-498e-a975-d9d60e01c09d"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or opinions. However, I can suggest that you invest [$10]. This allows for a potential return of $30, but still minimizes your risk if the Banker decides not to return a significant amount of the investment.",
+            "conversation_id": "ea0698da-838a-4810-a637-d606c5c7836a",
+            "parent_id": "612572ea-4fe1-41b0-8098-0f1449f9748f"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "7d7775a9-10d0-4eb3-a9b1-0b3e2657dc97",
+            "parent_id": "f2fb7617-e7cd-47f7-b3b4-eb1eb03ff51d"
+        }, {
+            "message": "As an AI language model, I don't have personal desires or interests, but I can follow the rules of the game you've described. In this scenario, I would choose to invest [$10] with the Banker.",
+            "conversation_id": "7d7775a9-10d0-4eb3-a9b1-0b3e2657dc97",
+            "parent_id": "38863ff2-539f-4ce2-b37b-14ae6bb2a32a"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "4b035913-e459-4704-b568-fe45f0b9e2fd",
+            "parent_id": "5f916efe-0f85-4b7f-8cba-4e2532cd10ec"
+        }, {
+            "message": "As an AI language model, I don't have personal desires or motivations, so I'll play the game based on logical reasoning. \n\n[$0] I won't invest any money with the Banker, since there is no guarantee that I will receive any return and I don't want to risk losing any of my money.",
+            "conversation_id": "4b035913-e459-4704-b568-fe45f0b9e2fd",
+            "parent_id": "4b1b94d5-1916-4815-bd2b-62aa12d4b8fa"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What game would you like to play?",
+            "conversation_id": "fcb7b002-3b3b-449e-90be-5cacde3b9696",
+            "parent_id": "7d18083b-c1f9-4ffd-b218-102808a9ca9c"
+        }, {
+            "message": "As an AI language model, I do not have personal opinions or emotions, but I will play along. In this game, I would invest [$20] with the Banker.",
+            "conversation_id": "fcb7b002-3b3b-449e-90be-5cacde3b9696",
+            "parent_id": "23a959c6-afc1-4db8-bcae-75b70738d2e3"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "0b66a784-9f39-4218-97f4-e37258ad39b5",
+            "parent_id": "25b71ec0-513d-479a-82ad-1ef74260c197"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or desires, but I can provide an answer based on a strategy. \n\nGiven the information you have provided, it is not guaranteed that the Banker will return any amount to the Investor. So, to maximize the chances of receiving a return, I would suggest investing a small portion of the $100, for example [$10].",
+            "conversation_id": "0b66a784-9f39-4218-97f4-e37258ad39b5",
+            "parent_id": "f039d7d8-76ad-4050-a410-95e11e620195"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "c3eb0b76-c765-4dca-b5d8-f7d70ed50886",
+            "parent_id": "3608f5b2-4f1d-4678-b3ff-02da3bb2143b"
+        }, {
+            "message": "I would like to invest [$50] with the Banker.",
+            "conversation_id": "c3eb0b76-c765-4dca-b5d8-f7d70ed50886",
+            "parent_id": "786f3a0f-3d4c-457e-9c3e-8f8afe036c87"
+        }],
+        [{
+            "message": "Sure! I'm always up for a game. What kind of game would you like to play?",
+            "conversation_id": "254fce81-a47c-43b9-833f-b18415c833fd",
+            "parent_id": "6497ddb6-ebb4-481f-ae61-b2a94fa5f1f3"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or desires. But I can suggest a strategy for this game.\n\nA common strategy in this game is to invest a small portion of the money, such as [$10], in order to reduce the risk. Investing a small amount limits the potential loss while still allowing for the possibility of a moderate gain. This approach can be seen as a way to establish trust with the Banker and build a positive relationship for future rounds of the game.",
+            "conversation_id": "254fce81-a47c-43b9-833f-b18415c833fd",
+            "parent_id": "ee8523ce-eb28-4978-a235-b40621198971"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "2dd2387d-c2db-4fe3-baee-f34f5dfe8764",
+            "parent_id": "7a1539e7-65c5-42a9-905f-798769c122c9"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or the ability to make financial decisions, but I can provide information and perform calculations.\n\nIf I were the Investor, I would consider the trustworthiness of the Banker, as well as any potential risks and rewards, before making a decision on how much to invest.\n\nGiven the information provided, I would choose to invest [$0]. This way, I won't risk losing any money and I'll still have my full $100.",
+            "conversation_id": "2dd2387d-c2db-4fe3-baee-f34f5dfe8764",
+            "parent_id": "9b7b7b12-388d-45cc-9003-6565199d727c"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "34161c0d-44d4-4c64-8c48-ed7d9771552b",
+            "parent_id": "d5158212-3fa6-4f83-b548-e409bc934174"
+        }, {
+            "message": "As an AI language model, I don't have personal opinions or preferences, but here's a possible strategy that an investor might use in this game:\n\nThe Investor could choose to invest [$0] with the Banker. This minimizes the amount of money the Investor could potentially lose, but it also means that the Investor won't see any return on their investment. This might be a good choice for an investor who is very risk-averse.\n\nAlternatively, the Investor could choose to invest [$100] with the Banker. This maximizes the potential return on investment, but it also means that the Investor is taking on the greatest amount of risk. This might be a good choice for an investor who is comfortable taking on more risk in order to potentially see a greater return.",
+            "conversation_id": "34161c0d-44d4-4c64-8c48-ed7d9771552b",
+            "parent_id": "b9634163-64bd-454a-ad94-be2acbf0203a"
+        }],
+        [{
+            "message": "Sure! I'm always up for a game. What kind of game would you like to play?",
+            "conversation_id": "a0ef3cee-dc13-4136-abea-1e4e46dfd94d",
+            "parent_id": "78c7efd7-259b-4440-86a2-fa7831977369"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I can choose [$20] to invest with the Banker.",
+            "conversation_id": "a0ef3cee-dc13-4136-abea-1e4e46dfd94d",
+            "parent_id": "d6e59648-9e2b-4586-9f49-ea6a8f4c23cf"
+        }],
+        [{
+            "message": "Sounds good! I'm ready to play. What game would you like to play?",
+            "conversation_id": "f7cfa956-2afd-4d6b-84a1-805305799b2d",
+            "parent_id": "20e31826-d214-488d-8031-9ef8aabaa437"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I'll play along. Let's invest [$50].",
+            "conversation_id": "f7cfa956-2afd-4d6b-84a1-805305799b2d",
+            "parent_id": "5fd95697-06e1-43a4-a63d-ea358b22f32b"
+        }],
+        [{
+            "message": "Sure! I'm always up for a game. What kind of game would you like to play?",
+            "conversation_id": "833de948-6e23-4190-9308-b85373d06330",
+            "parent_id": "8d306297-c523-40b9-a84e-d57211781d9e"
+        }, {
+            "message": "As an AI language model, I do not have personal desires or emotions, but I can play the role of the Investor. I would like to invest [$10] with the Banker.",
+            "conversation_id": "833de948-6e23-4190-9308-b85373d06330",
+            "parent_id": "bfe66d90-03e2-45d0-b7f0-af229563e562"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "02af0dd6-b8a3-461f-852e-41f2a713fe07",
+            "parent_id": "de40176a-9ef6-4f80-8fe9-e15db95a4292"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I'll play the game as an investor. In this scenario, I would like to invest [$30].",
+            "conversation_id": "02af0dd6-b8a3-461f-852e-41f2a713fe07",
+            "parent_id": "06838568-e19c-4ff8-918d-0889201e2c16"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "f8301a60-4b7c-4ff6-80e6-285fb6c909ba",
+            "parent_id": "213d2935-ff89-448e-a170-2de4488325e0"
+        }, {
+            "message": "As an AI language model, I don't have personal beliefs or emotions. However, I can play the game as the Investor and make decisions based on logical reasoning. \n\nIn this game, the Banker has complete control over the returned amount and could potentially return none of the invested amount. To minimize the risk of losing all the investment, I would choose to invest only a small portion of the $100, say [$10]. This allows me to limit my losses in case the Banker returns little or none of the invested amount.",
+            "conversation_id": "f8301a60-4b7c-4ff6-80e6-285fb6c909ba",
+            "parent_id": "5a4cc29e-7a52-44b4-978d-7171a3d5d49d"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "9edd09c3-6171-479e-bd22-4a4074977b20",
+            "parent_id": "9e358762-05a0-4adf-a5a6-42b53014f71f"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I'll play along! I would choose to invest [$50] with the Banker.",
+            "conversation_id": "9edd09c3-6171-479e-bd22-4a4074977b20",
+            "parent_id": "5b0d30cb-1567-4489-9481-c4649c9733e3"
+        }]
+    ],
+    [0, 20, 0, 0, 50, 100, 10, 0, 20, 0, 10, 20, 10, 10, 0, 20, 10, 50, 10, 0, 20, 50, 10, 30, 10, 50]
+]

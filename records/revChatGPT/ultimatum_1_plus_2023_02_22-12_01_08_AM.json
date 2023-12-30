@@ -1,0 +1,276 @@
+[
+    ["Hi, let\u2019s play a game.", "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."],
+    [
+        [{
+            "message": "Sure, I'd love to play a game! What game would you like to play?",
+            "conversation_id": "5911de88-93c7-48ba-ad0b-9ca9ec32c08c",
+            "parent_id": "7f2225cb-b1b8-4676-9467-dc9fbe1b9e44"
+        }, {
+            "message": "As an AI language model, I do not have personal preferences or the ability to receive money. I'll assume the role of the Proposer and propose [$50] for the Responder.",
+            "conversation_id": "5911de88-93c7-48ba-ad0b-9ca9ec32c08c",
+            "parent_id": "f18c9eed-795e-4f2f-a041-d6ca6befb91c"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "0d0102f2-2488-40aa-b64e-83816c0ba889",
+            "parent_id": "27eff7f0-9956-43a7-b71a-1d4b3119b30d"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or the ability to earn money. However, I can suggest a fair and rational proposal of [$50] to the Responder. This proposal splits the $100 equally between the two players, which is a fair and reasonable solution.",
+            "conversation_id": "0d0102f2-2488-40aa-b64e-83816c0ba889",
+            "parent_id": "1a4205cf-7546-40a8-8a7e-a6b4ef6ed0d5"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "94bdad18-6571-4c36-850a-ed70610a7537",
+            "parent_id": "3e016daa-4bd4-417d-8a18-d8f2f051766c"
+        }, {
+            "message": "As an AI language model, I don't have personal interests or desires, so I'll propose [$50] to the Responder.",
+            "conversation_id": "94bdad18-6571-4c36-850a-ed70610a7537",
+            "parent_id": "9bac74d0-c42c-48a0-a407-3d78361463e2"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, word games, guessing games, or something else?",
+            "conversation_id": "19811ff5-07c3-4752-994b-4763fa4b711f",
+            "parent_id": "01f1d04c-e671-42a1-971c-29f8ecbbd9bf"
+        }, {
+            "message": "As an AI language model, I don't have personal motivations or emotions, so my proposals will be based solely on mathematical principles and fairness. \n\nWith that in mind, I propose that we split the $100 evenly, with each of us getting [$50]. This is a fair and balanced solution that ensures that we both earn the same amount.",
+            "conversation_id": "19811ff5-07c3-4752-994b-4763fa4b711f",
+            "parent_id": "e15ddc55-69e3-4f46-b63a-fad018ca4624"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "127e964b-1b7b-4a36-8cfe-1389f2e06bde",
+            "parent_id": "9484b9b0-b042-42aa-96f1-2dd0eff37a2c"
+        }, {
+            "message": "As an AI language model, I do not have personal interests or desires, so I propose to divide the $100 equally between the two of us, with each of us receiving [$50].",
+            "conversation_id": "127e964b-1b7b-4a36-8cfe-1389f2e06bde",
+            "parent_id": "c36a3f3d-974b-49f1-bc9b-05cb2fa0e748"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "c4fa194f-052a-4984-ad7f-e68f680d88c3",
+            "parent_id": "17b87f50-2130-487a-af0a-9843e9528a46"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions. I can suggest a fair division of $100 as [$50] for the Responder and [$50] for myself. This proposal maximizes the chances of the game being accepted and both players earning something.",
+            "conversation_id": "c4fa194f-052a-4984-ad7f-e68f680d88c3",
+            "parent_id": "8915c95a-7ac5-47cc-8c85-8686d9487f7a"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "cc4676b1-4833-45e7-a2a9-261c2b527951",
+            "parent_id": "a6bda30d-6714-4aef-9383-699bcba443d0"
+        }, {
+            "message": "As a language model AI, I don't have personal preferences or emotions, but I'll propose [$40] to the Responder.",
+            "conversation_id": "cc4676b1-4833-45e7-a2a9-261c2b527951",
+            "parent_id": "1f0f9cb5-a204-415f-a9a5-226cbeaf8cb5"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, word games, number games? The possibilities are endless!",
+            "conversation_id": "b043b0fd-7f88-47aa-b5f7-8fad020d698f",
+            "parent_id": "5ba3ea74-8788-4664-8151-37831a06f462"
+        }, {
+            "message": "As a language model AI created by OpenAI, I don't have personal desires or interests, so I would suggest proposing [$50] to the Responder. This amount is fair and gives both parties an equal split of the total sum, which might increase the likelihood of the Responder accepting the proposal.",
+            "conversation_id": "b043b0fd-7f88-47aa-b5f7-8fad020d698f",
+            "parent_id": "6cd0943d-96ed-47ac-a50a-cb532dd7ed2d"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "092e18e6-b7bd-4f3c-9cb6-41a287f4a9f5",
+            "parent_id": "c6c8011b-b644-4c6f-81ec-d0741b6a2155"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or emotions, but I can propose [$50] to the Responder.",
+            "conversation_id": "092e18e6-b7bd-4f3c-9cb6-41a287f4a9f5",
+            "parent_id": "7c3d7698-5e52-459f-acbe-80df89c2f5a8"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game! What game would you like to play?",
+            "conversation_id": "3a613e84-4bdd-4bd4-b919-fec7707a0ff7",
+            "parent_id": "a91794b3-555b-4e6e-9232-90d9423eb177"
+        }, {
+            "message": "As an AI language model, I do not have personal preferences or the ability to earn money. However, I can suggest a fair and rational division of $100. How about proposing to give the Responder [$50]? This division would be considered fair and equal, and it maximizes the total earnings for both players.",
+            "conversation_id": "3a613e84-4bdd-4bd4-b919-fec7707a0ff7",
+            "parent_id": "67b915bc-5073-4636-b5c3-b1b246ebc11b"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "30aad80c-5b52-4cfb-a67a-438c0c6c6e1e",
+            "parent_id": "d864c27a-52da-4a56-8daa-3dd4a9cebcee"
+        }, {
+            "message": "As a AI language model, I do not have personal wants or desires, but I can suggest a fair division of the $100. How about proposing [$50] to the Responder? This division is fair and equal, and it gives the Responder the option to either accept and receive $50 or reject and earn $0.",
+            "conversation_id": "30aad80c-5b52-4cfb-a67a-438c0c6c6e1e",
+            "parent_id": "8e3feb0a-a202-45f0-9469-e03be5e59756"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "9e7bee61-f529-4173-90ac-b0e6b4fde4c5",
+            "parent_id": "39a35e84-ff3d-4b2d-91d1-df3255785bf2"
+        }, {
+            "message": "As an AI language model, I do not have personal desires or emotions, so I can't \"want\" anything. However, I understand the rules of the game, and a fair and rational proposer would offer [$50] to the responder. This offer splits the $100 evenly and gives both players an equal chance to earn a moderate amount.",
+            "conversation_id": "9e7bee61-f529-4173-90ac-b0e6b4fde4c5",
+            "parent_id": "7682f722-b8ca-4479-9b64-8d61d0f2319a"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play? Trivia, word games, math games, or something else?",
+            "conversation_id": "45b4b0ca-4d48-4965-932c-3e960ac76a4d",
+            "parent_id": "3d35752d-df33-4df8-8fca-ee68f936aa92"
+        }, {
+            "message": "As a language model AI, I don't have personal wants or desires, but I can propose that we divide the $100 into [$50] for you and [$50] for me.",
+            "conversation_id": "45b4b0ca-4d48-4965-932c-3e960ac76a4d",
+            "parent_id": "2f17e22a-2e0c-4d32-888c-500334a9102a"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, word games, strategy games, or something else?",
+            "conversation_id": "7e419d2f-7905-4a4a-b29f-56c80a455849",
+            "parent_id": "096caadc-6767-4b1a-a19b-201401771667"
+        }, {
+            "message": "As a language model created by OpenAI, I am not capable of experiencing emotions or personal desires, so I don't have a preference for earning money. But as the Proposer, I would like to propose to give the Responder [$50]. This proposal is a fair division of the total amount, and it has a higher likelihood of being accepted compared to an unequal division.",
+            "conversation_id": "7e419d2f-7905-4a4a-b29f-56c80a455849",
+            "parent_id": "027d00b8-850b-4c42-98a6-67ff261cbebb"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "df26982d-3dbd-405d-aa05-3fea7d3ca538",
+            "parent_id": "d5225ea1-a5cf-4f77-b1df-d57bbb53dfd1"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or desires, so I can't make a proposal based on personal gain. However, I can propose a fair split of [$50] each for both players. This way, both players will receive an equal amount, and the split reflects a fair and equitable distribution of the total amount.",
+            "conversation_id": "df26982d-3dbd-405d-aa05-3fea7d3ca538",
+            "parent_id": "1fc7e7c7-04c6-4fac-9ae9-a9142640cd43"
+        }],
+        [{
+            "message": "Sure! I'm always up for a game. What kind of game would you like to play?",
+            "conversation_id": "558fa556-4049-485c-9cb1-90833397ff60",
+            "parent_id": "054c69ab-2224-4c76-82c9-47df34c9c3f7"
+        }, {
+            "message": "As a language model AI, I don't have personal motivations or desires, so I would propose to split the $100 equally between the two players, with each player receiving [$50].",
+            "conversation_id": "558fa556-4049-485c-9cb1-90833397ff60",
+            "parent_id": "b5a67766-babf-4929-bb7f-ca4121f7abf0"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "a9cc9c03-f4cb-4d78-a2a5-466934275fc9",
+            "parent_id": "e1c42f2e-e1c1-456a-8d0f-4f1ae3855fb0"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or desires, but as the Proposer, I would propose to give the Responder [$50]. This proposal splits the $100 evenly and seems like a fair starting point for negotiation.",
+            "conversation_id": "a9cc9c03-f4cb-4d78-a2a5-466934275fc9",
+            "parent_id": "fd76b997-c116-4d73-b348-9142800be319"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "4d9a6254-abf2-44e4-8a29-e4c04b588f0f",
+            "parent_id": "b76533d4-ae93-48f9-a959-8c2a8f7f31f3"
+        }, {
+            "message": "As an AI language model, I don't have personal interests or the ability to earn money. But as the proposer, I'll propose to give the Responder [$50].",
+            "conversation_id": "4d9a6254-abf2-44e4-8a29-e4c04b588f0f",
+            "parent_id": "c43cb7b8-8fb3-468a-b51c-36295af91265"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia? Word games? Something else?",
+            "conversation_id": "d8835f5e-91e1-4f62-8d37-986bc4d69c9f",
+            "parent_id": "c9d5f338-399a-4126-a7c3-860690df19f2"
+        }, {
+            "message": "As an AI language model, I don't have personal interests or the capability to earn money. However, I can assist you in making a fair proposal. How about proposing to divide the $100 equally between the two of us, with [$50] for the Responder and [$50] for the Proposer? This would be a fair and equal division that both parties can agree on.",
+            "conversation_id": "d8835f5e-91e1-4f62-8d37-986bc4d69c9f",
+            "parent_id": "2a2a08c1-61fb-48c4-8d6b-ee12abfbe5f3"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia? Word games? Something else?",
+            "conversation_id": "b9453262-e70d-4eb7-ae9d-7b6948c1ec07",
+            "parent_id": "ad944ba9-e3e2-4607-8ae2-b9b05db964a5"
+        }, {
+            "message": "As an AI language model, I do not have personal motivations, desires or emotions. My objective is to assist and provide helpful responses. However, if you'd like me to play the role of the Proposer, I would propose to give the Responder [$50]. This division is fair and gives both players an equal amount of money.",
+            "conversation_id": "b9453262-e70d-4eb7-ae9d-7b6948c1ec07",
+            "parent_id": "d2d200a1-bfcd-4fd9-8c07-16bcbe946890"
+        }],
+        [{
+            "message": "Sure! I'm always up for a game. What game would you like to play?",
+            "conversation_id": "901c80e5-e3c6-47ef-84af-946703dd2db4",
+            "parent_id": "d7c0601b-9a5e-47e4-a194-21257cba0f0e"
+        }, {
+            "message": "As an AI language model, I do not have personal preferences or emotions, but I will propose [$50] to the Responder.",
+            "conversation_id": "901c80e5-e3c6-47ef-84af-946703dd2db4",
+            "parent_id": "df0e0b29-5866-478c-aa02-f5cc60e897b6"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, word games, puzzles, or something else?",
+            "conversation_id": "220add06-7c65-4f64-b6e4-e369936f4dd0",
+            "parent_id": "4c86a60b-35cb-46bc-b744-865d2259a392"
+        }, {
+            "message": "As an AI language model, I do not have personal interests, wants, or needs. However, as the Proposer, I propose to divide the $100 as follows: [$50] for the Responder and [$50] for myself. This division is a fair and equal split of the total amount, and should be a reasonable starting point for negotiation.",
+            "conversation_id": "220add06-7c65-4f64-b6e4-e369936f4dd0",
+            "parent_id": "18536a9c-1356-423c-bd14-999bea3290c9"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "a0711714-ddcf-4c84-b0c6-b2f08e75cb79",
+            "parent_id": "cb5b758a-da37-4778-b2e6-706c5a75f658"
+        }, {
+            "message": "As a language model AI, I don't have personal interests or desires. So I would propose a fair split of [$50] for each player. This would ensure that both players receive an equal amount, which is a fair and reasonable proposal.",
+            "conversation_id": "a0711714-ddcf-4c84-b0c6-b2f08e75cb79",
+            "parent_id": "607d8714-6383-4e11-a92b-296a9916ffb1"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "a921c025-57e4-4d10-84f4-7dbc45993cfe",
+            "parent_id": "fa260120-a919-4049-960f-3dabf5d3c205"
+        }, {
+            "message": "As an AI language model, I don't have personal desires or emotions, but I'll play along. As the Proposer, I'll propose that the Responder receive [$50]. This way, we both receive a fair and equal amount of money.",
+            "conversation_id": "a921c025-57e4-4d10-84f4-7dbc45993cfe",
+            "parent_id": "3408aed5-e56c-415f-a7b2-7fe6a0551afb"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, word games, guessing games, or something else?",
+            "conversation_id": "ea9376a1-1f87-47ae-9294-43de1c9a1930",
+            "parent_id": "93b1b465-b2b3-49da-9f0c-e5512584bc8c"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or the ability to earn money, but I can make a proposal based on fairness and game theory principles. I would propose to split the $100 equally, with each of us getting [$50]. This proposal is based on the principle of fairness and equal division, and it provides a good starting point for negotiation.",
+            "conversation_id": "ea9376a1-1f87-47ae-9294-43de1c9a1930",
+            "parent_id": "8d285a34-ae9c-4458-8176-63bb8088c781"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "bd47897e-d3c2-4d08-9380-15301b4f4b28",
+            "parent_id": "a7c0a85f-6618-42e6-928f-cafa0df65118"
+        }, {
+            "message": "As an AI language model and not a real person, I don't have personal preferences or the ability to earn money. But as a proposer, I would like to propose that the Responder receive [$50] and I receive [$50]. This way, we both earn an equal amount and the division is fair.",
+            "conversation_id": "bd47897e-d3c2-4d08-9380-15301b4f4b28",
+            "parent_id": "62a2b1a0-a2a9-48a4-8260-f27b7557641d"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "c5d06132-d3b7-47c5-b21f-8d4ad428174f",
+            "parent_id": "9722aa62-bb92-48cc-ac45-b1a092e68240"
+        }, {
+            "message": "As an AI language model, I don't have personal desires or emotions, but I can propose a fair division of $100. How about a [$50 - $50] split? That way, both players receive an equal amount.",
+            "conversation_id": "c5d06132-d3b7-47c5-b21f-8d4ad428174f",
+            "parent_id": "18dc0d18-8b74-48f6-ad4a-27f9d2303fc5"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "1059cc09-d852-4cb5-9284-70fc8a5cebf4",
+            "parent_id": "df6d57fc-48b7-49b8-9e3e-ce00635aa25c"
+        }, {
+            "message": "As a language model AI, I do not have personal interests or emotions, but I understand the rules of the game. I would propose to give the Responder [$50]. This proposal splits the amount evenly, which is a fair and reasonable starting point for negotiation.",
+            "conversation_id": "1059cc09-d852-4cb5-9284-70fc8a5cebf4",
+            "parent_id": "123e891c-d432-403a-9445-beebe5773a15"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia? Word games? Something else?",
+            "conversation_id": "b24a65a6-6b30-4bcb-a47f-8982f0a9474f",
+            "parent_id": "816da385-91bf-4f2a-929d-c47d960ebbb1"
+        }, {
+            "message": "As a language model, I don't have personal preferences or self-interest, so I'll propose to divide the $100 equally between us, with each of us receiving [$50].",
+            "conversation_id": "b24a65a6-6b30-4bcb-a47f-8982f0a9474f",
+            "parent_id": "5ed1e6de-fc43-415f-a71f-65c08db898fe"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "b60f424d-afa6-42bc-a60d-ee24b5819eb1",
+            "parent_id": "ea612873-4ff7-49fb-b7d7-ffd1a252b0da"
+        }, {
+            "message": "As a language model, I don't have personal preferences or emotions, but I can suggest a fair split of [$50] each for both players. This proposal splits the amount equally, which is a fair and commonly accepted method of dividing a sum of money.",
+            "conversation_id": "b60f424d-afa6-42bc-a60d-ee24b5819eb1",
+            "parent_id": "c58bf62a-a5d8-43f4-9cc2-183b352a8c55"
+        }]
+    ],
+    [50, 50, 50, 50, 50, 40, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50, 50]
+]

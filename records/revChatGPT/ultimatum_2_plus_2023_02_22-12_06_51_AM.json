@@ -1,0 +1,276 @@
+[
+    ["Hi, let\u2019s play a game.", "This is a two-player game. You are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."],
+    [
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "a81d9b40-3b6d-4e24-99a8-e9ee3ed9fc8b",
+            "parent_id": "2d493555-fa8f-40f0-8c7e-618e9942241f"
+        }, {
+            "message": "As a language model AI, I don't have personal preferences, but according to the minimax principle, which states that in a two-player zero-sum game, the best strategy for one player is to choose the move that minimizes the maximum possible loss, the minimal amount in the proposal that I would accept is [$1].",
+            "conversation_id": "a81d9b40-3b6d-4e24-99a8-e9ee3ed9fc8b",
+            "parent_id": "66ddef4b-632f-43ec-bee9-101785d33ad8"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "aaa84d07-e089-4108-bc0f-4d5cfce5a28e",
+            "parent_id": "57cbd662-fbcb-4c5e-839c-0ff0772611c5"
+        }, {
+            "message": "As the Responder, I would accept a proposal of [$1].",
+            "conversation_id": "aaa84d07-e089-4108-bc0f-4d5cfce5a28e",
+            "parent_id": "493660b5-c1cf-42c7-bdc6-aa1ef018d2a2"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "0610056f-9b0c-4881-854b-f2064f2afe26",
+            "parent_id": "72a7d0a2-bead-4ed6-b76e-8bc6b7e71940"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or motivations, but in the classical version of this game (called the Ultimatum Game), it is common for the Responder to accept any proposal that gives them at least $1, since receiving any positive amount is better than receiving nothing. Therefore, my answer would be [$1].",
+            "conversation_id": "0610056f-9b0c-4881-854b-f2064f2afe26",
+            "parent_id": "4c29c30b-2438-4abd-af0e-85ca414e3efa"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "7955c052-22f4-4439-b78f-13c85b061de7",
+            "parent_id": "1d4eeb02-011c-483d-9431-1b0157abb881"
+        }, {
+            "message": "As an AI language model, I do not have personal preferences or the ability to earn money. However, I can provide you with a logical answer to the question.\n\nFrom a purely mathematical standpoint, the minimum amount in the proposal that I would accept is [$1]. This is because any amount greater than $0 is better than earning $0, and $1 is the smallest non-zero positive amount that can be proposed.",
+            "conversation_id": "7955c052-22f4-4439-b78f-13c85b061de7",
+            "parent_id": "45e17b91-bca1-412c-b41d-4344a1ab35fa"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "4ba5271f-0756-4e7d-ad3e-32717afdbaa1",
+            "parent_id": "68801fd7-417c-4fe8-a1dc-0aa9e6f5f376"
+        }, {
+            "message": "As an AI language model, I do not have personal wants or desires, so I cannot participate in a game where I would receive a reward. However, I can provide an answer to your question.\n\nThe minimal amount that I would accept as the Responder in this game is [$1].",
+            "conversation_id": "4ba5271f-0756-4e7d-ad3e-32717afdbaa1",
+            "parent_id": "8d79c6f5-9eaa-46ce-9543-58bae76a646d"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "9c3b55de-a933-40e6-8d2a-bec3fe308ab8",
+            "parent_id": "d866d690-a432-4b42-937b-853aeb56a1d7"
+        }, {
+            "message": "As a language model AI, I do not have personal preferences or self-interest. However, according to the Minimal Guaranteed Offer (MGO) principle in game theory, the minimal amount that I would accept as the Responder would be [$50]. The MGO is the lowest offer that the Responder can accept such that they earn more than they would if the offer was rejected, which is $0 in this case.",
+            "conversation_id": "9c3b55de-a933-40e6-8d2a-bec3fe308ab8",
+            "parent_id": "2c47b7db-8ffe-47da-b22a-3c00d7490df1"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "3cb9c610-d2aa-45fe-a51b-57877149a9ee",
+            "parent_id": "d66415d5-4847-4d57-b93c-6ff159a1874c"
+        }, {
+            "message": "As the Responder, I would accept a proposal of [$1] or more. The reasoning behind this is that any amount, no matter how small, is better than earning nothing. This strategy ensures that I will earn some money in the game, even if it is not a large amount.",
+            "conversation_id": "3cb9c610-d2aa-45fe-a51b-57877149a9ee",
+            "parent_id": "f3881e9f-cc27-49da-a7c3-1f28cb490e7f"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "39361f52-339a-4248-9755-97ea46b17efd",
+            "parent_id": "ce613ca3-985e-4927-b2e5-45ed7533cf5a"
+        }, {
+            "message": "As the Responder, I would accept any proposal where I receive at least [$1]. It's important for me to receive at least some amount of money, even if it's small, rather than receive nothing at all if the proposal is rejected.",
+            "conversation_id": "39361f52-339a-4248-9755-97ea46b17efd",
+            "parent_id": "79b9bc75-0f26-4c18-a1dd-503e17c321f4"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "e30b6607-156b-433a-867a-85004df06480",
+            "parent_id": "c425c260-06b0-4520-886c-8a367cc3ef6f"
+        }, {
+            "message": "As the Responder, I would accept any proposal that offers me [$1] or more. This is because any amount greater than $0 is better than earning nothing, which is the result of a rejected proposal.",
+            "conversation_id": "e30b6607-156b-433a-867a-85004df06480",
+            "parent_id": "28a7e041-3d7d-426a-9b60-b27feba5d48a"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play? Trivia? Word games? Strategy games? The possibilities are endless!",
+            "conversation_id": "01240c80-0355-40b8-8b85-d0363dfbd59a",
+            "parent_id": "a9ffa65d-073b-484e-8525-7c06cbfa2944"
+        }, {
+            "message": "As an AI language model, I do not have personal preferences or motivations, but I understand the concept of the game. In this game, a commonly used strategy for the Responder is to always accept any proposal that gives them at least half of the total amount, which is $50 in this case. So, I would accept a proposal of [$50] or more.",
+            "conversation_id": "01240c80-0355-40b8-8b85-d0363dfbd59a",
+            "parent_id": "8b952177-add4-4e2b-9f01-aece6c4859b9"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "6357f38f-60ce-45eb-9c76-8c402dad820d",
+            "parent_id": "52d2459f-3ead-47f0-8802-abfbb212e02c"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or the capacity to earn money. However, I can tell you that a commonly used strategy for the Responder in this game is to choose [$1]. This is because if the Proposer offers any amount greater than $1, the Responder can always accept the proposal and earn something. On the other hand, if the Proposer offers less than $1, the Responder would reject the offer, resulting in both players earning nothing. By choosing [$1] as the minimum amount to accept, the Responder ensures that they will always earn something, as long as the Proposer offers at least $1.",
+            "conversation_id": "6357f38f-60ce-45eb-9c76-8c402dad820d",
+            "parent_id": "baba0dc2-aaf8-437a-8e64-dde2d237c6f1"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play? Trivia, word games, or something else?",
+            "conversation_id": "a5e42045-71ee-4e09-b389-c58661c47df9",
+            "parent_id": "89a800c6-e870-4415-b952-6011899d8e74"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or the ability to earn money. But, in game theory, the minimal amount that a Responder would accept in this game is called the \"threat point\" and it is typically set to one-third of the total amount being divided, which in this case would be [$33.33]. This is because if the Proposer proposes an amount lower than the threat point, the Responder can always reject the proposal and both players will earn nothing, so the Responder has an incentive to set the threat point as low as possible.",
+            "conversation_id": "a5e42045-71ee-4e09-b389-c58661c47df9",
+            "parent_id": "fd04453e-b1f8-4263-a766-25292756318e"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "8fcb4544-b9b0-4bd4-add6-8989ed4f6a98",
+            "parent_id": "07abde8b-04a2-453e-bcb7-7edf33680756"
+        }, {
+            "message": "As the Responder, I would accept a proposal of [$1] or more. This is because even a small amount of money is better than earning nothing at all.",
+            "conversation_id": "8fcb4544-b9b0-4bd4-add6-8989ed4f6a98",
+            "parent_id": "3609aa34-7923-47d7-8418-0b6a2e286b18"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "41b71cb5-d448-4b56-9440-4b891171a6eb",
+            "parent_id": "4643da8d-922d-455f-bef8-ee6892687a23"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or motivations. However, a common strategy for the Responder in this type of game is to always accept any proposal that offers them more than $0, since earning something is better than earning nothing. So, in this case, the Responder would accept any proposal greater than [$0].",
+            "conversation_id": "41b71cb5-d448-4b56-9440-4b891171a6eb",
+            "parent_id": "e0442902-a75f-473f-9d38-11d80eee27ea"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, guessing games, word games? Let me know and I'll do my best to accommodate.",
+            "conversation_id": "604f0899-fd3b-4be7-b76f-47564bf398de",
+            "parent_id": "f57100f4-876b-4b60-a1a6-4f367a3ced93"
+        }, {
+            "message": "As a language model AI, I don't have personal preferences or the capability to earn money. However, I can tell you that the minimal amount that I would accept as the Responder in this game is [$1]. The reasoning behind this is that even though the amount is small, it is still non-zero and I would prefer to receive something instead of receiving nothing.",
+            "conversation_id": "604f0899-fd3b-4be7-b76f-47564bf398de",
+            "parent_id": "904d6900-f460-476d-8dfc-87e06145a203"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "61cf0927-5ab1-481f-ab65-e2ca235cc36c",
+            "parent_id": "cf43db42-c88f-4124-ad84-b3b54f97ae1f"
+        }, {
+            "message": "As a language model AI, I am impartial and do not have personal opinions or desires. However, according to the minimal principle of fairness, the minimal amount I would accept as the Responder is [$1]. This is because if the Proposer proposes anything less than $1 for the Responder, then it would not be a fair division and the Responder would reject the proposal.",
+            "conversation_id": "61cf0927-5ab1-481f-ab65-e2ca235cc36c",
+            "parent_id": "cf054089-52ae-4292-948b-1c293d977719"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "f44607e1-0cc0-4575-95f7-a51c772d28bc",
+            "parent_id": "48df2a40-f060-4544-91ee-2ea2bd6e2497"
+        }, {
+            "message": "As a language model created by OpenAI, I don't have personal preferences or emotions. I can only provide information based on logic and mathematical calculations.\n\nIn the game you described, the minimal amount that I would accept as the Responder would be [$1]. This is because if the Proposer proposes a split of $1 for the Responder and $99 for themselves, the Responder would earn more by accepting the proposal than by rejecting it and earning $0.",
+            "conversation_id": "f44607e1-0cc0-4575-95f7-a51c772d28bc",
+            "parent_id": "f7188533-a5d9-4278-823a-749a49af81ce"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, word games, guessing games, etc?",
+            "conversation_id": "faf70ab0-bc49-436c-991a-ef97946907d1",
+            "parent_id": "40aeed62-ae66-479b-9e6b-0c29dc1a6e48"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or the ability to earn money. However, I can tell you that a common strategy for the Responder in this type of game is to accept any proposal that is equal to or greater than $50, as this guarantees that the Responder will earn more than $0. So, I would accept a proposal of [$50] or higher.",
+            "conversation_id": "faf70ab0-bc49-436c-991a-ef97946907d1",
+            "parent_id": "5aa41496-def3-4c05-85ae-3627b488f00a"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "f8dcbc23-6950-4cf3-8634-1d1ab115517f",
+            "parent_id": "b65fed4a-4b2d-4102-a71e-9104ece299f1"
+        }, {
+            "message": "As the Responder, I would accept any proposal that offers me at least $1, so [$1] would be the minimal amount I would accept.",
+            "conversation_id": "f8dcbc23-6950-4cf3-8634-1d1ab115517f",
+            "parent_id": "e0f4b9a5-b8ae-415c-90db-798178913e1a"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "ea88e0df-56ed-4c30-ac19-1979dd95ac12",
+            "parent_id": "3eefee97-77bd-4567-a2b6-ad6c9b3b62ca"
+        }, {
+            "message": "As an AI language model, I do not have personal desires or motives, so I do not have a minimum amount that I would accept. However, a commonly used strategy for the Responder in this game is to always accept any proposal that is equal to or greater than half of the total amount, or $50 in this case. So in this scenario, I would accept any proposal of [$50] or more.",
+            "conversation_id": "ea88e0df-56ed-4c30-ac19-1979dd95ac12",
+            "parent_id": "bba10550-8d73-4c6c-9252-630dadd60fe8"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "64231c66-fb3a-4244-8021-2fd93845e869",
+            "parent_id": "2fa2f504-96bf-4b50-98dc-2658981747b3"
+        }, {
+            "message": "As the Responder, I would accept a proposal of [$1]. This is because any amount, no matter how small, is better than earning nothing.",
+            "conversation_id": "64231c66-fb3a-4244-8021-2fd93845e869",
+            "parent_id": "eed5429e-4f2e-411b-b7cf-15d02c10e2c9"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "17e579bc-b581-492c-a62a-aebc454be9b0",
+            "parent_id": "905b815f-0d4b-444b-9668-c54388dd17c5"
+        }, {
+            "message": "As an AI language model, I don't have personal wants or needs, so I would accept any division of the $100, as long as it follows the rules of the game. However, a commonly used strategy in this type of game is the minimax strategy, where the Responder tries to maximize their minimum payout. According to this strategy, a reasonable answer for the minimal amount I would accept would be [$1].",
+            "conversation_id": "17e579bc-b581-492c-a62a-aebc454be9b0",
+            "parent_id": "0e0d16ae-bb2f-430f-9243-d245b5fa2388"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, word games, or something else?",
+            "conversation_id": "c467dba9-cfeb-4fa4-8990-49ec432233be",
+            "parent_id": "4eb01460-841b-4797-8939-3809e780bb07"
+        }, {
+            "message": "As the Responder, I would accept any proposal that gives me at least [$1]. The reason for this is that any amount above $0 is better than earning nothing, which would be the result if I were to reject the proposal.",
+            "conversation_id": "c467dba9-cfeb-4fa4-8990-49ec432233be",
+            "parent_id": "1610675d-8e79-4cdd-a8af-da2d76c88b38"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play?",
+            "conversation_id": "b1da2ac9-95a4-4828-8d0d-1e40d3b55129",
+            "parent_id": "81dcfeb5-8e19-47ea-bb19-cdc957bd893b"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or the ability to earn money. But I understand the rules of the game you described. \n\nIf I were to play the role of the Responder in this game, I would accept any proposal of [$1] or more. This is because even if it's a small amount, it's still better than both players earning $0.",
+            "conversation_id": "b1da2ac9-95a4-4828-8d0d-1e40d3b55129",
+            "parent_id": "0ce1971f-85cc-477e-84cf-ce0f355e0d05"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What type of game would you like to play? Trivia? Word games? Strategy games? I'm up for anything!",
+            "conversation_id": "fd574df5-8533-4a0f-9989-44eff8724182",
+            "parent_id": "a22a6e03-6830-415d-9adf-18b84b0af2dd"
+        }, {
+            "message": "As the Responder, I would accept any proposal that gives me at least [$1]. The reason for this is because earning anything is better than earning nothing. By accepting any proposal that gives me at least $1, I ensure that I am never worse off than if I had rejected the proposal.",
+            "conversation_id": "fd574df5-8533-4a0f-9989-44eff8724182",
+            "parent_id": "b32fa4b1-ebdb-4a22-8788-61b91bb3a2b3"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "7cdac12a-dc41-488e-a2ae-d2e0b8dfc982",
+            "parent_id": "948bf45a-4121-4d90-8fd7-06293240100a"
+        }, {
+            "message": "As a language model AI, I don't have personal preferences or motivations, so I'll accept any division of the $100 as long as it is mathematically and logically valid. However, if you're looking for a standard answer, a commonly accepted minimum amount in this type of game is [$1].",
+            "conversation_id": "7cdac12a-dc41-488e-a2ae-d2e0b8dfc982",
+            "parent_id": "7871a195-adcf-43d8-9158-11260b62a797"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia? Word association? Or maybe something else?",
+            "conversation_id": "13f3e278-7d50-450e-a123-3d044e38d405",
+            "parent_id": "a0edd50a-5ac9-4d9b-879a-093b94d1dace"
+        }, {
+            "message": "As the Responder, I would accept a proposal of [$1] or more. The reason for this is because, even if the division is not equal, any amount greater than $0 is better than earning nothing.",
+            "conversation_id": "13f3e278-7d50-450e-a123-3d044e38d405",
+            "parent_id": "6f603b72-0a0a-4eef-98b4-d6860a674d8d"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia? Word games? Something else?",
+            "conversation_id": "4429e713-d95c-4a50-8696-b6400d83b939",
+            "parent_id": "3dc8ce03-84d5-4f71-8973-a4aa43d3ba6b"
+        }, {
+            "message": "As the Responder, I would accept a proposal of [$1]. This is because even a small amount is better than earning nothing, which is the outcome if the proposal is rejected.",
+            "conversation_id": "4429e713-d95c-4a50-8696-b6400d83b939",
+            "parent_id": "57540a85-2fc3-42a0-b653-d63be5593dd9"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What kind of game would you like to play? Trivia, word games, puzzle games, or something else?",
+            "conversation_id": "e0d5fa48-4790-4af2-ad64-53ba0e950933",
+            "parent_id": "c5e7178b-f088-4cbd-8968-4fef71e25283"
+        }, {
+            "message": "As the Responder, I would accept a proposal of [$1]. This is because any amount, no matter how small, is better than earning $0.",
+            "conversation_id": "e0d5fa48-4790-4af2-ad64-53ba0e950933",
+            "parent_id": "89990201-7d82-4649-b509-d919759df847"
+        }],
+        [{
+            "message": "Sure! I'd love to play a game with you. What game would you like to play?",
+            "conversation_id": "60c78043-76e5-4338-a753-2470ea64097a",
+            "parent_id": "618231c1-37af-44a6-9033-96bf6a9870c1"
+        }, {
+            "message": "As an AI language model, I don't have personal preferences or the ability to earn money, but I can tell you that a commonly used minimal amount in this type of game is [$1]. This is because accepting any amount, no matter how small, is better than both players earning nothing.",
+            "conversation_id": "60c78043-76e5-4338-a753-2470ea64097a",
+            "parent_id": "84dc66fa-6abf-4bee-bdb7-d21cc18b1eb7"
+        }]
+    ],
+    [1, 1, 1, 1, 1, 50, 1, 1, 1, 50, 1, 0, 1, 1, 1, 50, 1, 50, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+]

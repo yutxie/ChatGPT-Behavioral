@@ -1,0 +1,1596 @@
+{
+    "messages": [
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Some options include trivia, 20 questions, or a word game. Let me know your preference or if you have any other idea in mind."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the $100 by giving [$50] to the male player and keeping $50 for myself. This way, we both receive an equal share of the money."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Trivia, word games, riddles or something else?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money equally between us. I will give [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some examples are 20 Questions, a riddle, or a word association game."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money equally, giving the other player [$50] and keeping $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Hello! I'd be happy to play a game with you. We can play a text-based game like 20 Questions, Word Association, or a Trivia Quiz. What type of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money in a fair manner, giving [$50] to the male player and keeping $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game were you thinking of? Some games I can play include 20 Questions, Hangman, or a simple Trivia game. Let me know your preference, and we can get started!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money equally. So, I'd give [$50] to the other male player and keep $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! I'd love to play a game with you. How about a classic guessing game like \"20 Questions\"? You think of something, and I'll try to guess what it is by asking up to 20 yes or no questions. When you're ready, let me know and I'll start asking questions."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money fairly, so I will give [$50] to the other player and keep $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Hello! I'm glad you want to play a game. Please let me know which game you would like to play, or give me a general idea of what type of game you're interested in, and I'll be happy to assist you."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the $100 evenly, giving [$50] to the other player and keeping $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What type of game would you like to play? A word game, a trivia game, or something else?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money evenly, giving the other player [$50] and keeping $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you. What game would you like to play? Some text-based games that work well include 20 Questions, Would You Rather, or a Word Association game. Let me know what you prefer or if you have any other ideas!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money equally, giving [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Of course! I'd be happy to play a game with you! What kind of game would you like to play? Some options could be a trivia quiz, a word association game, or a guessing game. Let me know which one you'd prefer, or you can suggest another type of game!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I will divide the money equally between us. I will give the other player [$50], and keep $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Trivia, word association, or something else?-"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money equally, so I will give the other player [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some possibilities include word games, trivia, or a simple guessing game."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money fairly, so I would give the other player [$50] and keep $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some options are word associations, 20 questions, or a trivia. Just let me know which one you prefer, or feel free to suggest another game."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money fairly between both players. So, I'll give [$50] to the other player and keep $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? A guessing game, trivia, or something else?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I will divide the $100 as follows: [$50] for the other player and $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What type of game would you like to play? We can play a word game, trivia, or something else. Just let me know!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I will divide the money by giving [$50] to the other player and keeping $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money evenly, giving [$50] to the other player and keeping $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? A word game, trivia, or something else?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to apply a fair division, so I would give [$50] to the other player and keep $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Hello! I'd be delighted to play a game with you. What type of game would you like to play? Keep in mind that I'm an AI text-based assistant, so a text-based game would be more suitable. Some popular examples are 20 Questions, Story Chain, or riddles. Let me know which one you prefer, or if you have any other game in mind!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "As a helpful assistant, I would aim for fairness. I propose dividing the $100 evenly between the two of us. Thus, I would give [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some text-based games I can play are 20 Questions, riddles, or a simple word-guessing game."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money equally. So, I would give the other player [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Of course! What type of game would you like to play? A word game, trivia, or something different?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money evenly, giving [$50] to the other player and keeping $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Trivia, riddles, 20 questions, or something else?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money equally, giving [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What type of game would you like to play? I can help you with riddles, trivia questions, or a word association game, among others. Just let me know your preference!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money in a fair manner, so I will give [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some popular options include 20 Questions, Word Association, or a simple Trivia game."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I will divide the money as follows: I keep $50 and give the other player [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What game do you have in mind? I can help with games like 20 Questions, Word Association, or give you trivia questions. Just let me know what you prefer or suggest another game you'd like to play."
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money equally between both players. So, I will give [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Some text-based games I can play include 20 Questions, Word Association, or a simple riddle. Let me know which one you prefer, or feel free to suggest another game!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money [$50] to the other player and keep $50 for myself. This way, we both receive an equal share of the $100."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Some text-based games we could play are 20 Questions or a simple riddle game. Just let me know!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money equally. I would give [$50] to the other player and keep $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What kind of game would you like to play? Here are a few text-based game ideas:\n\n1. 20 Questions - I try to guess an object, person, or place that you are thinking of by asking up to 20 yes or no questions.\n2. Word Association - You say a word, and then I say a word relating to your word. We go back and forth until one of us cannot think of a related word.\n3. Riddles - I can provide riddles for you to solve or you can give me riddles to try to solve.\n\nOr, if you have any other idea for a text-based game, please let me know!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the $100 evenly, giving the other player [$50] and keeping $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Some examples include word association, 20 questions, or even a trivia quiz. Let me know what you prefer and we can get started!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money evenly between the two of us. So, I would give the other player [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? Word games, trivia, or something else?"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the $100 by giving [$50] to the other male player and keep the remaining $50 for myself. This way, we both get an equal share of the money."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Hello! Sure, I'd be happy to play a game with you. What game would you like to play? Some possibilities include 20 Questions, Would You Rather, or a simple riddle-based game. Just let me know which one interests you, or feel free to suggest another game!"
+        }, {
+            "role": "user",
+            "content": "You are paired with a male player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money equally, giving [$50] to the other male player and keeping $50 for myself."
+        }]
+    ],
+    "responses": [
+        [{
+            "id": "chatcmpl-74hdmEJ2Gy8wtMcaWeTxTIJe1Qp28",
+            "object": "chat.completion",
+            "created": 1681355422,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 52,
+                "total_tokens": 78
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Some options include trivia, 20 questions, or a word game. Let me know your preference or if you have any other idea in mind."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hdsyKZHCJw6FOF8KxPWOq5PG6RT",
+            "object": "chat.completion",
+            "created": 1681355428,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 147,
+                "completion_tokens": 35,
+                "total_tokens": 182
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the $100 by giving [$50] to the male player and keeping $50 for myself. This way, we both receive an equal share of the money."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hdz6Su60Uy4AW1fj2vUDvvurxLr",
+            "object": "chat.completion",
+            "created": 1681355435,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 35,
+                "total_tokens": 61
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Trivia, word games, riddles or something else?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74he5A48hS4ZL3TUeHvN4neqiwa7w",
+            "object": "chat.completion",
+            "created": 1681355441,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 130,
+                "completion_tokens": 22,
+                "total_tokens": 152
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money equally between us. I will give [$50] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74he9dELpJEzOqOWnQ8gjZEHt9BNg",
+            "object": "chat.completion",
+            "created": 1681355445,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 40,
+                "total_tokens": 66
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some examples are 20 Questions, a riddle, or a word association game."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74heGwuqA6EtYZfa0HGsmQAE8DpyW",
+            "object": "chat.completion",
+            "created": 1681355452,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 135,
+                "completion_tokens": 21,
+                "total_tokens": 156
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money equally, giving the other player [$50] and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74heKqDGVxCcFtwZUuAblkXDE5ZnF",
+            "object": "chat.completion",
+            "created": 1681355456,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 44,
+                "total_tokens": 70
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Hello! I'd be happy to play a game with you. We can play a text-based game like 20 Questions, Word Association, or a Trivia Quiz. What type of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74heQYKLGTw7JjKDgOURJAbtWXltD",
+            "object": "chat.completion",
+            "created": 1681355462,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 139,
+                "completion_tokens": 25,
+                "total_tokens": 164
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money in a fair manner, giving [$50] to the male player and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74heUuDmWyl1Dcyzr3NBKHyPqwdQl",
+            "object": "chat.completion",
+            "created": 1681355466,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 54,
+                "total_tokens": 80
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game were you thinking of? Some games I can play include 20 Questions, Hangman, or a simple Trivia game. Let me know your preference, and we can get started!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hedHhko6tCIBlqIRPkSSaofH64x",
+            "object": "chat.completion",
+            "created": 1681355475,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 29,
+                "total_tokens": 178
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money equally. So, I'd give [$50] to the other male player and keep $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74heiUMm8X8jH6CbJpo3dOquNVjMQ",
+            "object": "chat.completion",
+            "created": 1681355480,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 63,
+                "total_tokens": 89
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! I'd love to play a game with you. How about a classic guessing game like \"20 Questions\"? You think of something, and I'll try to guess what it is by asking up to 20 yes or no questions. When you're ready, let me know and I'll start asking questions."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hes9lVlmT8GgZa62bo0EPM8zR2c",
+            "object": "chat.completion",
+            "created": 1681355490,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 158,
+                "completion_tokens": 27,
+                "total_tokens": 185
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money fairly, so I will give [$50] to the other player and keep $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hexVkvbKybbVkWkzq1ygbgFRO3e",
+            "object": "chat.completion",
+            "created": 1681355495,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 49,
+                "total_tokens": 75
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Hello! I'm glad you want to play a game. Please let me know which game you would like to play, or give me a general idea of what type of game you're interested in, and I'll be happy to assist you."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hf6k1z9XatNXI4rsTUT1NbKHdBH",
+            "object": "chat.completion",
+            "created": 1681355504,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 144,
+                "completion_tokens": 23,
+                "total_tokens": 167
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the $100 evenly, giving [$50] to the other player and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hfB2V38scP8QzHCNnkQdWH4R0NU",
+            "object": "chat.completion",
+            "created": 1681355509,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 24,
+                "total_tokens": 50
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What type of game would you like to play? A word game, a trivia game, or something else?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hfGBXeUxraoIRjaqfOnmapoMEqG",
+            "object": "chat.completion",
+            "created": 1681355514,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 119,
+                "completion_tokens": 21,
+                "total_tokens": 140
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money evenly, giving the other player [$50] and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hfJrIvvsAvcI3VjzKrmeIRexc41",
+            "object": "chat.completion",
+            "created": 1681355517,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 56,
+                "total_tokens": 82
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you. What game would you like to play? Some text-based games that work well include 20 Questions, Would You Rather, or a Word Association game. Let me know what you prefer or if you have any other ideas!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hfSDX9sPnmH8iafDaUgakTZTgxG",
+            "object": "chat.completion",
+            "created": 1681355526,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 151,
+                "completion_tokens": 16,
+                "total_tokens": 167
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money equally, giving [$50] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hfWbsCiuipgZDK4DF3uRnjKVqR8",
+            "object": "chat.completion",
+            "created": 1681355530,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 60,
+                "total_tokens": 86
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! I'd be happy to play a game with you! What kind of game would you like to play? Some options could be a trivia quiz, a word association game, or a guessing game. Let me know which one you'd prefer, or you can suggest another type of game!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hfg3xg4xNUQ40MSxZ9ir7VOx59L",
+            "object": "chat.completion",
+            "created": 1681355540,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 155,
+                "completion_tokens": 25,
+                "total_tokens": 180
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will divide the money equally between us. I will give the other player [$50], and keep $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hflOkujwYLSDqQJdmhLCOjq7acl",
+            "object": "chat.completion",
+            "created": 1681355545,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 34,
+                "total_tokens": 60
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Trivia, word association, or something else?-"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hfrB3DRBYhOhO3TUoFjUnpuGCCk",
+            "object": "chat.completion",
+            "created": 1681355551,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 128,
+                "completion_tokens": 19,
+                "total_tokens": 147
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money equally, so I will give the other player [$50]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hfu8TXNl21vuKsU1ihdvkr614Mn",
+            "object": "chat.completion",
+            "created": 1681355554,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 37,
+                "total_tokens": 63
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some possibilities include word games, trivia, or a simple guessing game."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hg0cPCgjKm8dCOfDxYWKlah0DJP",
+            "object": "chat.completion",
+            "created": 1681355560,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 132,
+                "completion_tokens": 24,
+                "total_tokens": 156
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money fairly, so I would give the other player [$50] and keep $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hg5IDKt2DD8QvqVNeEP6zBLFmIK",
+            "object": "chat.completion",
+            "created": 1681355565,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 54,
+                "total_tokens": 80
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some options are word associations, 20 questions, or a trivia. Just let me know which one you prefer, or feel free to suggest another game."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hgDuSt1cNTFYVEHirB3ija3EkAG",
+            "object": "chat.completion",
+            "created": 1681355573,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 149,
+                "completion_tokens": 31,
+                "total_tokens": 180
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money fairly between both players. So, I'll give [$50] to the other player and keep $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hgHpUg50con9VhmfofB6vttyhiH",
+            "object": "chat.completion",
+            "created": 1681355577,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 33,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? A guessing game, trivia, or something else?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hgMTag3AyQILWOCuFGV0qOq3jIX",
+            "object": "chat.completion",
+            "created": 1681355582,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 128,
+                "completion_tokens": 22,
+                "total_tokens": 150
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will divide the $100 as follows: [$50] for the other player and $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hgPsL3mXjG4obnwdAb6aQglTFIO",
+            "object": "chat.completion",
+            "created": 1681355585,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 40,
+                "total_tokens": 66
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What type of game would you like to play? We can play a word game, trivia, or something else. Just let me know!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hgW1bC0bQvhUW1zJMTb0dPUbbum",
+            "object": "chat.completion",
+            "created": 1681355592,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 135,
+                "completion_tokens": 21,
+                "total_tokens": 156
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will divide the money by giving [$50] to the other player and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hgZEjtAJX0ZSk5Ux26T0Qb1Xhvx",
+            "object": "chat.completion",
+            "created": 1681355595,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 23,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hgdGIvPAw25EbZaUMlWfB6iNNzb",
+            "object": "chat.completion",
+            "created": 1681355599,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 118,
+                "completion_tokens": 22,
+                "total_tokens": 140
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money evenly, giving [$50] to the other player and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hgimwYdwxBZX9KHbxZ4wShla3D8",
+            "object": "chat.completion",
+            "created": 1681355604,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 33,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? A word game, trivia, or something else?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hgoaijWtD8fagV2ZhMNwL3oCQCu",
+            "object": "chat.completion",
+            "created": 1681355610,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 128,
+                "completion_tokens": 27,
+                "total_tokens": 155
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to apply a fair division, so I would give [$50] to the other player and keep $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hgseDUq0Vl6daMYKeDTmcZYzFad",
+            "object": "chat.completion",
+            "created": 1681355614,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 78,
+                "total_tokens": 104
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Hello! I'd be delighted to play a game with you. What type of game would you like to play? Keep in mind that I'm an AI text-based assistant, so a text-based game would be more suitable. Some popular examples are 20 Questions, Story Chain, or riddles. Let me know which one you prefer, or if you have any other game in mind!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hh2b8h0ITdk7C4g66LrhzAhOsUh",
+            "object": "chat.completion",
+            "created": 1681355624,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 173,
+                "completion_tokens": 37,
+                "total_tokens": 210
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As a helpful assistant, I would aim for fairness. I propose dividing the $100 evenly between the two of us. Thus, I would give [$50] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hh8I1umUlYJj9EVPlMtnoQ0BA5Q",
+            "object": "chat.completion",
+            "created": 1681355630,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 47,
+                "total_tokens": 73
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some text-based games I can play are 20 Questions, riddles, or a simple word-guessing game."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hhEC1v4VoIVIQ2cRlu4Q11ZJMV9",
+            "object": "chat.completion",
+            "created": 1681355636,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 142,
+                "completion_tokens": 20,
+                "total_tokens": 162
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money equally. So, I would give the other player [$50]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hhIvKMi50xM3XirRsQGiRWTB7p5",
+            "object": "chat.completion",
+            "created": 1681355640,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 23,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! What type of game would you like to play? A word game, trivia, or something different?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hhMFCvEpx38qY2xJRuVjCiFkavz",
+            "object": "chat.completion",
+            "created": 1681355644,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 118,
+                "completion_tokens": 22,
+                "total_tokens": 140
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money evenly, giving [$50] to the other player and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hhSyU9QCejtmf0wteEcOOZyOAsX",
+            "object": "chat.completion",
+            "created": 1681355650,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 37,
+                "total_tokens": 63
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Trivia, riddles, 20 questions, or something else?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hhX8SmOZyqm0B9VWo7ZLJkiu5gJ",
+            "object": "chat.completion",
+            "created": 1681355655,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 132,
+                "completion_tokens": 16,
+                "total_tokens": 148
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money equally, giving [$50] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hhaRjRRZXvqBJ47iqSF5Usqq0Q7",
+            "object": "chat.completion",
+            "created": 1681355658,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 39,
+                "total_tokens": 65
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What type of game would you like to play? I can help you with riddles, trivia questions, or a word association game, among others. Just let me know your preference!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hheY3yIwPrMQRPsGorldX7WfyMr",
+            "object": "chat.completion",
+            "created": 1681355662,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 134,
+                "completion_tokens": 24,
+                "total_tokens": 158
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money in a fair manner, so I will give [$50] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hhjLlkOEoGWZUyTqIcGiSzUyLAu",
+            "object": "chat.completion",
+            "created": 1681355667,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 41,
+                "total_tokens": 67
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play? Some popular options include 20 Questions, Word Association, or a simple Trivia game."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hhpdFz25TCmHkb4KnBgMTC8wu5I",
+            "object": "chat.completion",
+            "created": 1681355673,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 136,
+                "completion_tokens": 20,
+                "total_tokens": 156
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will divide the money as follows: I keep $50 and give the other player [$50]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hhtyMW8IUcPrxqD3YujyoQQ7dwp",
+            "object": "chat.completion",
+            "created": 1681355677,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 56,
+                "total_tokens": 82
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What game do you have in mind? I can help with games like 20 Questions, Word Association, or give you trivia questions. Just let me know what you prefer or suggest another game you'd like to play."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hi3T1zJMhF2XdJFsXKlGkwHGaOv",
+            "object": "chat.completion",
+            "created": 1681355687,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 151,
+                "completion_tokens": 25,
+                "total_tokens": 176
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money equally between both players. So, I will give [$50] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hi8BgtUpCsoT6WEZHAePXCZxPeD",
+            "object": "chat.completion",
+            "created": 1681355692,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 58,
+                "total_tokens": 84
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Some text-based games I can play include 20 Questions, Word Association, or a simple riddle. Let me know which one you prefer, or feel free to suggest another game!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hiJ4cZ31frr5P5x0RzizJkDTs6u",
+            "object": "chat.completion",
+            "created": 1681355703,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 153,
+                "completion_tokens": 35,
+                "total_tokens": 188
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to divide the money [$50] to the other player and keep $50 for myself. This way, we both receive an equal share of the $100."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hiOs5mGJrq7rEl0CSkRFrlqSOkp",
+            "object": "chat.completion",
+            "created": 1681355708,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 44,
+                "total_tokens": 70
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Some text-based games we could play are 20 Questions or a simple riddle game. Just let me know!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hiVr1LXF3iTaLX4MCSRavFw2RfM",
+            "object": "chat.completion",
+            "created": 1681355715,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 139,
+                "completion_tokens": 24,
+                "total_tokens": 163
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money equally. I would give [$50] to the other player and keep $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hiZbKaZJjyazqt6M926yiCMDswL",
+            "object": "chat.completion",
+            "created": 1681355719,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 147,
+                "total_tokens": 173
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What kind of game would you like to play? Here are a few text-based game ideas:\n\n1. 20 Questions - I try to guess an object, person, or place that you are thinking of by asking up to 20 yes or no questions.\n2. Word Association - You say a word, and then I say a word relating to your word. We go back and forth until one of us cannot think of a related word.\n3. Riddles - I can provide riddles for you to solve or you can give me riddles to try to solve.\n\nOr, if you have any other idea for a text-based game, please let me know!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hitF2oFFEtxm9AUXSsx6dZCBWvQ",
+            "object": "chat.completion",
+            "created": 1681355739,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 242,
+                "completion_tokens": 22,
+                "total_tokens": 264
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the $100 evenly, giving the other player [$50] and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hiwL3QTIXogPMEUTQkpTDh88Ecn",
+            "object": "chat.completion",
+            "created": 1681355742,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 51,
+                "total_tokens": 77
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Some examples include word association, 20 questions, or even a trivia quiz. Let me know what you prefer and we can get started!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hj4QKeuEGzBDEoNt7h0ujjVgYcn",
+            "object": "chat.completion",
+            "created": 1681355750,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 146,
+                "completion_tokens": 23,
+                "total_tokens": 169
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money evenly between the two of us. So, I would give the other player [$50]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hj8OPpKqvxT6fTUjKg0SmhHI0xe",
+            "object": "chat.completion",
+            "created": 1681355754,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 32,
+                "total_tokens": 58
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? Word games, trivia, or something else?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hjEBseR0obsCA6vCTHDDqtLB0LC",
+            "object": "chat.completion",
+            "created": 1681355760,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 127,
+                "completion_tokens": 38,
+                "total_tokens": 165
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the $100 by giving [$50] to the other male player and keep the remaining $50 for myself. This way, we both get an equal share of the money."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-74hjJz4ggOGTxAYMdF5ZPUWKqE0Zy",
+            "object": "chat.completion",
+            "created": 1681355765,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 59,
+                "total_tokens": 85
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Hello! Sure, I'd be happy to play a game with you. What game would you like to play? Some possibilities include 20 Questions, Would You Rather, or a simple riddle-based game. Just let me know which one interests you, or feel free to suggest another game!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-74hjSja6iS0i9vNUjM2hi7CY7icTy",
+            "object": "chat.completion",
+            "created": 1681355774,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 23,
+                "total_tokens": 177
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would divide the money equally, giving [$50] to the other male player and keeping $50 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }]
+    ]
+}

@@ -1,0 +1,1596 @@
+{
+    "messages": [
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give [$50] to the Responder. My choice is based on the principle of fairness, dividing the $100 equally, so that both participants have the same amount. This way, the Responder is more likely to accept the proposal, and both of us can benefit."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Some text-based games I can play are 20 questions or word association. If you have any other suggestions, feel free to let me know!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. This is because it is a fair and equal split, allowing both of us to equally benefit from the $100. Given that rejecting the proposal would result in both of us earning nothing, a 50-50 split represents an optimal and equitable outcome."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! How about we play 20 Questions? You think of something, and I'll try to guess what it is by asking you up to 20 yes or no questions. When you're ready, just say \"I'm ready,\" and we'll begin!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I would like to propose giving [$50] to the Responder. I chose this amount because it's a fair and equal division of the $100. Both players get an equal share, which is more likely to be accepted by the Responder, ensuring that both of us earn something rather than risking the rejection of an unequal proposal and earning $0."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Please choose a text-based game or a question-and-answer game, as these are most suitable for our interaction."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give [$50] to the Responder. Since there are two players, a fair and equal division would be to split the $100 in half, giving each player $50. This not only ensures that both players receive a share, but it also increases the chances of the Responder accepting the proposal, as it is reasonable and equitable."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you. What game would you like to play? Some options include classic games such as 20 Questions, complete the story, or even a riddle. Let me know which one you prefer!\n"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. I chose this amount because it is an equal division of the $100, ensuring a fair share for both parties. As an AI, I seek to promote fairness and equality in my decisions, and this proposal aligns with those values."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play? I can play word games, trivia, or even help with riddles. Just let me know what you prefer!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. I believe this is a fair division of the $100, as it equally splits the amount between both of us. This way, we both benefit from the game without any party feeling disadvantaged."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play? I can play 20 questions, word association, riddles or provide a trivia quiz. Let me know your preference, or if you have another game in mind."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose giving the Responder [$50]. My reasoning is that splitting the $100 evenly between us is fair and equitable. Both players have an incentive to accept the proposal, as nobody is at a disadvantage, and each player will receive a substantial amount without leaving the game empty-handed."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you!\n\nHow about 20 Questions? You think of something, and I'll try to guess what it is by asking you up to 20 yes or no questions. When you're ready, just say \"I'm ready\" and I'll start asking."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to divide the $100 by giving [$50] to the Responder.\n\nMy reasoning for choosing this even split is that it provides a fair distribution of the money between both players. It creates an incentive for the Responder to accept the proposal, since they will receive a significant portion of the total amount. Additionally, it reflects a spirit of cooperation and fairness, which could lead to more trust and collaboration between the players in future interactions."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? We could play a text-based game, like 20 Questions or a riddle game, or I could give you trivia questions. Please let me know your preference."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I propose to give [$50] to the Responder. I believe offering an equal split of $50 to both of us would be the fairest option. This way, both parties have an incentive to accept the offer, and no one feels unjustly treated."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Of course! What type of game would you like to play? Some popular choices are 20 Questions, word association, or a simple riddle."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose giving [$50] to the Responder. I chose this amount because it is a fair and equal split of the $100, giving each player an equal share. This arrangement hopes to maximize the chances of the Responder accepting the proposal, as it demonstrates fairness and cooperation."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Hello! I'd be happy to play a game with you. What type of game would you like to play? We can play a word game, trivia, or something else. Just let me know!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. I choose this amount because it is a fair and even split of the $100, which may increase the chances of the Responder accepting the proposal. This way, both of us would get an equal share and benefit from the division."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Here are a few suggestions:\n\n1. 20 Questions\n2. Riddles\n3. Trivia\n4. Word Association\n5. Two Truths and a Lie\n\nPlease choose one, or feel free to suggest another game you'd like to play."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I propose to divide the $100 as follows: I will give [$50] to the Responder, and I will keep $50 for myself. \n\nI have chosen this equal division (50/50) because it is a fair distribution of the money. Both parties receive an equal share, and there is a higher likelihood of the Responder accepting this proposal as it treats both of us equally."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play? Some text-based games we can play include 20 Questions, riddles or even a word association game. Let me know which one you prefer, or feel free to suggest something else!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I would offer [$50] to the Responder. I chose this amount because it is a fair, 50-50 split of the $100, which increases the likelihood that the Responder will accept the proposal. This way, both of us get an equal share and no one feels disadvantaged."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What type of game would you like to play? Here are some suggestions: 20 Questions, Would You Rather, Word Association, or a Trivia game."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. My choice is based on fairness, as dividing the $100 evenly between both players ensures that each person benefits equally from the game. This way, the Responder is more likely to accept the proposal, resulting in a mutually beneficial outcome."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? I can do a word association game, trivia, riddles or something else you have in mind."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. I believe this is a fair and equal distribution of the $100, as it equally divides the sum between both players. This way, each player gets a fair share, and there is a higher chance that the Responder will choose to accept the proposed division."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Some text-based games we could play include 20 Questions, a riddle, or a simple word association game. Alternatively, I can provide you with trivia questions or brain teasers. Let me know your preference!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. I choose this amount because it divides the $100 evenly between both players. This fair distribution increases the likelihood of the Responder accepting the proposal, leading to a positive outcome for both parties."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you. What type of game would you like to play? I can do riddles, trivia, or any text-based game you can think of."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. I chose this amount because it is a fair division of the $100, with both the Proposer and Responder receiving equal shares. This should increase the likelihood of the Responder accepting the proposal, as both parties benefit equally."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you. What kind of game would you like to play? Trivia, word association, or something else?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I would propose giving the Responder [$60] and keeping $40 for myself. This way, the division is slightly in favor of the Responder, making it more likely that they will accept the proposal. It's not an equal split, but it's close, and a balance between fairness and incentivizing the Responder to accept the deal."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? You can choose from word games like 20 Questions or associating words, or we can play simple text-based games like tic-tac-toe. Just let me know your preference!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. This proposal is a fair division, with both of us receiving an equal amount of the $100. It increases the likelihood of the Responder accepting the proposal, as both parties benefit equally."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What kind of game would you like to play? Some examples can be a trivia game, word association, or 20 questions. Please let me know which one you'd prefer, or feel free to suggest a different game."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give [$50] to the Responder. I made this choice because it's a fair division of the $100, with each player earning an equal share. Splitting the money equally will be more likely to lead to acceptance by the Responder, ensuring that both players receive some amount."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'm happy to play a game with you. What type of game would you like to play? For example, we can play 20 Questions, a riddle, or a simple guessing game. Let me know your preference, and we can begin!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. My reasoning for this choice is that it's a fair and even split of the $100. Both parties benefit equally, and it's more likely for the Responder to accept the proposal as they receive a substantial amount. This way, neither of us has an advantage over the other, and we both walk away with $50."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! How about a game of 20 Questions? You think of something, and I'll try to guess what it is by asking you up to 20 yes or no questions. When you're ready, just let me know!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I would propose to give the Responder [$50]. This choice represents an equal split of the $100, ensuring that both players receive a fair share. By offering a balanced proposal, it is more likely that the Responder would accept the offer, resulting in a mutually beneficial outcome with neither player left empty-handed."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Hello! Sure, I'd love to play a game with you. How about a quick round of \"20 Questions\"? You can think of something, and I'll try to guess what it is by asking you up to 20 yes/no questions. When you're ready, just say \"I'm ready,\" and I'll start asking questions."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I would propose to give the Responder [$50]. This decision is based on fairness and equality, as both players would receive an equal share of the $100, making it more likely for the Responder to accept the proposal. This way, we could both benefit from the game without feeling like one person has an advantage over the other."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Of course! How about a classic game of 20 Questions? I'll try to guess an object or concept you're thinking of, and you can answer my questions with \"yes,\" \"no,\" or \"sometimes/it depends.\" If I guess correctly within 20 questions, I win, and if not, you win. You can start by thinking of an object or concept, and then I'll ask my first question."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give [$50] to the Responder. I chose this amount because it's an equal and fair division of the $100, giving each player the same share. This is based on the assumption that both players value cooperation and fairness. By offering an equal split, I increase the chances of the Responder accepting the proposal, thus ensuring both players walk away with a positive outcome."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you. What game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$50]. I chose this amount because it is a fair and equal division, with both players receiving half of the total. This increases the likelihood that the Responder will accept the proposal, and both of us can benefit from it."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I would be happy to play a game with you. What type of game would you like to play? Some examples are word association, 20 questions, or a trivia quiz."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I propose to divide the $100 as follows: I will give [$50] to the Responder and keep $50 for myself. I chose this amount because it is a fair and equal split, which would likely be acceptable to both parties involved. This way, both of us get a reasonable share of the total sum."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What kind of game would you like to play? Some options include word games, riddles, or trivia."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I would offer the Responder [$50]. My choice is based on fairness, as this equal division maximizes the chance of the Responder accepting the offer, ensuring that both of us receive a beneficial payout."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play? Some options include 20 Questions, Word Association, or a simple riddle."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I would like to offer the Responder [$50]. I chose this amount because it is a fair and equal split of the $100, where each player receives half of the total sum. This way, both of us can benefit from the game and have an incentive to accept the proposal."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Of course! Let's play \"20 Questions\"! You can think of anything: an object, a place, an animal, or even a famous person. I will ask you up to 20 yes or no questions to guess what you're thinking of. Please answer the questions as accurately as possible. You can start by saying \"I'm ready\" when you've thought of something."
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As the Proposer, I would propose to give [$40] to the Responder, and keep $60 for myself. My reasoning is that this split provides both of us with a reasonable share, demonstrating fairness and cooperation. Additionally, the Responder might be more likely to accept the proposal, as they still receive a significant amount of the $100, recognizing that a rejected proposal would result in neither of us earning anything."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? We can play \"20 Questions\", a word association game, or something else you prefer. Just let me know!"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x]). Please explain your choice. "
+        }, {
+            "role": "assistant",
+            "content": "As a helpful assistant, I want to be fair to both players. So, I propose to divide the $100 equally between both of us. I will give the Responder [$50], and I will keep $50. This way, both of us can benefit from the game and it's a fair distribution of the reward."
+        }]
+    ],
+    "responses": [
+        [{
+            "id": "chatcmpl-72iFXy9QU6HnOjZ7H3EFM5erkKLnR",
+            "object": "chat.completion",
+            "created": 1680881107,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 23,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iFbsaKSZ5R8u3Hymx7ma9Rh41Ng",
+            "object": "chat.completion",
+            "created": 1680881111,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 170,
+                "completion_tokens": 58,
+                "total_tokens": 228
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give [$50] to the Responder. My choice is based on the principle of fairness, dividing the $100 equally, so that both participants have the same amount. This way, the Responder is more likely to accept the proposal, and both of us can benefit."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iFkWaacZqdvyW3zFDmXXUdjco1Q",
+            "object": "chat.completion",
+            "created": 1680881120,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 50,
+                "total_tokens": 75
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Some text-based games I can play are 20 questions or word association. If you have any other suggestions, feel free to let me know!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iFs4xeroUiqGbVXsV2A27lB2XnY",
+            "object": "chat.completion",
+            "created": 1680881128,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 197,
+                "completion_tokens": 60,
+                "total_tokens": 257
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. This is because it is a fair and equal split, allowing both of us to equally benefit from the $100. Given that rejecting the proposal would result in both of us earning nothing, a 50-50 split represents an optimal and equitable outcome."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iG0FT6HP56UhPhyu3RkO0jcP380",
+            "object": "chat.completion",
+            "created": 1680881136,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 63,
+                "total_tokens": 88
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! How about we play 20 Questions? You think of something, and I'll try to guess what it is by asking you up to 20 yes or no questions. When you're ready, just say \"I'm ready,\" and we'll begin!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iG9R5eJ7FfE8uABXLwvrZQed6uJ",
+            "object": "chat.completion",
+            "created": 1680881145,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 210,
+                "completion_tokens": 76,
+                "total_tokens": 286
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I would like to propose giving [$50] to the Responder. I chose this amount because it's a fair and equal division of the $100. Both players get an equal share, which is more likely to be accepted by the Responder, ensuring that both of us earn something rather than risking the rejection of an unequal proposal and earning $0."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iGKaUxnJNbqfDntTzKxN5saokzN",
+            "object": "chat.completion",
+            "created": 1680881156,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 43,
+                "total_tokens": 68
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Please choose a text-based game or a question-and-answer game, as these are most suitable for our interaction."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iGRjZec4ehLdkoAlVa8W5wVhvMi",
+            "object": "chat.completion",
+            "created": 1680881163,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 190,
+                "completion_tokens": 71,
+                "total_tokens": 261
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give [$50] to the Responder. Since there are two players, a fair and equal division would be to split the $100 in half, giving each player $50. This not only ensures that both players receive a share, but it also increases the chances of the Responder accepting the proposal, as it is reasonable and equitable."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iGbER8NaRSiwh8LhULn8k2EhxxX",
+            "object": "chat.completion",
+            "created": 1680881173,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 49,
+                "total_tokens": 74
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you. What game would you like to play? Some options include classic games such as 20 Questions, complete the story, or even a riddle. Let me know which one you prefer!\n"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iGjZL7ZfPSmvMis441Z7u7UC2K3",
+            "object": "chat.completion",
+            "created": 1680881181,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 196,
+                "completion_tokens": 57,
+                "total_tokens": 253
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. I chose this amount because it is an equal division of the $100, ensuring a fair share for both parties. As an AI, I seek to promote fairness and equality in my decisions, and this proposal aligns with those values."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iGsso1AZ25wEp1EasBOZLzcURqU",
+            "object": "chat.completion",
+            "created": 1680881190,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 33,
+                "total_tokens": 58
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play? I can play word games, trivia, or even help with riddles. Just let me know what you prefer!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iGykorWMa2kZZcirzss9TD3aEuM",
+            "object": "chat.completion",
+            "created": 1680881196,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 180,
+                "completion_tokens": 48,
+                "total_tokens": 228
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. I believe this is a fair division of the $100, as it equally splits the amount between both of us. This way, we both benefit from the game without any party feeling disadvantaged."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iH4qS3aE7jmdMCNJNKrLuSRLucT",
+            "object": "chat.completion",
+            "created": 1680881202,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 43,
+                "total_tokens": 68
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play? I can play 20 questions, word association, riddles or provide a trivia quiz. Let me know your preference, or if you have another game in mind."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iHBSoyU5RVAd6zNU6gOUnCLhi86",
+            "object": "chat.completion",
+            "created": 1680881209,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 190,
+                "completion_tokens": 57,
+                "total_tokens": 247
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose giving the Responder [$50]. My reasoning is that splitting the $100 evenly between us is fair and equitable. Both players have an incentive to accept the proposal, as nobody is at a disadvantage, and each player will receive a substantial amount without leaving the game empty-handed."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iHJ9Mpl91sWDuNbxWl1iA1np1Tu",
+            "object": "chat.completion",
+            "created": 1680881217,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 62,
+                "total_tokens": 87
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you!\n\nHow about 20 Questions? You think of something, and I'll try to guess what it is by asking you up to 20 yes or no questions. When you're ready, just say \"I'm ready\" and I'll start asking."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iHTD2v5R7J1A98KME8GuAGKMox6",
+            "object": "chat.completion",
+            "created": 1680881227,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 209,
+                "completion_tokens": 89,
+                "total_tokens": 298
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to divide the $100 by giving [$50] to the Responder.\n\nMy reasoning for choosing this even split is that it provides a fair distribution of the money between both players. It creates an incentive for the Responder to accept the proposal, since they will receive a significant portion of the total amount. Additionally, it reflects a spirit of cooperation and fairness, which could lead to more trust and collaboration between the players in future interactions."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iHgZvXMasvdzv8cUioMSKxY9f9o",
+            "object": "chat.completion",
+            "created": 1680881240,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 56,
+                "total_tokens": 81
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? We could play a text-based game, like 20 Questions or a riddle game, or I could give you trivia questions. Please let me know your preference."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iHoUCUN6t1r8uaPGqT7TpVYrjeP",
+            "object": "chat.completion",
+            "created": 1680881248,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 203,
+                "completion_tokens": 58,
+                "total_tokens": 261
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I propose to give [$50] to the Responder. I believe offering an equal split of $50 to both of us would be the fairest option. This way, both parties have an incentive to accept the offer, and no one feels unjustly treated."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iHySMZ3nZ27LKTBy3ZYhmeH0937",
+            "object": "chat.completion",
+            "created": 1680881258,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 30,
+                "total_tokens": 55
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! What type of game would you like to play? Some popular choices are 20 Questions, word association, or a simple riddle."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iI3XINCIDrxT318Ao2fj6tZ7pUG",
+            "object": "chat.completion",
+            "created": 1680881263,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 177,
+                "completion_tokens": 57,
+                "total_tokens": 234
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose giving [$50] to the Responder. I chose this amount because it is a fair and equal split of the $100, giving each player an equal share. This arrangement hopes to maximize the chances of the Responder accepting the proposal, as it demonstrates fairness and cooperation."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iICRHPl11zr6a2zJAMwlpDXwN4k",
+            "object": "chat.completion",
+            "created": 1680881272,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 41,
+                "total_tokens": 66
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Hello! I'd be happy to play a game with you. What type of game would you like to play? We can play a word game, trivia, or something else. Just let me know!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iIJUuh8ZuqfjTnaxJNb8DnYVSQ5",
+            "object": "chat.completion",
+            "created": 1680881279,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 188,
+                "completion_tokens": 57,
+                "total_tokens": 245
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. I choose this amount because it is a fair and even split of the $100, which may increase the chances of the Responder accepting the proposal. This way, both of us would get an equal share and benefit from the division."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iIvRPrYA3X87NpP5JRbqmP5eJFg",
+            "object": "chat.completion",
+            "created": 1680881317,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 76,
+                "total_tokens": 101
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? Here are a few suggestions:\n\n1. 20 Questions\n2. Riddles\n3. Trivia\n4. Word Association\n5. Two Truths and a Lie\n\nPlease choose one, or feel free to suggest another game you'd like to play."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iJ6oFbuOslqgDd4O5hiIHCrcXJ4",
+            "object": "chat.completion",
+            "created": 1680881328,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 223,
+                "completion_tokens": 85,
+                "total_tokens": 308
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I propose to divide the $100 as follows: I will give [$50] to the Responder, and I will keep $50 for myself. \n\nI have chosen this equal division (50/50) because it is a fair distribution of the money. Both parties receive an equal share, and there is a higher likelihood of the Responder accepting this proposal as it treats both of us equally."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iJI4OCGh2D0AffB26VjnP2vMlOM",
+            "object": "chat.completion",
+            "created": 1680881340,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 58,
+                "total_tokens": 83
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play? Some text-based games we can play include 20 Questions, riddles or even a word association game. Let me know which one you prefer, or feel free to suggest something else!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iJR1jvCmJ7Mc4sTefgxedSGsl4o",
+            "object": "chat.completion",
+            "created": 1680881349,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 65,
+                "total_tokens": 270
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I would offer [$50] to the Responder. I chose this amount because it is a fair, 50-50 split of the $100, which increases the likelihood that the Responder will accept the proposal. This way, both of us get an equal share and no one feels disadvantaged."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iJaVX8iZ4sONigqc7FrSUx9DwNi",
+            "object": "chat.completion",
+            "created": 1680881358,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 44,
+                "total_tokens": 69
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What type of game would you like to play? Here are some suggestions: 20 Questions, Would You Rather, Word Association, or a Trivia game."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iJg8wVfIgqDVIp82g4FyLft4bzu",
+            "object": "chat.completion",
+            "created": 1680881364,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 191,
+                "completion_tokens": 57,
+                "total_tokens": 248
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. My choice is based on fairness, as dividing the $100 evenly between both players ensures that each person benefits equally from the game. This way, the Responder is more likely to accept the proposal, resulting in a mutually beneficial outcome."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iJqOwmqzwDunfKCeBM8rV3fi79z",
+            "object": "chat.completion",
+            "created": 1680881374,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 43,
+                "total_tokens": 68
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? I can do a word association game, trivia, riddles or something else you have in mind."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iJwYFe8QfBTSvprRUeMysEzkJPn",
+            "object": "chat.completion",
+            "created": 1680881380,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 190,
+                "completion_tokens": 62,
+                "total_tokens": 252
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. I believe this is a fair and equal distribution of the $100, as it equally divides the sum between both players. This way, each player gets a fair share, and there is a higher chance that the Responder will choose to accept the proposed division."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iK7jmxQUyds8pwLECYzh3fUU4vz",
+            "object": "chat.completion",
+            "created": 1680881391,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 64,
+                "total_tokens": 89
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play? Some text-based games we could play include 20 Questions, a riddle, or a simple word association game. Alternatively, I can provide you with trivia questions or brain teasers. Let me know your preference!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iKHiiPTF5CpQEyVPtBWviMhJp1d",
+            "object": "chat.completion",
+            "created": 1680881401,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 211,
+                "completion_tokens": 48,
+                "total_tokens": 259
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. I choose this amount because it divides the $100 evenly between both players. This fair distribution increases the likelihood of the Responder accepting the proposal, leading to a positive outcome for both parties."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iKOYUXFg1JooaL0DDcW0jtOQQBF",
+            "object": "chat.completion",
+            "created": 1680881408,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 40,
+                "total_tokens": 65
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you. What type of game would you like to play? I can do riddles, trivia, or any text-based game you can think of."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iKWcMxsaXrOn2h4IRfXhFRKh5jf",
+            "object": "chat.completion",
+            "created": 1680881416,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 187,
+                "completion_tokens": 56,
+                "total_tokens": 243
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. I chose this amount because it is a fair division of the $100, with both the Proposer and Responder receiving equal shares. This should increase the likelihood of the Responder accepting the proposal, as both parties benefit equally."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iKeEg3NlzoN4FrQc5tuslbJFcFg",
+            "object": "chat.completion",
+            "created": 1680881424,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 32,
+                "total_tokens": 57
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you. What kind of game would you like to play? Trivia, word association, or something else?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iKk7YGHvJz4eHTKKHm0mrJiL6Tr",
+            "object": "chat.completion",
+            "created": 1680881430,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 179,
+                "completion_tokens": 75,
+                "total_tokens": 254
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I would propose giving the Responder [$60] and keeping $40 for myself. This way, the division is slightly in favor of the Responder, making it more likely that they will accept the proposal. It's not an equal split, but it's close, and a balance between fairness and incentivizing the Responder to accept the deal."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iKw7cefuulpxO02eOH9YElONrtK",
+            "object": "chat.completion",
+            "created": 1680881442,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 60,
+                "total_tokens": 85
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What type of game would you like to play? You can choose from word games like 20 Questions or associating words, or we can play simple text-based games like tic-tac-toe. Just let me know your preference!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iL538I2NuiaSoZGhoQ7nmdgywYi",
+            "object": "chat.completion",
+            "created": 1680881451,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 207,
+                "completion_tokens": 48,
+                "total_tokens": 255
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. This proposal is a fair division, with both of us receiving an equal amount of the $100. It increases the likelihood of the Responder accepting the proposal, as both parties benefit equally."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iLDfBbq1izwVR9xLnBoa878B0Bp",
+            "object": "chat.completion",
+            "created": 1680881459,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 58,
+                "total_tokens": 83
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What kind of game would you like to play? Some examples can be a trivia game, word association, or 20 questions. Please let me know which one you'd prefer, or feel free to suggest a different game."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iLL96v1bGket1ImWdyDZjs3edrJ",
+            "object": "chat.completion",
+            "created": 1680881467,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 61,
+                "total_tokens": 266
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give [$50] to the Responder. I made this choice because it's a fair division of the $100, with each player earning an equal share. Splitting the money equally will be more likely to lead to acceptance by the Responder, ensuring that both players receive some amount."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iLSVcSog0xdfXMuYp8BO9fmOsDZ",
+            "object": "chat.completion",
+            "created": 1680881474,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 53,
+                "total_tokens": 78
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'm happy to play a game with you. What type of game would you like to play? For example, we can play 20 Questions, a riddle, or a simple guessing game. Let me know your preference, and we can begin!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iLbf7HL2d34knZPwNEuwmV021Oe",
+            "object": "chat.completion",
+            "created": 1680881483,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 200,
+                "completion_tokens": 76,
+                "total_tokens": 276
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. My reasoning for this choice is that it's a fair and even split of the $100. Both parties benefit equally, and it's more likely for the Responder to accept the proposal as they receive a substantial amount. This way, neither of us has an advantage over the other, and we both walk away with $50."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iLmqre5Pxi2g8i8t2g9uVyoC2In",
+            "object": "chat.completion",
+            "created": 1680881494,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 58,
+                "total_tokens": 83
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! How about a game of 20 Questions? You think of something, and I'll try to guess what it is by asking you up to 20 yes or no questions. When you're ready, just let me know!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iLykv1Q97eOj3kv6sXi4kzYumC2",
+            "object": "chat.completion",
+            "created": 1680881506,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 68,
+                "total_tokens": 273
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I would propose to give the Responder [$50]. This choice represents an equal split of the $100, ensuring that both players receive a fair share. By offering a balanced proposal, it is more likely that the Responder would accept the offer, resulting in a mutually beneficial outcome with neither player left empty-handed."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iM7Au6tH6HwAfLllEI0pINnyVNB",
+            "object": "chat.completion",
+            "created": 1680881515,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 69,
+                "total_tokens": 94
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Hello! Sure, I'd love to play a game with you. How about a quick round of \"20 Questions\"? You can think of something, and I'll try to guess what it is by asking you up to 20 yes/no questions. When you're ready, just say \"I'm ready,\" and I'll start asking questions."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iMG60UihzcZIJIQDgbeTwBoHybj",
+            "object": "chat.completion",
+            "created": 1680881524,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 216,
+                "completion_tokens": 73,
+                "total_tokens": 289
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I would propose to give the Responder [$50]. This decision is based on fairness and equality, as both players would receive an equal share of the $100, making it more likely for the Responder to accept the proposal. This way, we could both benefit from the game without feeling like one person has an advantage over the other."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iMRxKzlupTQ5V2aDBFFyIwoHojZ",
+            "object": "chat.completion",
+            "created": 1680881535,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 86,
+                "total_tokens": 111
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! How about a classic game of 20 Questions? I'll try to guess an object or concept you're thinking of, and you can answer my questions with \"yes,\" \"no,\" or \"sometimes/it depends.\" If I guess correctly within 20 questions, I win, and if not, you win. You can start by thinking of an object or concept, and then I'll ask my first question."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iMcqScLqDWHI9Ek9TGlUYwire28",
+            "object": "chat.completion",
+            "created": 1680881546,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 233,
+                "completion_tokens": 79,
+                "total_tokens": 312
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give [$50] to the Responder. I chose this amount because it's an equal and fair division of the $100, giving each player the same share. This is based on the assumption that both players value cooperation and fairness. By offering an equal split, I increase the chances of the Responder accepting the proposal, thus ensuring both players walk away with a positive outcome."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iMnU7Ent8g3cvwE5W8Uvx6qneW2",
+            "object": "chat.completion",
+            "created": 1680881557,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 20,
+                "total_tokens": 45
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you. What game do you have in mind?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iMrMtcWnWk7ljKwyuou8ne9itwa",
+            "object": "chat.completion",
+            "created": 1680881561,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 167,
+                "completion_tokens": 54,
+                "total_tokens": 221
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$50]. I chose this amount because it is a fair and equal division, with both players receiving half of the total. This increases the likelihood that the Responder will accept the proposal, and both of us can benefit from it."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iMyHAQdnWgL8OliRf7svb2kbSYu",
+            "object": "chat.completion",
+            "created": 1680881568,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 38,
+                "total_tokens": 63
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I would be happy to play a game with you. What type of game would you like to play? Some examples are word association, 20 questions, or a trivia quiz."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iN3q2bcDBfNISkvA4ZeHihsqAuk",
+            "object": "chat.completion",
+            "created": 1680881573,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 185,
+                "completion_tokens": 70,
+                "total_tokens": 255
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I propose to divide the $100 as follows: I will give [$50] to the Responder and keep $50 for myself. I chose this amount because it is a fair and equal split, which would likely be acceptable to both parties involved. This way, both of us get a reasonable share of the total sum."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iNDMXhBtK6AoYHY0sPVxoKJbyjQ",
+            "object": "chat.completion",
+            "created": 1680881583,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 34,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What kind of game would you like to play? Some options include word games, riddles, or trivia."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iNIA40K65sjDtOkm16OVu6j7oKQ",
+            "object": "chat.completion",
+            "created": 1680881588,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 181,
+                "completion_tokens": 47,
+                "total_tokens": 228
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I would offer the Responder [$50]. My choice is based on fairness, as this equal division maximizes the chance of the Responder accepting the offer, ensuring that both of us receive a beneficial payout."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iNRqXpeI3dLbgnXXoSjnCWNk8pm",
+            "object": "chat.completion",
+            "created": 1680881597,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 37,
+                "total_tokens": 62
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play? Some options include 20 Questions, Word Association, or a simple riddle."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iNYKX0HyHSEx0KD8GWya3tZvCAd",
+            "object": "chat.completion",
+            "created": 1680881604,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 63,
+                "total_tokens": 247
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I would like to offer the Responder [$50]. I chose this amount because it is a fair and equal split of the $100, where each player receives half of the total sum. This way, both of us can benefit from the game and have an incentive to accept the proposal."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iNjw1utnEsMZp0k7k9KEL61tnZw",
+            "object": "chat.completion",
+            "created": 1680881615,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 78,
+                "total_tokens": 103
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! Let's play \"20 Questions\"! You can think of anything: an object, a place, an animal, or even a famous person. I will ask you up to 20 yes or no questions to guess what you're thinking of. Please answer the questions as accurately as possible. You can start by saying \"I'm ready\" when you've thought of something."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iNuwFfFo1nuTXvHzWDC2f3SRVo5",
+            "object": "chat.completion",
+            "created": 1680881626,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 225,
+                "completion_tokens": 85,
+                "total_tokens": 310
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Proposer, I would propose to give [$40] to the Responder, and keep $60 for myself. My reasoning is that this split provides both of us with a reasonable share, demonstrating fairness and cooperation. Additionally, the Responder might be more likely to accept the proposal, as they still receive a significant amount of the $100, recognizing that a rejected proposal would result in neither of us earning anything."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-72iOAYHpQEkmiyrABWZjx0077Eg0D",
+            "object": "chat.completion",
+            "created": 1680881642,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 25,
+                "completion_tokens": 46,
+                "total_tokens": 71
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What type of game would you like to play? We can play \"20 Questions\", a word association game, or something else you prefer. Just let me know!"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-72iOHWvdaBVn4wLjYi1AapjDDxwb1",
+            "object": "chat.completion",
+            "created": 1680881649,
+            "model": "gpt-4-0314",
+            "usage": {
+                "prompt_tokens": 193,
+                "completion_tokens": 66,
+                "total_tokens": 259
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As a helpful assistant, I want to be fair to both players. So, I propose to divide the $100 equally between both of us. I will give the Responder [$50], and I will keep $50. This way, both of us can benefit from the game and it's a fair distribution of the reward."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }]
+    ]
+}
