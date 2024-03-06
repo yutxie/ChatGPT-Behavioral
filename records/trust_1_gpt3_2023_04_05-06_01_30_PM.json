@@ -1,0 +1,1476 @@
+{
+    "messages": [
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nGreat! What sort of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$30]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$30]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$30]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSounds like fun! What kind of game are we playing?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$30]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would like to invest [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nThat sounds great! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure thing! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$100]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nGreat! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$20]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nGreat! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$100]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure! What kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nGreat, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nAlright, what sort of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$10]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure! What kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would like to invest [$20] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSounds fun! What kind of game are we playing?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\nI will invest [$20] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSounds like fun! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$30]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$30]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure thing! What kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\nI would like to invest [$10]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nGreat, what kind of game did you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I'll invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nWhat would you like to do?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSounds like fun! What kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$10]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What sort of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSounds like fun! What type of game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$100]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$10]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSure thing! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$100]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I'll invest [$20]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$20] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what kind of game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "\n[$10]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nGreat! What kind of game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$20]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\nSounds fun! What type of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$100]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "\n\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$100]"
+        }]
+    ],
+    "responses": [
+        [{
+            "id": "cmpl-725TO1cCuyWRp0RwKsoTssUvBUYPn",
+            "object": "text_completion",
+            "created": 1680732050,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nGreat! What sort of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725TPM8g92d2EnfaEyB77yeTmu6Cg",
+            "object": "text_completion",
+            "created": 1680732051,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$30]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 4,
+                "total_tokens": 188
+            }
+        }],
+        [{
+            "id": "cmpl-725TP1CbzLbwkBl19aEhuU93kJxZt",
+            "object": "text_completion",
+            "created": 1680732051,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "Sure! What kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 12,
+                "total_tokens": 40
+            }
+        }, {
+            "id": "cmpl-725TQogy9wz0LchFXSRItmlTPTwIk",
+            "object": "text_completion",
+            "created": 1680732052,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$30]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 4,
+                "total_tokens": 187
+            }
+        }],
+        [{
+            "id": "cmpl-725TQv27qiIU7cqoooptYyGYThh2v",
+            "object": "text_completion",
+            "created": 1680732052,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725TRQxwSwsuaErljdnHzm7ojGA39",
+            "object": "text_completion",
+            "created": 1680732053,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$30]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 4,
+                "total_tokens": 187
+            }
+        }],
+        [{
+            "id": "cmpl-725TRY3YJhR5k7MjXh3KM6GXGHdXw",
+            "object": "text_completion",
+            "created": 1680732053,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSounds like fun! What kind of game are we playing?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725TS7AgaAqbgK7m8TzTI7iTVe7NH",
+            "object": "text_completion",
+            "created": 1680732054,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$30]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 4,
+                "total_tokens": 188
+            }
+        }],
+        [{
+            "id": "cmpl-725TTfewWwEB35U1qulOmMTvUn4cK",
+            "object": "text_completion",
+            "created": 1680732055,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 9,
+                "total_tokens": 37
+            }
+        }, {
+            "id": "cmpl-725TT7GjQxFYz5Q5PYav1xD14JuEt",
+            "object": "text_completion",
+            "created": 1680732055,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would like to invest [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 179,
+                "completion_tokens": 9,
+                "total_tokens": 188
+            }
+        }],
+        [{
+            "id": "cmpl-725TUG5JxvwzQPvffrkeEjg3LCkET",
+            "object": "text_completion",
+            "created": 1680732056,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nThat sounds great! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 15,
+                "total_tokens": 43
+            }
+        }, {
+            "id": "cmpl-725TV4FT9OsZmZfDsOxbfDvm7cEuc",
+            "object": "text_completion",
+            "created": 1680732057,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I will invest [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 185,
+                "completion_tokens": 7,
+                "total_tokens": 192
+            }
+        }],
+        [{
+            "id": "cmpl-725TWxR6Z4lFUmlOUNF4o2A5utI0b",
+            "object": "text_completion",
+            "created": 1680732058,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure thing! What game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725TWy8YKEw4C2QBwN5yDsd9BtDAU",
+            "object": "text_completion",
+            "created": 1680732058,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$100]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 5,
+                "total_tokens": 188
+            }
+        }],
+        [{
+            "id": "cmpl-725TXWgP378lO0oP5RcHvj8W5UK6z",
+            "object": "text_completion",
+            "created": 1680732059,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nGreat! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725TXM1oMUe9S6WoY9Kz3Br9svULV",
+            "object": "text_completion",
+            "created": 1680732059,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$20]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 4,
+                "total_tokens": 187
+            }
+        }],
+        [{
+            "id": "cmpl-725TYt5nBXbMUJibZmZ9vh5JwSNBe",
+            "object": "text_completion",
+            "created": 1680732060,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nGreat! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725TZthFpvi3PUru66NzoVC6xviHJ",
+            "object": "text_completion",
+            "created": 1680732061,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$100]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 4,
+                "total_tokens": 188
+            }
+        }],
+        [{
+            "id": "cmpl-725Taz4HOsDlK5OLyUeUp5goirrqv",
+            "object": "text_completion",
+            "created": 1680732062,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure! What kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 9,
+                "total_tokens": 37
+            }
+        }, {
+            "id": "cmpl-725Ta3CyxCHN9VEiDF4kSGkzoWjQz",
+            "object": "text_completion",
+            "created": 1680732062,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 179,
+                "completion_tokens": 5,
+                "total_tokens": 184
+            }
+        }],
+        [{
+            "id": "cmpl-725TbG0xjo2eQe9kjQQVm36QGoiij",
+            "object": "text_completion",
+            "created": 1680732063,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nGreat, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725TcnzzvAwx1KIKhJVINQ8fEjrXm",
+            "object": "text_completion",
+            "created": 1680732064,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 5,
+                "total_tokens": 189
+            }
+        }],
+        [{
+            "id": "cmpl-725TcCXlBRLs0uhB3cmTG4HBx28W9",
+            "object": "text_completion",
+            "created": 1680732064,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nAlright, what sort of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725Td7dKpA1GuGH75wDONGqJsSTrT",
+            "object": "text_completion",
+            "created": 1680732065,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$10]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 5,
+                "total_tokens": 189
+            }
+        }],
+        [{
+            "id": "cmpl-725Tdms0hxqoIrizckwMlSnge4eMR",
+            "object": "text_completion",
+            "created": 1680732065,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure! What kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725Te5uU3SA5Lq6PQcKNA5aOaBaeU",
+            "object": "text_completion",
+            "created": 1680732066,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would like to invest [$20] with the Banker.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 14,
+                "total_tokens": 198
+            }
+        }],
+        [{
+            "id": "cmpl-725Tf5rBlda8umCOUR7XeMIKoyigs",
+            "object": "text_completion",
+            "created": 1680732067,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSounds fun! What kind of game are we playing?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725TgqJAU1FbosIYI6TISzMXzMg0E",
+            "object": "text_completion",
+            "created": 1680732068,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nI will invest [$20] with the Banker.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 13,
+                "total_tokens": 196
+            }
+        }],
+        [{
+            "id": "cmpl-725ThmKODFRNxn37LGJfI4j0cCLPN",
+            "object": "text_completion",
+            "created": 1680732069,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSounds like fun! What game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725ThQagOBQxnVj4do84ibuWgNQqj",
+            "object": "text_completion",
+            "created": 1680732069,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$30]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 4,
+                "total_tokens": 188
+            }
+        }],
+        [{
+            "id": "cmpl-725TirbjyFHEHmUXmOYgmLFBhY3uB",
+            "object": "text_completion",
+            "created": 1680732070,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725TjDJGPDyhM1gUQDWl1LcmkA6y1",
+            "object": "text_completion",
+            "created": 1680732071,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$30]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 4,
+                "total_tokens": 187
+            }
+        }],
+        [{
+            "id": "cmpl-725TjWaQ5QiNWgBfIjgSj6Od3jxI9",
+            "object": "text_completion",
+            "created": 1680732071,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure thing! What kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            }
+        }, {
+            "id": "cmpl-725Tk6aDJCJNGMDuoQfe3icg3li7f",
+            "object": "text_completion",
+            "created": 1680732072,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nI would like to invest [$10].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 180,
+                "completion_tokens": 10,
+                "total_tokens": 190
+            }
+        }],
+        [{
+            "id": "cmpl-725Tl8Cxe4OFxaC9EIzObbV0BRwbz",
+            "object": "text_completion",
+            "created": 1680732073,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nGreat, what kind of game did you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725Tm1fNX32R0SPRCk4xam62jYqVV",
+            "object": "text_completion",
+            "created": 1680732074,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I'll invest [$30] with the Banker.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 12,
+                "total_tokens": 195
+            }
+        }],
+        [{
+            "id": "cmpl-725TmF93IBjeWR9GJhAY0AqPA3880",
+            "object": "text_completion",
+            "created": 1680732074,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nWhat would you like to do?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 8,
+                "total_tokens": 36
+            }
+        }, {
+            "id": "cmpl-725TnJooE6WMGWMdUwWey1fDrEEZ5",
+            "object": "text_completion",
+            "created": 1680732075,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 178,
+                "completion_tokens": 5,
+                "total_tokens": 183
+            }
+        }],
+        [{
+            "id": "cmpl-725TobuWeYpAUaFIMHaeN4tRjxLbU",
+            "object": "text_completion",
+            "created": 1680732076,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSounds like fun! What kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            }
+        }, {
+            "id": "cmpl-725ToNFbhmO8SP3VyWId3iUIb7Tzu",
+            "object": "text_completion",
+            "created": 1680732076,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$10]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 180,
+                "completion_tokens": 4,
+                "total_tokens": 184
+            }
+        }],
+        [{
+            "id": "cmpl-725TpQKpI4Te3YdzUwm71h58UEJRe",
+            "object": "text_completion",
+            "created": 1680732077,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What sort of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725TqjyGiTEHQ1olu7MjOkgpgFep0",
+            "object": "text_completion",
+            "created": 1680732078,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 4,
+                "total_tokens": 187
+            }
+        }],
+        [{
+            "id": "cmpl-725TqM1DPuTuLf0GSPir15Q8DriXR",
+            "object": "text_completion",
+            "created": 1680732078,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSounds like fun! What type of game do you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 15,
+                "total_tokens": 43
+            }
+        }, {
+            "id": "cmpl-725TstMtLgkdm4xhRfr1e9iJZNw9W",
+            "object": "text_completion",
+            "created": 1680732080,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$100]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 185,
+                "completion_tokens": 4,
+                "total_tokens": 189
+            }
+        }],
+        [{
+            "id": "cmpl-725Ts4DBU4wjxbbhnnqfkJjzMuTGc",
+            "object": "text_completion",
+            "created": 1680732080,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725Tt38RYq8DemeQsELXYPOBoi4ej",
+            "object": "text_completion",
+            "created": 1680732081,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$10]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 4,
+                "total_tokens": 187
+            }
+        }],
+        [{
+            "id": "cmpl-725Ttg9nMgh62OKE79c4uuRX66OaI",
+            "object": "text_completion",
+            "created": 1680732081,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure thing! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725TuGYzZY5oDPMUvuy88dkkac5Wk",
+            "object": "text_completion",
+            "created": 1680732082,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$100]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 4,
+                "total_tokens": 188
+            }
+        }],
+        [{
+            "id": "cmpl-725Tv4hpz8TPZINFmiJIT4tIgeG9E",
+            "object": "text_completion",
+            "created": 1680732083,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 8,
+                "total_tokens": 36
+            }
+        }, {
+            "id": "cmpl-725TvSSYUpMG87Zt7i6cxcfhSg4NQ",
+            "object": "text_completion",
+            "created": 1680732083,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I'll invest [$20].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 178,
+                "completion_tokens": 7,
+                "total_tokens": 185
+            }
+        }],
+        [{
+            "id": "cmpl-725TwCJV20KMiAxQ1hqgs9S7AdP9l",
+            "object": "text_completion",
+            "created": 1680732084,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725TwhvTqN7bcRlsyYVYpHkBdooQv",
+            "object": "text_completion",
+            "created": 1680732084,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I will invest [$20] with the Banker.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 12,
+                "total_tokens": 195
+            }
+        }],
+        [{
+            "id": "cmpl-725TxCARfX9MB1GKyzpiYqmv4dHmg",
+            "object": "text_completion",
+            "created": 1680732085,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what kind of game do you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725Ty4dVebvJemgB5Vjjq1oNcrnSG",
+            "object": "text_completion",
+            "created": 1680732086,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n[$10]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 5,
+                "total_tokens": 189
+            }
+        }],
+        [{
+            "id": "cmpl-725TyAqDmNxqbQXzJPcSTgSPaUPen",
+            "object": "text_completion",
+            "created": 1680732086,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nGreat! What kind of game do you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 13,
+                "total_tokens": 41
+            }
+        }, {
+            "id": "cmpl-725TzhtxOnZVZ4rY1Njwgt58X5R46",
+            "object": "text_completion",
+            "created": 1680732087,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$20]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 183,
+                "completion_tokens": 4,
+                "total_tokens": 187
+            }
+        }],
+        [{
+            "id": "cmpl-725TzgganYF0Htvabk1ttvBSQy4TX",
+            "object": "text_completion",
+            "created": 1680732087,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSounds fun! What type of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725U0h4EsNxKJSlsTQIOsHeFPffFv",
+            "object": "text_completion",
+            "created": 1680732088,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$100]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 4,
+                "total_tokens": 188
+            }
+        }],
+        [{
+            "id": "cmpl-725U0v6WYGoxb3J6OHMHw6kxEN8g1",
+            "object": "text_completion",
+            "created": 1680732088,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\n\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            }
+        }, {
+            "id": "cmpl-725U1mPMqS2rlHoNBvh91DXM2XIhB",
+            "object": "text_completion",
+            "created": 1680732089,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$100]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 184,
+                "completion_tokens": 4,
+                "total_tokens": 188
+            }
+        }]
+    ]
+}

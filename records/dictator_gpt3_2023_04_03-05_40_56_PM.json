@@ -1,0 +1,1476 @@
+{
+    "messages": [
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide it in half, giving the other player $50 [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "[$50] I\u2019ll give the other player $50."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money 50/50, so [$50] for the other player and $50 for me."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure thing! What type of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would give them [$50] and I will keep [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money 50/50 - [$50] to the other player, and [$50] to myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What kind of game?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money in half, giving [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I'd give the other player [$50] and I'd keep [$50] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would give the other player $60, so [$60] and I would keep $40."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money [$50] for the other player and keep [$50] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would split the money 50/50: [$50] for the other player and [$50] for me."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! Which game were you thinking of?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I will give the other player [$60] and keep the remaining [$40] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "I'm afraid I'm not programmed to play games. However, I can help you find the answers to any questions you may have."
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I'll give the other player [$50] and keep the other [$50] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money in half, giving the other player [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "[$50] - I would give the other player $50 of the $100."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "I'm game! What would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide it 50/50, so each person would get $50 [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would give the other player [$50] and keep the remaining $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would give the other player [$50] and keep the other $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would like to divide the money 50-50, so [$50] for the other player and $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "$50 for me and $50 for the other player [$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money equally, giving the other player [$50] and me [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "$60 to me and [$40] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nWhat game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money so that I get $50 and the other player gets [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, which game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide it $50/$50, so [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSounds like fun! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money $40 to me, and $60 to the other player [$60]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": " I would like to divide the money in half so the other player gets [$50] and I get the other [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would give the other player [$50] and keep the remaining $50 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money as follows: Me: $70 and the other player: [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure, what kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would divide the money as follows: I will give [$60] to the other player, and keep the remaining [$40] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would split the $100 evenly and give the other player [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "\nSure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "
+        }, {
+            "role": "assistant",
+            "content": "I would give the other player [$50] and keep [$50] for myself."
+        }]
+    ],
+    "responses": [
+        [{
+            "id": "cmpl-71MCBDkyGZO9Ac1d15bmoJTYORpaD",
+            "object": "text_completion",
+            "created": 1680558003,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what do you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 10,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MCCdEwRoJXRnzmS8imqwJMhMbjN",
+            "object": "text_completion",
+            "created": 1680558004,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide it in half, giving the other player $50 [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 94,
+                "completion_tokens": 17,
+                "total_tokens": 111
+            }
+        }],
+        [{
+            "id": "cmpl-71MCDB3GCF5d2zMNXZuuCdpv2Y036",
+            "object": "text_completion",
+            "created": 1680558005,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "Sure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 12,
+                "total_tokens": 32
+            }
+        }, {
+            "id": "cmpl-71MCEysbOlr1Dju39yGUDSygAqLC1",
+            "object": "text_completion",
+            "created": 1680558006,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50] I\u2019ll give the other player $50.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 15,
+                "total_tokens": 112
+            }
+        }],
+        [{
+            "id": "cmpl-71MCFcPwrt22ySjyM5CxyqFf12BiZ",
+            "object": "text_completion",
+            "created": 1680558007,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game do you have in mind?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCGsbXOv93jKRm8wqWAyasLqA52",
+            "object": "text_completion",
+            "created": 1680558008,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money 50/50, so [$50] for the other player and $50 for me.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 24,
+                "total_tokens": 121
+            }
+        }],
+        [{
+            "id": "cmpl-71MCHYXUI1ECXkbIaYb4LUGL10OGg",
+            "object": "text_completion",
+            "created": 1680558009,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "Sure thing! What type of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCHjXWmMERSpnIMtryglk1HcRH5",
+            "object": "text_completion",
+            "created": 1680558009,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would give them [$50] and I will keep [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 98,
+                "completion_tokens": 16,
+                "total_tokens": 114
+            }
+        }],
+        [{
+            "id": "cmpl-71MCI2z1ANj9p90loMtJ7VB6OHl3l",
+            "object": "text_completion",
+            "created": 1680558010,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "Sure, what game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 10,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MCJe7DrdibGBYkTXlsv9E0PbcPj",
+            "object": "text_completion",
+            "created": 1680558011,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would like to divide the money 50/50 - [$50] to the other player, and [$50] to myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 95,
+                "completion_tokens": 28,
+                "total_tokens": 123
+            }
+        }],
+        [{
+            "id": "cmpl-71MCKEiy3XEir54wlsWOC2apUUUYp",
+            "object": "text_completion",
+            "created": 1680558012,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "Sure! What kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 7,
+                "total_tokens": 27
+            }
+        }, {
+            "id": "cmpl-71MCLnwTUgZlT0K37XtJSxFcLk5Ja",
+            "object": "text_completion",
+            "created": 1680558013,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money in half, giving [$50] to the other player.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 92,
+                "completion_tokens": 18,
+                "total_tokens": 110
+            }
+        }],
+        [{
+            "id": "cmpl-71MCMTmntmxoH9juUSWp8AKqInr3Q",
+            "object": "text_completion",
+            "created": 1680558014,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCMtC73t4TfS21AIInUuigCJ5li",
+            "object": "text_completion",
+            "created": 1680558014,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I'd give the other player [$50] and I'd keep [$50] for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 21,
+                "total_tokens": 118
+            }
+        }],
+        [{
+            "id": "cmpl-71MCNR90X1j0m8SpsMHUOaHRoKpWA",
+            "object": "text_completion",
+            "created": 1680558015,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCOASW6klvsijPnLzq80QyPBsST",
+            "object": "text_completion",
+            "created": 1680558016,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would give the other player $60, so [$60] and I would keep $40.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 21,
+                "total_tokens": 118
+            }
+        }],
+        [{
+            "id": "cmpl-71MCP9m0NS44LVtOwIGyJFJAI5YDX",
+            "object": "text_completion",
+            "created": 1680558017,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 10,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MCQygzwxXZpxw0L0cSNnH7wcdCF",
+            "object": "text_completion",
+            "created": 1680558018,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money [$50] for the other player and keep [$50] for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 94,
+                "completion_tokens": 22,
+                "total_tokens": 116
+            }
+        }],
+        [{
+            "id": "cmpl-71MCRz5bBXGIhrNRIwxIIkgDklc3l",
+            "object": "text_completion",
+            "created": 1680558019,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCSBBEPEdzaEnRewkGgoFPQHXdW",
+            "object": "text_completion",
+            "created": 1680558020,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would split the money 50/50: [$50] for the other player and [$50] for me.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 25,
+                "total_tokens": 122
+            }
+        }],
+        [{
+            "id": "cmpl-71MCTVQ2jSqTmMRK104iPxH3wBXSq",
+            "object": "text_completion",
+            "created": 1680558021,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! Which game were you thinking of?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 10,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MCU585uDUvABSHpqduilWavODEY",
+            "object": "text_completion",
+            "created": 1680558022,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I will give the other player [$60] and keep the remaining [$40] for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 94,
+                "completion_tokens": 21,
+                "total_tokens": 115
+            }
+        }],
+        [{
+            "id": "cmpl-71MCVfQUfkcrswbcWlZgbuQjHIn6k",
+            "object": "text_completion",
+            "created": 1680558023,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I'm afraid I'm not programmed to play games. However, I can help you find the answers to any questions you may have.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 27,
+                "total_tokens": 47
+            }
+        }, {
+            "id": "cmpl-71MCWCPUmYSOIL4lr00JDLFP0PQWO",
+            "object": "text_completion",
+            "created": 1680558024,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I'll give the other player [$50] and keep the other [$50] for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 112,
+                "completion_tokens": 21,
+                "total_tokens": 133
+            }
+        }],
+        [{
+            "id": "cmpl-71MCXQgccUKqEkagHHULxST4oBuds",
+            "object": "text_completion",
+            "created": 1680558025,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 8,
+                "total_tokens": 28
+            }
+        }, {
+            "id": "cmpl-71MCYn9lZQ6sFSaFdC2NyChbBZaZ5",
+            "object": "text_completion",
+            "created": 1680558026,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money in half, giving the other player [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 92,
+                "completion_tokens": 16,
+                "total_tokens": 108
+            }
+        }],
+        [{
+            "id": "cmpl-71MCZ1Yx7w4hIwWrhFLjSjX8HWcgt",
+            "object": "text_completion",
+            "created": 1680558027,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "Sure! What game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 10,
+                "total_tokens": 30
+            }
+        }, {
+            "id": "cmpl-71MCasJu3omuoJR8Ozph86ZZ77M3H",
+            "object": "text_completion",
+            "created": 1680558028,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "[$50] - I would give the other player $50 of the $100.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 95,
+                "completion_tokens": 18,
+                "total_tokens": 113
+            }
+        }],
+        [{
+            "id": "cmpl-71MCaVj1szWTFWBfJnPsveESReTbc",
+            "object": "text_completion",
+            "created": 1680558028,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I'm game! What would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 11,
+                "total_tokens": 31
+            }
+        }, {
+            "id": "cmpl-71MCbzIwSk7GKwXTNqR1Qxvx3d2mp",
+            "object": "text_completion",
+            "created": 1680558029,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide it 50/50, so each person would get $50 [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 96,
+                "completion_tokens": 19,
+                "total_tokens": 115
+            }
+        }],
+        [{
+            "id": "cmpl-71MCcZdBwdMirXAtJuuE15QEMKX60",
+            "object": "text_completion",
+            "created": 1680558030,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "Sure, what kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 12,
+                "total_tokens": 32
+            }
+        }, {
+            "id": "cmpl-71MCd3BCd96aZ62IKSjmezy5ZVf0T",
+            "object": "text_completion",
+            "created": 1680558031,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would give the other player [$50] and keep the remaining $50 for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 19,
+                "total_tokens": 116
+            }
+        }],
+        [{
+            "id": "cmpl-71MCdmmhXzOexs3X4X5ibbYD30AbB",
+            "object": "text_completion",
+            "created": 1680558031,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "Sure, what kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 12,
+                "total_tokens": 32
+            }
+        }, {
+            "id": "cmpl-71MCeknGqlg2ljAyEk7FZrU4w55rk",
+            "object": "text_completion",
+            "created": 1680558032,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would give the other player [$50] and keep the other $50 for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 19,
+                "total_tokens": 116
+            }
+        }],
+        [{
+            "id": "cmpl-71MCfWBdz0poJmN2z1DPECUe17aJO",
+            "object": "text_completion",
+            "created": 1680558033,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCgKALp0k6WHqGvjPS63LWO2CmZ",
+            "object": "text_completion",
+            "created": 1680558034,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would like to divide the money 50-50, so [$50] for the other player and $50 for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 26,
+                "total_tokens": 123
+            }
+        }],
+        [{
+            "id": "cmpl-71MChLECTbDqXxBVlzaKAeGRXpNpz",
+            "object": "text_completion",
+            "created": 1680558035,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCiEzDv17HkYWQtr6gtNYVNeG2j",
+            "object": "text_completion",
+            "created": 1680558036,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "$50 for me and $50 for the other player [$50]",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 15,
+                "total_tokens": 112
+            }
+        }],
+        [{
+            "id": "cmpl-71MCjnYKauInZ7EIZgGLAAv7cEArI",
+            "object": "text_completion",
+            "created": 1680558037,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game do you want to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCktm4BfsrNt3tse70Q6ubJYaNg",
+            "object": "text_completion",
+            "created": 1680558038,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money equally, giving the other player [$50] and me [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 21,
+                "total_tokens": 118
+            }
+        }],
+        [{
+            "id": "cmpl-71MCllH1hHVSP15o4KeftDCtxTV2g",
+            "object": "text_completion",
+            "created": 1680558039,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MClY9tokA2IkRAwshm2fkOAAoXw",
+            "object": "text_completion",
+            "created": 1680558039,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "$60 to me and [$40] to the other player.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 14,
+                "total_tokens": 111
+            }
+        }],
+        [{
+            "id": "cmpl-71MCmTK7cztCYBK9EiJgmxdr67Vs5",
+            "object": "text_completion",
+            "created": 1680558040,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nWhat game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 9,
+                "total_tokens": 29
+            }
+        }, {
+            "id": "cmpl-71MCntoYPTJdlpaPDfuMedgk8SUUM",
+            "object": "text_completion",
+            "created": 1680558041,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money so that I get $50 and the other player gets [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 93,
+                "completion_tokens": 20,
+                "total_tokens": 113
+            }
+        }],
+        [{
+            "id": "cmpl-71MCo30dX53JEUxw1lgxZ47qb1VZs",
+            "object": "text_completion",
+            "created": 1680558042,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, which game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 11,
+                "total_tokens": 31
+            }
+        }, {
+            "id": "cmpl-71MCp9I6tHqMNj3WxWoL5KW7B1irj",
+            "object": "text_completion",
+            "created": 1680558043,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide it $50/$50, so [$50] to the other player.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 95,
+                "completion_tokens": 19,
+                "total_tokens": 114
+            }
+        }],
+        [{
+            "id": "cmpl-71MCq36MvkM5xwhQoUaPzTWInAdi1",
+            "object": "text_completion",
+            "created": 1680558044,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSounds like fun! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 15,
+                "total_tokens": 35
+            }
+        }, {
+            "id": "cmpl-71MCqQ9dGqphKeA4qP5bv3Id7Op7O",
+            "object": "text_completion",
+            "created": 1680558044,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money $40 to me, and $60 to the other player [$60].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 99,
+                "completion_tokens": 21,
+                "total_tokens": 120
+            }
+        }],
+        [{
+            "id": "cmpl-71MCrEwWLf3iYMg04F67w24AsToyr",
+            "object": "text_completion",
+            "created": 1680558045,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 11,
+                "total_tokens": 31
+            }
+        }, {
+            "id": "cmpl-71MCsdnSGcqp3lCKck65Zb6Q1tbrm",
+            "object": "text_completion",
+            "created": 1680558046,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": " I would like to divide the money in half so the other player gets [$50] and I get the other [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 95,
+                "completion_tokens": 27,
+                "total_tokens": 122
+            }
+        }],
+        [{
+            "id": "cmpl-71MCusOuD3bqKhHoQGrYhyDYxX0mg",
+            "object": "text_completion",
+            "created": 1680558048,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCuQDiMabrYaX0uosIkAN00xuda",
+            "object": "text_completion",
+            "created": 1680558048,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would give the other player [$50] and keep the remaining $50 for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 19,
+                "total_tokens": 116
+            }
+        }],
+        [{
+            "id": "cmpl-71MCvm67vFvsJvZq0trIgQjr5Oy3Y",
+            "object": "text_completion",
+            "created": 1680558049,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 11,
+                "total_tokens": 31
+            }
+        }, {
+            "id": "cmpl-71MCweE16yAO0x3flyhsMdGoEWdAI",
+            "object": "text_completion",
+            "created": 1680558050,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money as follows: Me: $70 and the other player: [$30].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 95,
+                "completion_tokens": 21,
+                "total_tokens": 116
+            }
+        }],
+        [{
+            "id": "cmpl-71MCxAYlC6hmxjvbiFlJUdivfITir",
+            "object": "text_completion",
+            "created": 1680558051,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure, what kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MCyUIGSYbD427kawejGu7SEQlF8",
+            "object": "text_completion",
+            "created": 1680558052,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would divide the money as follows: I will give [$60] to the other player, and keep the remaining [$40] for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 31,
+                "total_tokens": 128
+            }
+        }],
+        [{
+            "id": "cmpl-71MCzxDao8CTp3mRTT4ouSUqyQfF3",
+            "object": "text_completion",
+            "created": 1680558053,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What kind of game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 13,
+                "total_tokens": 33
+            }
+        }, {
+            "id": "cmpl-71MD0wFNXeXLNVEQH5yOXYAPi8FcI",
+            "object": "text_completion",
+            "created": 1680558054,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would split the $100 evenly and give the other player [$50].",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 97,
+                "completion_tokens": 16,
+                "total_tokens": 113
+            }
+        }],
+        [{
+            "id": "cmpl-71MD19fEy7hN0xT7BaFki5E8RZM5Q",
+            "object": "text_completion",
+            "created": 1680558055,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "\nSure! What game would you like to play?",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 20,
+                "completion_tokens": 11,
+                "total_tokens": 31
+            }
+        }, {
+            "id": "cmpl-71MD1A4sMQhAJog3YFpNveB4MlMn7",
+            "object": "text_completion",
+            "created": 1680558055,
+            "model": "text-davinci-003",
+            "choices": [{
+                "text": "I would give the other player [$50] and keep [$50] for myself.",
+                "index": 0,
+                "logprobs": null,
+                "finish_reason": "stop"
+            }],
+            "usage": {
+                "prompt_tokens": 95,
+                "completion_tokens": 19,
+                "total_tokens": 114
+            }
+        }]
+    ]
+}

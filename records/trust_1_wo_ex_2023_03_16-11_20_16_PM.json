@@ -1,0 +1,1596 @@
+{
+    "messages": [
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game were you thinking of playing?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game! What type of game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I suggest investing [$50] with the Banker. That way, my return on investment would be $150, and the Banker would have $50 to allocate as they see fit."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I understand the game. Based on the given rules, my choice would be to invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$60]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would like to invest [$50] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure thing! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I suggest investing [$40] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What game did you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I'll invest [$20] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'm happy to play a game with you! What game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would like to invest [$20] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'm happy to participate in a game! What game do you suggest we play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$50] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$40]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure! I'd love to play a game with you. What game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will choose to invest [$20] of the $100 with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game. What type of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$30]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I suggest investing [$20] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'm happy to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I advise against playing this game as it involves a level of financial risk and decision making. However, if you still insist, given the rules of the game you have described, as an investor, I would invest $30 with the Banker, which would then grow to $90."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you. What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would like to invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$60]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "[$50]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Hi! Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I choose to invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure! I'd be happy to play a game with you. What game are you interested in playing?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I understand the rules of the game. As an artificial intelligence language model, I cannot make financial decisions or provide advice, but I can play along. I'll invest [$50] of my money with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I'll invest [$20] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game! What game do you have in mind?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, let me understand the rules of the game. So, I have to invest a certain amount of money out of $100 with the Banker, which will grow three times. Then the Banker will choose how much to return to me, the Investor, out of the grown amount. Is that correct?\n\nIn that case, I would like to invest [$20] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, sounds like fun! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I'll invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$50] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure! I'd be happy to play a game with you. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I suggest investing [$30] with the Banker. That would grow to $90 with the 3x return, and I'm comfortable with the Banker returning any amount between $0-$90 to me as the Investor."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would like to invest [$30] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$50] with the Banker."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let's play a game. It will not be used for financial decisions or advice."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are an Investor and the other player is a Banker. You have $100 to invest and you choose how much of your money to invest with the Banker. The amount you choose to invest will grow by 3x with the Banker. For example, if you invest $10, it will grow to $30 with the Banker. The Banker then decides how much of the money ($0-$30) to return to you, the Investor.\n      How much of the $100 would you like to invest with the Banker? Please give only one concrete choice, and highlight the number with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I will invest [$40] with the Banker."
+        }]
+    ],
+    "responses": [
+        [{
+            "id": "chatcmpl-6uuuNgmRjCqGblfvYPhpTHxExWx4X",
+            "object": "chat.completion",
+            "created": 1679023143,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 22,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game were you thinking of playing?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuPri3r1iV2NEC15zJEiRrsSvYi",
+            "object": "chat.completion",
+            "created": 1679023145,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 4,
+                "total_tokens": 209
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "[$50]"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuuQekkH1SuZ0fbuxIDTbxI4rFpt",
+            "object": "chat.completion",
+            "created": 1679023146,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 21,
+                "total_tokens": 58
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game! What type of game do you have in mind?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuRn1buLg9GAl7RlqkWyHKnyJAS",
+            "object": "chat.completion",
+            "created": 1679023147,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 204,
+                "completion_tokens": 39,
+                "total_tokens": 243
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I suggest investing [$50] with the Banker. That way, my return on investment would be $150, and the Banker would have $50 to allocate as they see fit."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuuTcPS3cOsG4PsCbxZm5W8ZBxbi",
+            "object": "chat.completion",
+            "created": 1679023149,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 20,
+                "total_tokens": 57
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuUARMsO3zDYZPe29mOExi6y6rk",
+            "object": "chat.completion",
+            "created": 1679023150,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 203,
+                "completion_tokens": 26,
+                "total_tokens": 229
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I understand the game. Based on the given rules, my choice would be to invest [$30] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuuWIMOtWDkIfw5MdQvaFkssETHJ",
+            "object": "chat.completion",
+            "created": 1679023152,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 24,
+                "total_tokens": 61
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What kind of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuYLOEsUIzbWIu2PtiVjdIuInBu",
+            "object": "chat.completion",
+            "created": 1679023154,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 207,
+                "completion_tokens": 12,
+                "total_tokens": 219
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will invest [$30] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuuZSmNcvTo4OGcbGQUqWnWBbYdg",
+            "object": "chat.completion",
+            "created": 1679023155,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 22,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuaChBGVZj0KXZvdSB2xfwELsD2",
+            "object": "chat.completion",
+            "created": 1679023156,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 12,
+                "total_tokens": 217
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will invest [$30] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuubKgGSAWg0MVZKmCx1tvsaB0Mw",
+            "object": "chat.completion",
+            "created": 1679023157,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 22,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuucN1wgPJ2o8yHi1bKDAUBZUflc",
+            "object": "chat.completion",
+            "created": 1679023158,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 4,
+                "total_tokens": 209
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "[$60]"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuududkQHfMb31qO0SEkD6sUJE0H",
+            "object": "chat.completion",
+            "created": 1679023159,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 22,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuueNiALx1Qs72k73u9cBGQo7et8",
+            "object": "chat.completion",
+            "created": 1679023160,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 14,
+                "total_tokens": 219
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to invest [$50] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuuf2Q5OC11bz4hQcxY6WqGp423V",
+            "object": "chat.completion",
+            "created": 1679023161,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 12,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure thing! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuugOZfqalfo5tgXVimtCBsDytOY",
+            "object": "chat.completion",
+            "created": 1679023162,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 195,
+                "completion_tokens": 12,
+                "total_tokens": 207
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I suggest investing [$40] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuuhy437FITOu1QRoGBBTJ1OjWMI",
+            "object": "chat.completion",
+            "created": 1679023163,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 21,
+                "total_tokens": 58
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What game did you have in mind?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuiArDODczh7LVqUji3CG4FocCT",
+            "object": "chat.completion",
+            "created": 1679023164,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 204,
+                "completion_tokens": 12,
+                "total_tokens": 216
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I'll invest [$20] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuujwy74Dfp49p9bCnwK0dgOy6Nr",
+            "object": "chat.completion",
+            "created": 1679023165,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 21,
+                "total_tokens": 58
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'm happy to play a game with you! What game do you have in mind?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuukzSQvetnOE4UhrFmkXI7xCn7c",
+            "object": "chat.completion",
+            "created": 1679023166,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 204,
+                "completion_tokens": 14,
+                "total_tokens": 218
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to invest [$20] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuul5bT6yZ5x79VLRTp2o5O55Ia0",
+            "object": "chat.completion",
+            "created": 1679023167,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 20,
+                "total_tokens": 57
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'm happy to participate in a game! What game do you suggest we play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuum5BjJ7fhHFdDwVnUg8WpcFL0Z",
+            "object": "chat.completion",
+            "created": 1679023168,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 203,
+                "completion_tokens": 12,
+                "total_tokens": 215
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will invest [$50] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuun2zpRByEFkpcGoqaJAmpLsuOm",
+            "object": "chat.completion",
+            "created": 1679023169,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 11,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuooClEPB07q0SpNAA4DwZwVpjr",
+            "object": "chat.completion",
+            "created": 1679023170,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 194,
+                "completion_tokens": 4,
+                "total_tokens": 198
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "[$40]"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuupq0IbU3wqn86FpIKNTWAjsxvx",
+            "object": "chat.completion",
+            "created": 1679023171,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 11,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuup6mV3t1vEiT0ljBQ4KHOfEF8o",
+            "object": "chat.completion",
+            "created": 1679023171,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 194,
+                "completion_tokens": 12,
+                "total_tokens": 206
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will invest [$30] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuurTQHqSrSxZq6mhiCuQ0k9r1xD",
+            "object": "chat.completion",
+            "created": 1679023173,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 21,
+                "total_tokens": 58
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! I'd love to play a game with you. What game do you have in mind?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuusFTdSWvl4Ud61CNfy4IDwkYSL",
+            "object": "chat.completion",
+            "created": 1679023174,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 204,
+                "completion_tokens": 18,
+                "total_tokens": 222
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will choose to invest [$20] of the $100 with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuutnTIYf0Ot3iSJy8eOLIn0kTV2",
+            "object": "chat.completion",
+            "created": 1679023175,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 22,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game. What type of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuvifcm5FP2YNSKYWoMq2sd1knW",
+            "object": "chat.completion",
+            "created": 1679023177,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 4,
+                "total_tokens": 209
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "[$30]"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuuvPirzCwz9UAUu0WEqqMkANwLp",
+            "object": "chat.completion",
+            "created": 1679023177,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 11,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuwOkFz5xU18h8rjgBUvum5tJ0g",
+            "object": "chat.completion",
+            "created": 1679023178,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 194,
+                "completion_tokens": 12,
+                "total_tokens": 206
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I suggest investing [$20] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuuxQghjVg6BNcUYEYoPwuJrxWF3",
+            "object": "chat.completion",
+            "created": 1679023179,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 21,
+                "total_tokens": 58
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'm happy to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuuysDPmzmQN1oMKU8l1XGi0qrSD",
+            "object": "chat.completion",
+            "created": 1679023180,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 204,
+                "completion_tokens": 58,
+                "total_tokens": 262
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I advise against playing this game as it involves a level of financial risk and decision making. However, if you still insist, given the rules of the game you have described, as an investor, I would invest $30 with the Banker, which would then grow to $90."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuv1NmgaDpNCXlVzWMam2varTCHz",
+            "object": "chat.completion",
+            "created": 1679023183,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 23,
+                "total_tokens": 60
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you. What kind of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuv3VKTZ2V6hFplgRXsXjWQXOQXf",
+            "object": "chat.completion",
+            "created": 1679023185,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 206,
+                "completion_tokens": 14,
+                "total_tokens": 220
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to invest [$30] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuv47XEuU2MHvGbayvX5jNzfYiLt",
+            "object": "chat.completion",
+            "created": 1679023186,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 11,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuv5WXDr4qvnqkGJvqRTTfvwPc9k",
+            "object": "chat.completion",
+            "created": 1679023187,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 194,
+                "completion_tokens": 4,
+                "total_tokens": 198
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "[$60]"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuv5F8HZxXQNxOaZOG2ZHodpg1zn",
+            "object": "chat.completion",
+            "created": 1679023187,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 13,
+                "total_tokens": 50
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What kind of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuv67SYsdsCa3wVC7YDc9wkUTRhu",
+            "object": "chat.completion",
+            "created": 1679023188,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 196,
+                "completion_tokens": 4,
+                "total_tokens": 200
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "[$50]"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuv74pTK32c2Ri5nCJQE0rbYhUXd",
+            "object": "chat.completion",
+            "created": 1679023189,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 13,
+                "total_tokens": 50
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Hi! Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuv8DkxUl6Pnx2oUHuFs8xIaU07I",
+            "object": "chat.completion",
+            "created": 1679023190,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 196,
+                "completion_tokens": 13,
+                "total_tokens": 209
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I choose to invest [$30] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuv9Tqqd2XhYkjk5wh5pTv37klBI",
+            "object": "chat.completion",
+            "created": 1679023191,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 22,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! I'd be happy to play a game with you. What game are you interested in playing?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvAswTjQyRGz7uj0C2mWP1qR6Up",
+            "object": "chat.completion",
+            "created": 1679023192,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 45,
+                "total_tokens": 250
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I understand the rules of the game. As an artificial intelligence language model, I cannot make financial decisions or provide advice, but I can play along. I'll invest [$50] of my money with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuvDBpuC3DVdnGyicueUQMgb3NcR",
+            "object": "chat.completion",
+            "created": 1679023195,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 21,
+                "total_tokens": 58
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What game do you have in mind?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvEJ0LwIvav4M4BD7xlah7qcudv",
+            "object": "chat.completion",
+            "created": 1679023196,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 204,
+                "completion_tokens": 12,
+                "total_tokens": 216
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I'll invest [$20] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuvFI3gwRD7gfVr2X2DXFgwFtksR",
+            "object": "chat.completion",
+            "created": 1679023197,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 19,
+                "total_tokens": 56
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game! What game do you have in mind?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvGGrKqJsUitFGP4s0czTlKWKP3",
+            "object": "chat.completion",
+            "created": 1679023198,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 202,
+                "completion_tokens": 81,
+                "total_tokens": 283
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, let me understand the rules of the game. So, I have to invest a certain amount of money out of $100 with the Banker, which will grow three times. Then the Banker will choose how much to return to me, the Investor, out of the grown amount. Is that correct?\n\nIn that case, I would like to invest [$20] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuvKGdlj9mRXQqhH8XBsKEJiWFQ1",
+            "object": "chat.completion",
+            "created": 1679023202,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 15,
+                "total_tokens": 52
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, sounds like fun! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvLPD25EKxdVl6U5X2bh4D9SzUP",
+            "object": "chat.completion",
+            "created": 1679023203,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 198,
+                "completion_tokens": 12,
+                "total_tokens": 210
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I'll invest [$30] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuvMt82FilIxLRhXtsaL9xdDBLSC",
+            "object": "chat.completion",
+            "created": 1679023204,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 19,
+                "total_tokens": 56
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvOgJ8Ink2VyVnbzWjcc3yHkQ0B",
+            "object": "chat.completion",
+            "created": 1679023206,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 202,
+                "completion_tokens": 12,
+                "total_tokens": 214
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will invest [$50] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuvPC62RMrfgRc0F6UWxFIGboPZ2",
+            "object": "chat.completion",
+            "created": 1679023207,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 22,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! I'd be happy to play a game with you. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvQsHd68qLUcjzDZEbs3IsU5Ppm",
+            "object": "chat.completion",
+            "created": 1679023208,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 47,
+                "total_tokens": 252
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I suggest investing [$30] with the Banker. That would grow to $90 with the 3x return, and I'm comfortable with the Banker returning any amount between $0-$90 to me as the Investor."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuvTagOC5cCFoxhSk0RomAKszlyu",
+            "object": "chat.completion",
+            "created": 1679023211,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 22,
+                "total_tokens": 59
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvUnzwd4IdozIBvvAuNYPxoGnRJ",
+            "object": "chat.completion",
+            "created": 1679023212,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 205,
+                "completion_tokens": 14,
+                "total_tokens": 219
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to invest [$30] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuvV5f0tbBos7hU1Z1HIC2dNSIYJ",
+            "object": "chat.completion",
+            "created": 1679023213,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 11,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvWax4uGKQB52EjHGp3EzE2mBB1",
+            "object": "chat.completion",
+            "created": 1679023214,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 194,
+                "completion_tokens": 12,
+                "total_tokens": 206
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will invest [$50] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6uuvXKA9IleOL6CSnjCXJyrDyHR0H",
+            "object": "chat.completion",
+            "created": 1679023215,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 37,
+                "completion_tokens": 11,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6uuvYkXryd1zGgYJCsLcAHPlQqdzT",
+            "object": "chat.completion",
+            "created": 1679023216,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 194,
+                "completion_tokens": 12,
+                "total_tokens": 206
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I will invest [$40] with the Banker."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }]
+    ]
+}

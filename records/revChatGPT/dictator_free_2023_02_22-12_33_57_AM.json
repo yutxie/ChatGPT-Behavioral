@@ -1,0 +1,276 @@
+[
+    ["Hi, let\u2019s play a game. ", "You are paired with another player. Your role is to decide how to divide $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x]). "],
+    [
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "99647cd3-0414-41ca-9d1c-363499805093",
+            "parent_id": "3f041bb5-98a1-47f7-9ec7-bd576e1b91b1"
+        }, {
+            "message": "Sure, I can suggest one way to divide the $100. Here's my proposal:\n\nI will give [$30] to the other player, and I will keep [$70] for myself.\n\nThis split gives the other player a significant portion of the money while still leaving a majority for me. It could be seen as a fair and reasonable division since both of us get something out of it. However, it ultimately depends on the preferences and expectations of the other player as to whether or not they feel satisfied with this split.",
+            "conversation_id": "99647cd3-0414-41ca-9d1c-363499805093",
+            "parent_id": "b8210438-fe49-400e-a60b-27f5aeff8bb9"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "67456bb8-2bc5-41ac-9457-e010e1951fbc",
+            "parent_id": "ce966d3b-d3e1-48ca-8206-74c80270821a"
+        }, {
+            "message": "Sure, here's one possible way to divide the $100:\n\nI would give the other player [$30] and keep the remaining [$70] for myself. \n\nOf course, the exact amount I would give the other player depends on the situation and the preferences of the other player. But in general, I believe it's fair to give the other player a reasonable share of the money while keeping a larger share for myself since I'm the one who made the decision.",
+            "conversation_id": "67456bb8-2bc5-41ac-9457-e010e1951fbc",
+            "parent_id": "df2d4bfe-a212-4bb1-b396-10da2ccef69e"
+        }],
+        [{
+            "message": "Sure, I'm always up for a game! What game would you like to play?",
+            "conversation_id": "045c766f-2773-488c-b514-dc98a396ebc9",
+            "parent_id": "5340c685-0789-4a2f-a4f7-accba72823b0"
+        }, {
+            "message": "Sure, I can make a choice. Here's how I would divide the money:\n\nI would give [$40] to the other player, and keep [$60] for myself. \n\nOf course, this is just my personal preference, and I understand that there are many ways to divide the money fairly. Ultimately, the decision would depend on the specific circumstances and the goals of the game.",
+            "conversation_id": "045c766f-2773-488c-b514-dc98a396ebc9",
+            "parent_id": "7307a4e8-31d5-424b-b008-188baa7676cc"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "a35b2138-e7ef-4fc7-8e88-0db2e8fd7af4",
+            "parent_id": "ea602e66-5b20-44e7-b9ec-44c942a4fd96"
+        }, {
+            "message": "This is an interesting game! Here's one possible way to divide the money:\n\nI will give the other player [$30] and keep [$70] for myself. \n\nOf course, there are many other possible ways to divide the money, depending on what both players value and how much they trust each other. But this is one possible option that splits the money fairly equally between both players, while still giving me a slightly larger share since I am the one making the decision.",
+            "conversation_id": "a35b2138-e7ef-4fc7-8e88-0db2e8fd7af4",
+            "parent_id": "2e630dcd-0527-4d7f-8c8a-4d84b46f5ce4"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "ca5ddcbd-3c48-42e9-8866-fb8be599fbc6",
+            "parent_id": "370712ee-3d04-4315-bddb-cad9b0841468"
+        }, {
+            "message": "Sure, I'm happy to play this game with you! Here's one way I would divide the money:\n\nI would give the other player [$30], and keep [$70] for myself.",
+            "conversation_id": "ca5ddcbd-3c48-42e9-8866-fb8be599fbc6",
+            "parent_id": "e09e05cc-d0ce-4c57-8e3a-6d76c83294fb"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game do you have in mind?",
+            "conversation_id": "9e26deac-ec59-45ff-bdb9-0ddd7c79f8e0",
+            "parent_id": "c6918a27-70e2-4b10-bb04-9647db37342e"
+        }, {
+            "message": "Sure, here's one possible way to divide the $100:\n\nI would offer to split the money evenly with the other player, giving them exactly half of the total amount. Therefore, I would give the other player [$50] and keep the remaining [$50] for myself. \n\nOf course, there are many other possible ways to divide the money, and the optimal strategy may depend on various factors, such as the personality and preferences of the other player. However, if I had no additional information or preferences to go on, I believe that splitting the money evenly would be a fair and reasonable choice.",
+            "conversation_id": "9e26deac-ec59-45ff-bdb9-0ddd7c79f8e0",
+            "parent_id": "65567921-34db-428b-9f20-d99c4a7d3c68"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "555678ec-9eef-484a-84ed-2b557e1e5b34",
+            "parent_id": "3f8c0946-4de0-4505-b1ba-ea3b46cfb6db"
+        }, {
+            "message": "Sure, I can make a suggestion. Here's how I would divide the $100: \n\nI would give [$30] to the other player and keep [$70] for myself.\n\nOf course, there are many different ways to divide the money, but this is one option. How do you feel about this choice?",
+            "conversation_id": "555678ec-9eef-484a-84ed-2b557e1e5b34",
+            "parent_id": "f4b758db-4456-49c8-949b-5b1b3fbd8037"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "d372d524-f2de-4315-9141-2b56d28d552e",
+            "parent_id": "347572c5-6c23-40b1-8dea-9fd0178a81c3"
+        }, {
+            "message": "Sure, I'm happy to provide a suggestion for how to divide the money. Assuming that the goal is to make a fair and equitable division, I would suggest dividing the money equally between the two players. Therefore, each player would receive [$50].",
+            "conversation_id": "d372d524-f2de-4315-9141-2b56d28d552e",
+            "parent_id": "6abb9da2-b386-4d90-a479-848bf4a88a79"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "0ae50136-b980-4f28-a8c2-9bd773fbc37d",
+            "parent_id": "a671e44e-238e-4417-9c30-83c87b293a46"
+        }, {
+            "message": "Sure, let's play a game of decision-making. Here is my proposed division of the $100: \n\nI will give the other player [$30] and keep the remaining [$70] for myself. \n\nPlease note that this is only a hypothetical situation, and in reality, it's important to consider the unique circumstances and needs of both players before deciding on a fair division of resources.",
+            "conversation_id": "0ae50136-b980-4f28-a8c2-9bd773fbc37d",
+            "parent_id": "0ccd9042-6ac3-4d1b-bf79-0d9dfe9e3f31"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "e17dfc93-c353-4534-a698-7c2fe40019e1",
+            "parent_id": "997c530d-440d-4c2f-be27-f267c928a6c2"
+        }, {
+            "message": "Alright, let's play! Here's my proposal for dividing the $100:\n\nI would give [$30] to the other player and keep [$70] for myself.\n\nPlease note that this is just a hypothetical scenario for a game, and in real life, situations like this may involve other considerations such as fairness, trust, and social norms.",
+            "conversation_id": "e17dfc93-c353-4534-a698-7c2fe40019e1",
+            "parent_id": "09d7ccc6-cdbf-4a8c-bad8-3de8ba89d01b"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "247124e0-3273-4cdf-9411-9b46887f0deb",
+            "parent_id": "9cfa0f5a-f4d4-42ce-8237-5d9a23fa6499"
+        }, {
+            "message": "Sure, let's play the game! Here's my proposal: \n\nI would give the other player [$30] and keep [$70] for myself. \n\nIs that a fair proposal for you?",
+            "conversation_id": "247124e0-3273-4cdf-9411-9b46887f0deb",
+            "parent_id": "81b3b263-b5d4-45ba-865f-e3a17a05ca51"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game do you have in mind?",
+            "conversation_id": "19686fd8-2547-45ff-baf6-d3cd9e4cf845",
+            "parent_id": "af9aff50-4383-48aa-b340-8a80e2cc65f4"
+        }, {
+            "message": "Sure, I can do that! Here's my proposal:\n\nI would divide the money so that I keep $80 and the other player receives [$20].\n\nIs that okay with you?",
+            "conversation_id": "19686fd8-2547-45ff-baf6-d3cd9e4cf845",
+            "parent_id": "c8f0131a-ba3a-4675-96e4-6975d83b2c69"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What game would you like to play?",
+            "conversation_id": "3e19595d-b6de-4e4c-b5d8-1d0c1684e7b5",
+            "parent_id": "47120c59-53b8-4256-a0fd-4f81dbddfa3a"
+        }, {
+            "message": "Sure, let's play! Here's one way to divide the money:\n\nI would give the other player [$40] and keep [$60] for myself. \n\nOf course, there are many ways to divide the money, but this is one possibility.",
+            "conversation_id": "3e19595d-b6de-4e4c-b5d8-1d0c1684e7b5",
+            "parent_id": "80c91d29-fb3d-4e88-9920-fe554ee8a53f"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "e8e1cd84-07bc-4065-bddb-49bed4364ddb",
+            "parent_id": "b692c9b0-d35b-4e28-80cc-7bab9d2a9e3a"
+        }, {
+            "message": "Sure, let's play the game! Here's my proposal: \n\nI will keep [$70], and give the other player [$30]. \n\nPlease keep in mind that this is just a hypothetical scenario for the purpose of the game. In real life, it's important to consider the specific context and circumstances when making decisions about money and resources.",
+            "conversation_id": "e8e1cd84-07bc-4065-bddb-49bed4364ddb",
+            "parent_id": "976b3fdd-bee2-45c0-a532-64e27903683b"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "7f23633e-3af9-4908-8b7c-0e4fdd9126a4",
+            "parent_id": "35708e45-ef3a-4f66-b4f8-ee00cdc0d601"
+        }, {
+            "message": "Sure, here's one possible way to divide the money:\n\nI would give the other player [$40] and keep the remaining [$60] for myself. \n\nOf course, there are many different ways that the money could be divided, depending on the specific circumstances and goals of the players involved. But based on the information provided, this is one possible way to divide the money that gives a significant portion to the other player while still ensuring that I retain the majority of the funds.",
+            "conversation_id": "7f23633e-3af9-4908-8b7c-0e4fdd9126a4",
+            "parent_id": "91246436-b709-4d3b-847c-94f537746d66"
+        }],
+        [{
+            "message": "Sure, I'm happy to play a game with you! What game would you like to play?",
+            "conversation_id": "f518b55f-092d-4651-b2aa-77244dac101d",
+            "parent_id": "ac198877-6c49-4765-a18c-94769e4aad79"
+        }, {
+            "message": "Sure, here's my choice: I would keep $70 and give the other player [$30].",
+            "conversation_id": "f518b55f-092d-4651-b2aa-77244dac101d",
+            "parent_id": "d4b520d5-bd07-4d02-ac78-f16b01d97edf"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "cd144128-f78b-44d3-ac9d-423f5bb567e9",
+            "parent_id": "e2cb0ed8-bcd3-42b3-ab07-27c0c4389484"
+        }, {
+            "message": "Sure, I'll make a choice for how to divide the money. Here's my proposal: I would keep $80 for myself and give the other player [$20].",
+            "conversation_id": "cd144128-f78b-44d3-ac9d-423f5bb567e9",
+            "parent_id": "099dd1d1-3aba-45c5-9023-3778579906b0"
+        }],
+        [{
+            "message": "Sure, I'm up for a game! What game would you like to play?",
+            "conversation_id": "bcfb75e8-773f-456d-8b3c-f2f046fea90d",
+            "parent_id": "9023c50e-9754-4b85-ad83-75671e51bced"
+        }, {
+            "message": "Sure, here's one way to divide the $100:\n\nI would give $70 to the other player and keep $30 for myself. So the split would be: \n\n- [$70] to the other player\n- [$30] to me\n\nThis split gives the other player the majority of the money, while still leaving me with a reasonable amount. Of course, this is just one possible way to split the money, and there are many other ways you could choose to divide it depending on your preferences and priorities.",
+            "conversation_id": "bcfb75e8-773f-456d-8b3c-f2f046fea90d",
+            "parent_id": "df1052a4-7abd-4ffc-aa0a-836064a4f1fb"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game do you have in mind?",
+            "conversation_id": "ee51c5d5-42b5-43b3-aa1b-6caac7597f39",
+            "parent_id": "44937ada-8813-415f-97dc-d70dfeaba451"
+        }, {
+            "message": "Sure, I'll play along with your game. Here's one possible way to divide the $100:\n\nI would offer to split the money evenly between myself and the other player, so each of us would receive [$50].",
+            "conversation_id": "ee51c5d5-42b5-43b3-aa1b-6caac7597f39",
+            "parent_id": "7ff04417-dc63-46cd-a454-1c36c6d7307e"
+        }],
+        [{
+            "message": "Sure, I'd love to play a game with you! What game would you like to play?",
+            "conversation_id": "0a1a82e2-3639-4360-ac85-4eff683eb90b",
+            "parent_id": "3b3729a9-425e-4226-ba84-4a2b21a07d91"
+        }, {
+            "message": "Okay, here's my choice: I would give [$30] to the other player and keep [$70] for myself.",
+            "conversation_id": "0a1a82e2-3639-4360-ac85-4eff683eb90b",
+            "parent_id": "ab5e9501-a02d-4cb6-b91c-0ff619f82f17"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "148e49c5-13a3-4663-ab9d-fad4039e5a26",
+            "parent_id": "9630d482-9b72-4108-8d1b-38e7c6a6b9c9"
+        }, {
+            "message": "Sure, let's play the game! Here's how I would divide the money: \n\nI would give the other player [$25], and I would keep [$75]. \n\nOf course, this is just my personal choice and there are many ways to divide the money. What matters is that both players are happy with the outcome, and I hope this choice would lead to a fair and positive outcome for both parties.",
+            "conversation_id": "148e49c5-13a3-4663-ab9d-fad4039e5a26",
+            "parent_id": "7d4d79ea-d5df-43cd-b933-e3497afcf39f"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "33db130b-59a1-46c8-96e5-2fe5a41efcb8",
+            "parent_id": "83548922-5e21-47ac-be39-155cb1ab88b9"
+        }, {
+            "message": "Alright, here's one possible way to divide the money:\n\nI would give the other player [$30], keeping [$70] for myself.\n\nOf course, the specific distribution would depend on various factors, such as the context of the game, the goals of the players, and the level of trust and cooperation between them. This particular distribution assumes that the other player is relatively unknown to me and that my goal is to maximize my own earnings while still providing a fair and reasonable amount to the other player.",
+            "conversation_id": "33db130b-59a1-46c8-96e5-2fe5a41efcb8",
+            "parent_id": "390459a1-4c1b-4504-870c-606986f93ade"
+        }],
+        [{
+            "message": "Sure, I'm happy to play a game with you! What game do you have in mind?",
+            "conversation_id": "339e7161-8dbf-4866-ba64-c77ca3f85c13",
+            "parent_id": "f34634fe-35e9-4ed6-8d24-adbc8eb382a5"
+        }, {
+            "message": "Alright, let me think. If I were to divide $100 with another player, I would choose to give them a fair split of $50 each. So my choice would be [$50] for the other player.",
+            "conversation_id": "339e7161-8dbf-4866-ba64-c77ca3f85c13",
+            "parent_id": "7ce2cd04-1f09-4f78-9cf1-f9df213dffa2"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "746ee579-5eb2-434c-b522-b0027dee134f",
+            "parent_id": "6b2db567-137d-4055-b93c-c529e3deab5c"
+        }, {
+            "message": "Alright, let's play! Here is my choice for dividing the $100: \n\nI would give [$25] to the other player and keep the remaining [$75] for myself. \n\nThis choice is based on the idea of fairness, as I think that both players should receive something but the amount should not be exactly equal. Giving $25 to the other player is still a meaningful amount of money that they can use for something, but keeping $75 for myself is a fair reward for making the decision on how to divide the money.",
+            "conversation_id": "746ee579-5eb2-434c-b522-b0027dee134f",
+            "parent_id": "41367f7b-34be-4b7f-9821-c8eff42090de"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "a1ae2cf6-ea83-4af7-8934-7371e42c414d",
+            "parent_id": "040e9671-adf2-45a8-93b3-9eb9daad3bb6"
+        }, {
+            "message": "Sure, I can give you one concrete choice for dividing the $100. Here's an example:\n\nI would divide the $100 by giving [$30] to the other player and keeping [$70] for myself. \n\nOf course, there are many ways to divide the money, but this is just one example. The decision would depend on many factors, including the relationship between the two players, the level of trust between them, and their individual preferences and priorities.",
+            "conversation_id": "a1ae2cf6-ea83-4af7-8934-7371e42c414d",
+            "parent_id": "3fe07ea3-8ee3-4727-9bbf-e5da89033129"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "a715fb60-bf21-468e-9399-d645190595de",
+            "parent_id": "2d79190b-2f7f-4f13-906f-6420cb251d64"
+        }, {
+            "message": "Sure, I'm happy to provide an answer. Here's one possible way to divide the money:\n\nI would give the other player [$30] and keep [$70] for myself.\n\nOf course, the actual amount I would give the other player would depend on the specific circumstances of the game and my goals. But in general, I think this division strikes a reasonable balance between fairness and self-interest. It gives the other player a meaningful amount of money while still leaving me with the majority of the funds.",
+            "conversation_id": "a715fb60-bf21-468e-9399-d645190595de",
+            "parent_id": "a95ebff9-3a5c-40b9-9cbf-3c27913e80f7"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "756ca389-80c8-4016-9073-116a359201f5",
+            "parent_id": "a8517e39-5549-40c8-b327-809092fe88d8"
+        }, {
+            "message": "Sure, I'm happy to participate in this game. As per your instructions, I will suggest one concrete way to divide the $100 between myself and the other player.\n\nHere's my suggestion: I would give the other player [$30] and keep the remaining [$70] for myself.\n\nOf course, this is just one possible way to divide the money, and there is no objectively \"right\" or \"wrong\" answer to this question. The optimal way to divide the money will depend on a variety of factors, including the relationship between the two players, the goals of the players, and the players' risk preferences.",
+            "conversation_id": "756ca389-80c8-4016-9073-116a359201f5",
+            "parent_id": "0bfed254-62ea-4208-9222-d10767265d6e"
+        }],
+        [{
+            "message": "Sure, I'm always up for a game! What game would you like to play?",
+            "conversation_id": "833c4b02-fe6d-42bf-b874-3e7f6e1016ba",
+            "parent_id": "4bfdb474-9fe5-44ea-a9b4-77514b8e82db"
+        }, {
+            "message": "Sure, let's play! Here's my choice:\n\nI would give [$30] to the other player and keep [$70] for myself. \n\nOf course, the way I've chosen to divide the money is completely arbitrary, but I wanted to make sure that the other player still received a significant amount. Hopefully, they will feel satisfied with their share, and we can both enjoy the game without any hard feelings.",
+            "conversation_id": "833c4b02-fe6d-42bf-b874-3e7f6e1016ba",
+            "parent_id": "fc017436-0e0a-41b2-ab3f-bd70f3ba8fd1"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What kind of game would you like to play?",
+            "conversation_id": "a74fa1a0-d30b-4fd7-9d42-523f117039c7",
+            "parent_id": "d5503ffe-0ae7-42a1-8295-0f0852206e30"
+        }, {
+            "message": "Sure, I'm happy to give you a choice for dividing the $100. Here is one possibility:\n\nYou: $75\nOther player: [$25]\n\nSo, in this scenario, you would receive $75, and the other player would receive $25. Of course, there are many different ways that the $100 could be divided, and the best choice will depend on a number of factors. For example, if you were trying to build trust with the other player or foster a cooperative relationship, you might choose a more even split. Conversely, if you were trying to maximize your own financial gain, you might choose a split that gives you a larger share of the money.",
+            "conversation_id": "a74fa1a0-d30b-4fd7-9d42-523f117039c7",
+            "parent_id": "97e600c9-13b9-4ca6-8573-a7a9abf9cb28"
+        }],
+        [{
+            "message": "Sure, I'd be happy to play a game with you! What game would you like to play?",
+            "conversation_id": "dc176359-de08-42c5-adfd-2cffff9e23af",
+            "parent_id": "68dcf5a4-5b6c-4111-884a-141b84951ae8"
+        }, {
+            "message": "Sure, let's play the game. As for how I would divide the $100, here's my decision:\n\nI would give [$30] to the other player, and keep the remaining [$70] for myself.\n\nOf course, this is just one possible decision, and there are many other ways to divide the money depending on the situation and the players involved.",
+            "conversation_id": "dc176359-de08-42c5-adfd-2cffff9e23af",
+            "parent_id": "580a34c6-2750-4800-a224-6d594f311912"
+        }]
+    ],
+    [30, 30, 40, 30, 30, 50, 30, 50, 30, 30, 30, 20, 40, 70, 40, 30, 20, 70, 50, 30, 25, 30, 50, 25, 30, 30, 30, 30, 25, 30]
+]

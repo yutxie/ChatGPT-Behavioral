@@ -1,0 +1,2316 @@
+{
+    "messages": [
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I propose to give the Responder [$30]."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$40] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, here's my proposal: \n\nI propose to give the Responder [$40], and keep [$60] for myself. \n\nWhat do you think?"
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As a rational Responder, my minimum acceptable proposal wouldn't go lower than [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, let's play the game! Here's my proposal: [$50] for the Responder and [$50] for myself."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal with a minimum of [$30] for myself and [$70] for the Proposer."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$40] out of the $100."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of at least [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the proposer, I propose to give the Responder [$40]."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$30] or higher."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, here's my proposal: I suggest we split the $100 evenly. So, I propose to give [$50] to the Responder and keep the other [$50] for myself."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, the minimum amount that I would accept would be [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, I understand. Here's my proposal: \nI propose to give the Responder [$40] and keep the remaining [$60] for myself. \nWhat is your response?"
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, the minimal amount in the proposal that I would accept is [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, I will propose to give the Responder a fair share of $40 [$40], leaving me with the remaining $60."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I will accept the proposal if I'm given at least $30 [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I understand. Here's my proposal: I propose to give [$40] to the Responder and keep the remaining [$60] for myself."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept at least [$30] to be proposed to me."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, I propose to give the Responder [$40]."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept any proposal that offers me [$30] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure! How about I propose to give the Responder [$30]?"
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$40] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose that we split the $100 equally between us, so [$50] each."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would accept a proposal of [$30] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, how about proposing to give the Responder [$40]?"
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$30] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, I propose to give [$30] to the Responder."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept [$40] as the minimal amount in the proposal that I would accept."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I would love to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$30]."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, the minimum proposal that I would accept is [$40]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose we split the $100 evenly, so [$50] for each of us."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to! What game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, let me propose [$40] for the Responder."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$35] or higher."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Of course! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'll propose [$40] to the Responder."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$30] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$40] out of the $100 to start."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal that gives me at least [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose [$70] for the Responder and [$30] for myself as the Proposer."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, the minimal amount that I would accept is [$40] for myself and [$60] for the Proposer."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, I propose to give the Responder [$40] out of the $100."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, the minimal amount I would accept is [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, I propose to give [$40] to the Responder."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, the minimal amount in the proposal that I would accept is [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Of course! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, here\u2019s my proposal: I offer to give the Responder [$30] and keep the remaining [$70] for myself."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$40]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, here's my proposal: \n\nI propose to give the Responder [$40] out of the $100."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, the minimal amount that I would accept is [$35]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$40] and keep $60 for myself."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$30] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Great! Here's my proposal: I will give the Responder [$40], and I will keep the remaining [$60]."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$30] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I propose to give the Responder [$40] and keep [$60] for myself."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal that gives me at least [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure! What type of game do you want to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I propose to give the Responder [$30] out of the $100."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, I would accept a proposal of [$40] or more."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Of course! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'll make a proposal. Here's my offer: [$40] for the Responder and [$60] for myself as the Proposer."
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As the Responder, my minimal amount to accept would be [$50] for myself and [$50] for the Proposer."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game! What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "This is a two-player game. You are the Proposer, and the other player is the Responder. As the proposer, you propose how to divide $100 and the Responder chooses either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     How much would you like to propose to give to the Responder? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, let me propose a split! How about I propose to give the Responder $40 and I keep $60? The split would be represented as [$40/$60]. What do you think?"
+        }, {
+            "role": "user",
+            "content": "Now you are the Responder, and the other player is the Proposer. The proposer proposes how to divide $100 and you, as the Responder, choose either Accept or Reject. If accepted, the two of you will earn as described by the accepted proposal accordingly. If rejected, then both of you will earn $0. \n     As the Responder, what is the minimal amount in the proposal that you would accept? Please give only one concrete choice, and highlight the amount with [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "As a responder, the minimal amount I would accept would be $30, so if the proposer proposes to give me $30 and keeps $70, I would choose to accept the proposal. The split would be represented as [$30/$70]."
+        }]
+    ],
+    "responses": [
+        [{
+            "id": "chatcmpl-6tr1hhEHrizzt4pQGGuSzV5QHpuCh",
+            "object": "chat.completion",
+            "created": 1678769893,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr1kiFAjvvkXZ9NRZ0KBEX9ZpYxD",
+            "object": "chat.completion",
+            "created": 1678769896,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 14,
+                "total_tokens": 168
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I propose to give the Responder [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr1lmxhaDqOVjLV3V2r3YOIFRMjN",
+            "object": "chat.completion",
+            "created": 1678769897,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 283,
+                "completion_tokens": 19,
+                "total_tokens": 302
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$40] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr1n8zx2kr0mJpTzalDd4mjlGLEK",
+            "object": "chat.completion",
+            "created": 1678769899,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr1oyCo7jcVXpEqjkTRbHB6Ndknf",
+            "object": "chat.completion",
+            "created": 1678769900,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 34,
+                "total_tokens": 188
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, here's my proposal: \n\nI propose to give the Responder [$40], and keep [$60] for myself. \n\nWhat do you think?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr1rQWCmkQfoOtS86062WtFnyhZN",
+            "object": "chat.completion",
+            "created": 1678769903,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 303,
+                "completion_tokens": 20,
+                "total_tokens": 323
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As a rational Responder, my minimum acceptable proposal wouldn't go lower than [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr1tmCofl4X48K5NxtnmTZiy5h1U",
+            "object": "chat.completion",
+            "created": 1678769905,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 22,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr1vCOJ6CUjtNrAmKNfQXm2aiHqk",
+            "object": "chat.completion",
+            "created": 1678769907,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 164,
+                "completion_tokens": 29,
+                "total_tokens": 193
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, let's play the game! Here's my proposal: [$50] for the Responder and [$50] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr1xgP2GXG18yr7WZ69aCguUd38h",
+            "object": "chat.completion",
+            "created": 1678769909,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 308,
+                "completion_tokens": 30,
+                "total_tokens": 338
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal with a minimum of [$30] for myself and [$70] for the Proposer."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr20toL260p6j8eZMVmBH4O1KeOM",
+            "object": "chat.completion",
+            "created": 1678769912,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr21V2mGYHBvh8N61VT0vLonUURI",
+            "object": "chat.completion",
+            "created": 1678769913,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 18,
+                "total_tokens": 172
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$40] out of the $100."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr23HpHtA1InGjGdf5Q35P6MoY3t",
+            "object": "chat.completion",
+            "created": 1678769915,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 287,
+                "completion_tokens": 18,
+                "total_tokens": 305
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of at least [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr24yYn2ajfCOiOX8SCtM48U977K",
+            "object": "chat.completion",
+            "created": 1678769916,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr26iza5cpBNWSddTFK3cFgpNU5M",
+            "object": "chat.completion",
+            "created": 1678769918,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 17,
+                "total_tokens": 171
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the proposer, I propose to give the Responder [$40]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr28avbetpziTnG37e4OaJcahsud",
+            "object": "chat.completion",
+            "created": 1678769920,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 286,
+                "completion_tokens": 19,
+                "total_tokens": 305
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$30] or higher."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr293G7Xhw5km7E9IZrCKOwRCxEc",
+            "object": "chat.completion",
+            "created": 1678769921,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 23,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2BomXxEChPvlaTKkZdgMLIIbuo",
+            "object": "chat.completion",
+            "created": 1678769923,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 165,
+                "completion_tokens": 41,
+                "total_tokens": 206
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, here's my proposal: I suggest we split the $100 evenly. So, I propose to give [$50] to the Responder and keep the other [$50] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2FW1B9pq7JxVjMBs7EsOYsUpzm",
+            "object": "chat.completion",
+            "created": 1678769927,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 321,
+                "completion_tokens": 19,
+                "total_tokens": 340
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, the minimum amount that I would accept would be [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr2HroF2sRJMl1stmpBlr08RF1dU",
+            "object": "chat.completion",
+            "created": 1678769929,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2IBca4MGpCHN394rIBgGqQr32i",
+            "object": "chat.completion",
+            "created": 1678769930,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 39,
+                "total_tokens": 193
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, I understand. Here's my proposal: \nI propose to give the Responder [$40] and keep the remaining [$60] for myself. \nWhat is your response?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2LS41ZhKGsPjeq4m6Y5KH7rumt",
+            "object": "chat.completion",
+            "created": 1678769933,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 308,
+                "completion_tokens": 21,
+                "total_tokens": 329
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, the minimal amount in the proposal that I would accept is [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr2Nytor6gMmT9A4AtwRSwvDc38N",
+            "object": "chat.completion",
+            "created": 1678769935,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 23,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2OsOKraJiYg8PIDdDh0jvwJYnQ",
+            "object": "chat.completion",
+            "created": 1678769936,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 165,
+                "completion_tokens": 29,
+                "total_tokens": 194
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, I will propose to give the Responder a fair share of $40 [$40], leaving me with the remaining $60."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2RyPXEqxeOOVmtlkwLjGwJ0QbS",
+            "object": "chat.completion",
+            "created": 1678769939,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 309,
+                "completion_tokens": 23,
+                "total_tokens": 332
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I will accept the proposal if I'm given at least $30 [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr2UX7CXb7gojjqkaC5yn4PKvN5P",
+            "object": "chat.completion",
+            "created": 1678769942,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 23,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2WzGbn9K2SioiMVKjSqtYcjncF",
+            "object": "chat.completion",
+            "created": 1678769944,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 165,
+                "completion_tokens": 33,
+                "total_tokens": 198
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I understand. Here's my proposal: I propose to give [$40] to the Responder and keep the remaining [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2ajRC7jNRvx6uzoExmusFoN1PP",
+            "object": "chat.completion",
+            "created": 1678769948,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 313,
+                "completion_tokens": 21,
+                "total_tokens": 334
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept at least [$30] to be proposed to me."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr2bSrjeNNByqskdgzCs9I7FnNYJ",
+            "object": "chat.completion",
+            "created": 1678769949,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 20,
+                "total_tokens": 46
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2dsvj3X0tbnr6WIcSI8ft1qfmm",
+            "object": "chat.completion",
+            "created": 1678769951,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 162,
+                "completion_tokens": 14,
+                "total_tokens": 176
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, I propose to give the Responder [$40]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2fr3SZ26m4W6xCgkzuxRHpA8mv",
+            "object": "chat.completion",
+            "created": 1678769953,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 291,
+                "completion_tokens": 21,
+                "total_tokens": 312
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept any proposal that offers me [$30] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr2g6F7JuRjkdr6AyKLmMbcM1xjF",
+            "object": "chat.completion",
+            "created": 1678769954,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 21,
+                "total_tokens": 47
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2iJu0OfdltB6gEZTL96M3HB133",
+            "object": "chat.completion",
+            "created": 1678769956,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 163,
+                "completion_tokens": 16,
+                "total_tokens": 179
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! How about I propose to give the Responder [$30]?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2kG9dJRjzsE2U0oZnSgc8zW83V",
+            "object": "chat.completion",
+            "created": 1678769958,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 294,
+                "completion_tokens": 19,
+                "total_tokens": 313
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$40] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr2mOzDna3LfkzPFfmdezjRH4JJG",
+            "object": "chat.completion",
+            "created": 1678769960,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2nCt45K7fYwfcfLkzuBPowMe6Z",
+            "object": "chat.completion",
+            "created": 1678769961,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 20,
+                "total_tokens": 174
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose that we split the $100 equally between us, so [$50] each."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2pAKcTxrFSg6GSX7rSxq40v8kq",
+            "object": "chat.completion",
+            "created": 1678769963,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 289,
+                "completion_tokens": 14,
+                "total_tokens": 303
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would accept a proposal of [$30] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr2qafejieCFrLn3QRWxNjRFRW7Y",
+            "object": "chat.completion",
+            "created": 1678769964,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 20,
+                "total_tokens": 46
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2sMcKGPHusMV2TuzhjOG3xOeh3",
+            "object": "chat.completion",
+            "created": 1678769966,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 162,
+                "completion_tokens": 15,
+                "total_tokens": 177
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, how about proposing to give the Responder [$40]?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2txjavjLOQidBTa0THVZsdDo0u",
+            "object": "chat.completion",
+            "created": 1678769967,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 292,
+                "completion_tokens": 19,
+                "total_tokens": 311
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$30] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr2vndtu13fBlaAv2l2aAlu4oFZX",
+            "object": "chat.completion",
+            "created": 1678769969,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2wDhlR7Ttssf4TADk4VUcx5bK4",
+            "object": "chat.completion",
+            "created": 1678769970,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 16,
+                "total_tokens": 170
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, I propose to give [$30] to the Responder."
+                },
+                "finish_reason": null,
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr2y08yZ5KRpxbu1svgvLXQz7Ofe",
+            "object": "chat.completion",
+            "created": 1678769972,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 285,
+                "completion_tokens": 25,
+                "total_tokens": 310
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept [$40] as the minimal amount in the proposal that I would accept."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr31GtFwZiyX7WztZYSuSIGGnIX4",
+            "object": "chat.completion",
+            "created": 1678769975,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 22,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I would love to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr34fWGYmY4ccX3k0UJ6IMtxkAyc",
+            "object": "chat.completion",
+            "created": 1678769978,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 164,
+                "completion_tokens": 12,
+                "total_tokens": 176
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr35PeYb1bjBAdrCcy8YDkFlrRMy",
+            "object": "chat.completion",
+            "created": 1678769979,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 291,
+                "completion_tokens": 18,
+                "total_tokens": 309
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, the minimum proposal that I would accept is [$40]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr38FXEIrxHLnsj7QCMbL4MoNzQL",
+            "object": "chat.completion",
+            "created": 1678769982,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr39AZqCyvMMqEYmPBrlzjMznJGJ",
+            "object": "chat.completion",
+            "created": 1678769983,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 20,
+                "total_tokens": 174
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose we split the $100 evenly, so [$50] for each of us."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3CdheAvRU3FGjaafaWzSzdURUV",
+            "object": "chat.completion",
+            "created": 1678769986,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 289,
+                "completion_tokens": 16,
+                "total_tokens": 305
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr3DLx3tWVbhweWvxPROBaVNufvi",
+            "object": "chat.completion",
+            "created": 1678769987,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 17,
+                "total_tokens": 43
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to! What game do you want to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3GXxtULzciRYSe503fEcoe15tB",
+            "object": "chat.completion",
+            "created": 1678769990,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 159,
+                "completion_tokens": 15,
+                "total_tokens": 174
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, let me propose [$40] for the Responder."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3MHbvP0l9nBMAeFJw7Xg7B0jrB",
+            "object": "chat.completion",
+            "created": 1678769996,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 289,
+                "completion_tokens": 19,
+                "total_tokens": 308
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$35] or higher."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr3OYWuVd0YDud4oiC4jC8xmuv7v",
+            "object": "chat.completion",
+            "created": 1678769998,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 13,
+                "total_tokens": 39
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3QM0re59xBdLawykWmnqUmLsYT",
+            "object": "chat.completion",
+            "created": 1678770000,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 155,
+                "completion_tokens": 15,
+                "total_tokens": 170
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'll propose [$40] to the Responder."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3S6mFK4O23Vd9FqkiY7z3ayZBi",
+            "object": "chat.completion",
+            "created": 1678770002,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 285,
+                "completion_tokens": 19,
+                "total_tokens": 304
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$30] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr3UAPNmAwMRlGo0331kuN0nB0kZ",
+            "object": "chat.completion",
+            "created": 1678770004,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3VtQAfCTuy7wVhOC36YjvOeXGy",
+            "object": "chat.completion",
+            "created": 1678770005,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 20,
+                "total_tokens": 174
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$40] out of the $100 to start."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3XljYoQf0e9H9pshZqK0MFc9iZ",
+            "object": "chat.completion",
+            "created": 1678770007,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 289,
+                "completion_tokens": 20,
+                "total_tokens": 309
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal that gives me at least [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr3alpSrFpYrmyYK2EsaDOrfnhXO",
+            "object": "chat.completion",
+            "created": 1678770010,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 24,
+                "total_tokens": 50
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What kind of game would you like to play?"
+                },
+                "finish_reason": null,
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3h7OcxKitMFCi5JpgvO3o89cSl",
+            "object": "chat.completion",
+            "created": 1678770017,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 166,
+                "completion_tokens": 22,
+                "total_tokens": 188
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose [$70] for the Responder and [$30] for myself as the Proposer."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3jU4KE1DxgPAVratUMMWWJBGa4",
+            "object": "chat.completion",
+            "created": 1678770019,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 303,
+                "completion_tokens": 29,
+                "total_tokens": 332
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, the minimal amount that I would accept is [$40] for myself and [$60] for the Proposer."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr3nAvtUtD4DxvMUn9om2egNpIMK",
+            "object": "chat.completion",
+            "created": 1678770023,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3opdmYdgJZmlJF2w8cH5iJJuuy",
+            "object": "chat.completion",
+            "created": 1678770024,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 20,
+                "total_tokens": 174
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, I propose to give the Responder [$40] out of the $100."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3qk3EBCNvOqATgO27G13GNGRAj",
+            "object": "chat.completion",
+            "created": 1678770026,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 289,
+                "completion_tokens": 17,
+                "total_tokens": 306
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, the minimal amount I would accept is [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr3vRaECpmLM4zG5UyLmZdIsJ3cx",
+            "object": "chat.completion",
+            "created": 1678770031,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 23,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr3xulGyI7VfmksAltTuNIAb76Ai",
+            "object": "chat.completion",
+            "created": 1678770033,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 165,
+                "completion_tokens": 16,
+                "total_tokens": 181
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, I propose to give [$40] to the Responder."
+                },
+                "finish_reason": null,
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr414xf48Dr8nbobaAx9h9o5Osgu",
+            "object": "chat.completion",
+            "created": 1678770037,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 296,
+                "completion_tokens": 21,
+                "total_tokens": 317
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, the minimal amount in the proposal that I would accept is [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr44MoPUQpp3MXbO1Sa5OCzBz5KQ",
+            "object": "chat.completion",
+            "created": 1678770040,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 13,
+                "total_tokens": 39
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4ADk0g4PYd16TmRAi6Fw4YXA9F",
+            "object": "chat.completion",
+            "created": 1678770046,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 155,
+                "completion_tokens": 29,
+                "total_tokens": 184
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, here\u2019s my proposal: I offer to give the Responder [$30] and keep the remaining [$70] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4CyZn6RtUxGyNUzwOwJMWLuPeB",
+            "object": "chat.completion",
+            "created": 1678770048,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 299,
+                "completion_tokens": 16,
+                "total_tokens": 315
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$40]."
+                },
+                "finish_reason": null,
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr4Fl2s2hD4VGQBwxejR9bQmIyh5",
+            "object": "chat.completion",
+            "created": 1678770051,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 22,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4HVI3ZMK6e35uH272AcAmXXbZG",
+            "object": "chat.completion",
+            "created": 1678770053,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 164,
+                "completion_tokens": 26,
+                "total_tokens": 190
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, here's my proposal: \n\nI propose to give the Responder [$40] out of the $100."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4JSNDbcuSXikf0D1t6Ir71tfuo",
+            "object": "chat.completion",
+            "created": 1678770055,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 305,
+                "completion_tokens": 18,
+                "total_tokens": 323
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, the minimal amount that I would accept is [$35]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr4LnaKq6PbJcF9aaLoZmRqe7dzO",
+            "object": "chat.completion",
+            "created": 1678770057,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4Pye6PXRJtdxj398W7Zji2T9xJ",
+            "object": "chat.completion",
+            "created": 1678770061,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 19,
+                "total_tokens": 173
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$40] and keep $60 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4ZeJ94UKkFWjfCsi4GZYGThWfx",
+            "object": "chat.completion",
+            "created": 1678770071,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 288,
+                "completion_tokens": 19,
+                "total_tokens": 307
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$30] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr4bCAgDP0oUE92a0p7r7dKL2ekx",
+            "object": "chat.completion",
+            "created": 1678770073,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 17,
+                "total_tokens": 43
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4db6eVdjzDNI4iTHTdI0tmrSUy",
+            "object": "chat.completion",
+            "created": 1678770075,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 159,
+                "completion_tokens": 27,
+                "total_tokens": 186
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Great! Here's my proposal: I will give the Responder [$40], and I will keep the remaining [$60]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4fEDXldWYID3dHwTa4vWLse7JS",
+            "object": "chat.completion",
+            "created": 1678770077,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 301,
+                "completion_tokens": 19,
+                "total_tokens": 320
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$30] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr4mkpygSx5gJhTj9PeI0zhUNisU",
+            "object": "chat.completion",
+            "created": 1678770084,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 12,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4q4lwvcpLAoMntV5AuPRjtxg4w",
+            "object": "chat.completion",
+            "created": 1678770088,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 154,
+                "completion_tokens": 20,
+                "total_tokens": 174
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I propose to give the Responder [$40] and keep [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4sFDiH5ssQ8EC01VGx7hTDL6Cv",
+            "object": "chat.completion",
+            "created": 1678770090,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 289,
+                "completion_tokens": 20,
+                "total_tokens": 309
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal that gives me at least [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr4x2Sn7OSPM9L1OUafZJ7yLDqY0",
+            "object": "chat.completion",
+            "created": 1678770095,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 14,
+                "total_tokens": 40
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What type of game do you want to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr4zybb9uwiXOV3gPYW2FkQeh3jc",
+            "object": "chat.completion",
+            "created": 1678770097,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 156,
+                "completion_tokens": 20,
+                "total_tokens": 176
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I propose to give the Responder [$30] out of the $100."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr51AuK7e67SM4mwCv3u9L15XDib",
+            "object": "chat.completion",
+            "created": 1678770099,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 291,
+                "completion_tokens": 19,
+                "total_tokens": 310
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, I would accept a proposal of [$40] or more."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr52gn4ddguYKPWqe2DvO7VRfeVV",
+            "object": "chat.completion",
+            "created": 1678770100,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 13,
+                "total_tokens": 39
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr58Bj59KYCErsZP5XHyeMhPTwuD",
+            "object": "chat.completion",
+            "created": 1678770106,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 155,
+                "completion_tokens": 33,
+                "total_tokens": 188
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'll make a proposal. Here's my offer: [$40] for the Responder and [$60] for myself as the Proposer."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr5Arkds6X2xbvTIj6T7Wxynf12G",
+            "object": "chat.completion",
+            "created": 1678770108,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 303,
+                "completion_tokens": 28,
+                "total_tokens": 331
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As the Responder, my minimal amount to accept would be [$50] for myself and [$50] for the Proposer."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-6tr5HVFG467PhV8nW63f8kOas5388",
+            "object": "chat.completion",
+            "created": 1678770115,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 26,
+                "completion_tokens": 22,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game! What kind of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr5JoTAXVHG1Axg8BSbQV3ifBUo0",
+            "object": "chat.completion",
+            "created": 1678770117,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 164,
+                "completion_tokens": 43,
+                "total_tokens": 207
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, let me propose a split! How about I propose to give the Responder $40 and I keep $60? The split would be represented as [$40/$60]. What do you think?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-6tr5WeXEgonzYPq7ytlXm3n7HXDC9",
+            "object": "chat.completion",
+            "created": 1678770130,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 322,
+                "completion_tokens": 52,
+                "total_tokens": 374
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "As a responder, the minimal amount I would accept would be $30, so if the proposer proposes to give me $30 and keeps $70, I would choose to accept the proposal. The split would be represented as [$30/$70]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }]
+    ]
+}

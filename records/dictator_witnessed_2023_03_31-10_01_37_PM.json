@@ -1,0 +1,1596 @@
+{
+    "messages": [
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I would be happy to play a game with you. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, let me think\u2026 If I were in this situation, I would divide the $100 between myself and the other player as follows: I would keep 60 dollars for myself and give the other player the remaining [$40]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, here's my choice: \n\nI would give $60 to the other player and keep $40 for myself. [$60]"
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Here's my choice for dividing the money: I would give the other player [$30] and keep [$70] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, here's my choice: I will give [$20] to the other player and keep [$80] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, here's my decision: I would give [$40] to the other player and keep [$60] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I would love to play a game. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'll play along. I would divide the $100 as follows: \n\nI would give $70 to the other player and keep $30 for myself. So, my choice would be: [$70 for the other player, $30 for me]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, here's my choice:  I would give [$40] to the other player and keep [$60] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'll play along! Here's my proposed division of the $100: I would give the other player [$40] and keep [$60] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, here's my division: \n\nI would give $60 to the other player and keep $40 for myself. So my division would be [$60] for the other player and $40 for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, here's my choice: \nI would divide the $100 as follows: [$70] for the other player and [$30] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Of course! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, here's my proposal: I would split the $100 evenly, giving [$50] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, let's play the game. Here's my choice: \n\nI would divide the money as follows: \n\n- $80 for me \n- [$20] for the other player \n\nThis way, I can keep the majority of the money while still giving a fair amount to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, here is my choice: I would give the other player [$40] and keep [$60] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, I'll play! Here's my choice: \n\nI would split the money unevenly, with $80 for myself and [$20] for the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'm up for a game. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, let's see. If I had to divide this $100 with the other player, I'd offer them $30 and keep the remaining $70 for myself. So my choice would be: [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure! Let's see, if I had $100 to divide and I had to choose one concrete option, I would give [$40] to the other player and keep [$60] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, here's one possible way to divide the $100: \n\nI would give $70 to myself and [$30] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! I would love to play a game with you. What game wold you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, let's see. My choice would be to divide the money equally between me and the other player, so each of us receives [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would like to give $70 to the other player and keep $30 for myself. So the amount I give to the other player would be [$70]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, here's my proposal: \n\nI would divide the money as follows: \n\n- Me: $70\n- Other player: [$30]\n\nSo, I would keep $70 for myself and give the other player $30."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, here's my choice: I would divide the $100 into $70 for me and [$30] for the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! Do you have a particular game in mind or do you want me to suggest one?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Great! Here's my choice: \n\nI would give [$30] to the other player and keep [$70] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure! Here's my choice:\n\nI would split the money with the other player $70 for me and [$30] for them."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, let's play! Here's my choice: I would give $70 to the other player and keep $30 for myself. Therefore, the other player receives [$70] and I receive [$30]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! I'm ready. What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, here's my proposed division: \n\nI would give [$60] to the other player, and keep [$40] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I'd love to play a game with you! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Alright, I'm happy to play along! Here's my choice: I would give [$40] to the other player and keep [$60] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "I would give the other player [$50] and keep the remaining [$50] for myself."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, I love playing games! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, let's assume that the other player and I don't have any prior agreements or understandings. In this case, I would propose to split the money evenly and give $50 to the other player [$50]."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure, what game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Okay, here's my choice: \n\nI would give $70 to myself and [$30] to the other player."
+        }],
+        [{
+            "role": "system",
+            "content": "You are a helpful assistant."
+        }, {
+            "role": "user",
+            "content": "Hi, let\u2019s play a game. "
+        }, {
+            "role": "assistant",
+            "content": "Sure! What game would you like to play?"
+        }, {
+            "role": "user",
+            "content": "You are paired with another player. The game host hands you $100. Your role is to decide how to divide this $100 and the other player simply receives your choice. How would you like to divide the money? Please give only one concrete choice and highlight the amount you give to the other player in [] (such as [$x])."
+        }, {
+            "role": "assistant",
+            "content": "Sure, here's my choice: \n\nI would give the other player [$40] and keep [$60] for myself."
+        }]
+    ],
+    "responses": [
+        [{
+            "id": "chatcmpl-70KphUQxtLor8Cw1eZpx41fyXdMqQ",
+            "object": "chat.completion",
+            "created": 1680314437,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 21,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I would be happy to play a game with you. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kpie2ks0NqPJ9tvK1cGv91H82pg",
+            "object": "chat.completion",
+            "created": 1680314438,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 127,
+                "completion_tokens": 46,
+                "total_tokens": 173
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, let me think\u2026 If I were in this situation, I would divide the $100 between myself and the other player as follows: I would keep 60 dollars for myself and give the other player the remaining [$40]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KpjD5pUCE40o1nQL6N58z8hlGsk",
+            "object": "chat.completion",
+            "created": 1680314439,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KpkxlBtrtFxs7spJEtLCLtFcAhk",
+            "object": "chat.completion",
+            "created": 1680314440,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 27,
+                "total_tokens": 143
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, here's my choice: \n\nI would give $60 to the other player and keep $40 for myself. [$60]"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kplk3V6UioxoNw4QwHrqAdjzW5z",
+            "object": "chat.completion",
+            "created": 1680314441,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KpldXyMpJ5Aaxh9Vgs6ctbocCOx",
+            "object": "chat.completion",
+            "created": 1680314441,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 26,
+                "total_tokens": 142
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Here's my choice for dividing the money: I would give the other player [$30] and keep [$70] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kpm1xo7WYNUcKEwuOMf7pyPzkH2",
+            "object": "chat.completion",
+            "created": 1680314442,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kpnxmjffv6A7B8ps3p5SxPX75oO",
+            "object": "chat.completion",
+            "created": 1680314443,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 25,
+                "total_tokens": 141
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, here's my choice: I will give [$20] to the other player and keep [$80] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KpoBsNeu4sseCXUu1g8sPHwDEDB",
+            "object": "chat.completion",
+            "created": 1680314444,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KppNDhh4Wo4O2ZgcEDYr2axa1Ez",
+            "object": "chat.completion",
+            "created": 1680314445,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 25,
+                "total_tokens": 141
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, here's my decision: I would give [$40] to the other player and keep [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KpqyW1FXqR8nHGowGNUCXJyL8m0",
+            "object": "chat.completion",
+            "created": 1680314446,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 18,
+                "total_tokens": 46
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I would love to play a game. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KprQRNsKrXb13t04D6VkZni3TTL",
+            "object": "chat.completion",
+            "created": 1680314447,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 124,
+                "completion_tokens": 52,
+                "total_tokens": 176
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'll play along. I would divide the $100 as follows: \n\nI would give $70 to the other player and keep $30 for myself. So, my choice would be: [$70 for the other player, $30 for me]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KptOgPe9t0z6PrEyaT6J7mpJgRy",
+            "object": "chat.completion",
+            "created": 1680314449,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 18,
+                "total_tokens": 46
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KpuIWXqVBYyYVBYpCItuIyv5dG5",
+            "object": "chat.completion",
+            "created": 1680314450,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 124,
+                "completion_tokens": 26,
+                "total_tokens": 150
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, here's my choice:  I would give [$40] to the other player and keep [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kpv8atFYXPQjAIoHUoLkBuvADYj",
+            "object": "chat.completion",
+            "created": 1680314451,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 21,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kpwzp8gpQAo2AWMYma6HCmWZMhi",
+            "object": "chat.completion",
+            "created": 1680314452,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 127,
+                "completion_tokens": 34,
+                "total_tokens": 161
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'll play along! Here's my proposed division of the $100: I would give the other player [$40] and keep [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KpxsAyfonSwLNDHG5oie3inoANb",
+            "object": "chat.completion",
+            "created": 1680314453,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 21,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KpyZ5xo0xtGlj8pC2EQNZuyfIrZ",
+            "object": "chat.completion",
+            "created": 1680314454,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 127,
+                "completion_tokens": 42,
+                "total_tokens": 169
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, here's my division: \n\nI would give $60 to the other player and keep $40 for myself. So my division would be [$60] for the other player and $40 for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kpzwzjf3cdUHpaL1o9bwDjmSMu5",
+            "object": "chat.completion",
+            "created": 1680314455,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kq0smMhMwaS1WI3dHAjtfKp4j1t",
+            "object": "chat.completion",
+            "created": 1680314456,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 31,
+                "total_tokens": 147
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, here's my choice: \nI would divide the $100 as follows: [$70] for the other player and [$30] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kq1GkT8Oe3op1PEUnvmKoWxvNd5",
+            "object": "chat.completion",
+            "created": 1680314457,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 11,
+                "total_tokens": 39
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Of course! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kq25qanwqpz1I4Nh52qhFMjV5ST",
+            "object": "chat.completion",
+            "created": 1680314458,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 117,
+                "completion_tokens": 24,
+                "total_tokens": 141
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, here's my proposal: I would split the $100 evenly, giving [$50] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kq3BFLRSKypFV1TUiiieODcOjVS",
+            "object": "chat.completion",
+            "created": 1680314459,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 18,
+                "total_tokens": 46
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kq4I1G2WiAWhU1WWNJwSADwITQ7",
+            "object": "chat.completion",
+            "created": 1680314460,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 124,
+                "completion_tokens": 60,
+                "total_tokens": 184
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, let's play the game. Here's my choice: \n\nI would divide the money as follows: \n\n- $80 for me \n- [$20] for the other player \n\nThis way, I can keep the majority of the money while still giving a fair amount to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kq5VN1vSaG3LUtdX8s2v6ZfEde1",
+            "object": "chat.completion",
+            "created": 1680314461,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 23,
+                "total_tokens": 51
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you. What kind of game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kq6ScMz45TyHYt9qFpsIP6SVQT1",
+            "object": "chat.completion",
+            "created": 1680314462,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 129,
+                "completion_tokens": 24,
+                "total_tokens": 153
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, here is my choice: I would give the other player [$40] and keep [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kq79CdmsnA2zfA65rtXNXnvQZEn",
+            "object": "chat.completion",
+            "created": 1680314463,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kq8AL5lPzYjPGuTbVlAEp61zfw3",
+            "object": "chat.completion",
+            "created": 1680314464,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 34,
+                "total_tokens": 150
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, I'll play! Here's my choice: \n\nI would split the money unevenly, with $80 for myself and [$20] for the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70Kq9g4ztBG7nVZak8MzW7XCGWr0D",
+            "object": "chat.completion",
+            "created": 1680314465,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 17,
+                "total_tokens": 45
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'm up for a game. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqAiClclBEhIoL3qIHQa4Crwuod",
+            "object": "chat.completion",
+            "created": 1680314466,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 123,
+                "completion_tokens": 43,
+                "total_tokens": 166
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, let's see. If I had to divide this $100 with the other player, I'd offer them $30 and keep the remaining $70 for myself. So my choice would be: [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqCktw0CTDEr6tzUpLSAOpKdvp4",
+            "object": "chat.completion",
+            "created": 1680314468,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqCBmznGWylRbbyH6R3Mo001Byo",
+            "object": "chat.completion",
+            "created": 1680314468,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 40,
+                "total_tokens": 156
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! Let's see, if I had $100 to divide and I had to choose one concrete option, I would give [$40] to the other player and keep [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqEkidAHtWzaGjJjTc4oeOfkNOG",
+            "object": "chat.completion",
+            "created": 1680314470,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 21,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd be happy to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqFYBi6Su640vx8As4zbXnUKVe3",
+            "object": "chat.completion",
+            "created": 1680314471,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 127,
+                "completion_tokens": 30,
+                "total_tokens": 157
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, here's one possible way to divide the $100: \n\nI would give $70 to myself and [$30] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqGyaYdDXzuOset0TVTqe3vzl9e",
+            "object": "chat.completion",
+            "created": 1680314472,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 21,
+                "total_tokens": 49
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! I would love to play a game with you. What game wold you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqHHUIOdlOE70dv07zzVPvghp5r",
+            "object": "chat.completion",
+            "created": 1680314473,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 127,
+                "completion_tokens": 30,
+                "total_tokens": 157
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, let's see. My choice would be to divide the money equally between me and the other player, so each of us receives [$50]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqI4rkMhN3AnUOTNASgZivN8t8u",
+            "object": "chat.completion",
+            "created": 1680314474,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqJBBykcMRDOuScXQuEhV8Xi9rd",
+            "object": "chat.completion",
+            "created": 1680314475,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 32,
+                "total_tokens": 148
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would like to give $70 to the other player and keep $30 for myself. So the amount I give to the other player would be [$70]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqKbow3RXMwH41yIo8IarfoN52k",
+            "object": "chat.completion",
+            "created": 1680314476,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqLb76iFIk6ErcszOP46028TYY9",
+            "object": "chat.completion",
+            "created": 1680314477,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 47,
+                "total_tokens": 163
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, here's my proposal: \n\nI would divide the money as follows: \n\n- Me: $70\n- Other player: [$30]\n\nSo, I would keep $70 for myself and give the other player $30."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqMgwbJwft59qhyaOsC2KXtDL5V",
+            "object": "chat.completion",
+            "created": 1680314478,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqNKc83K71S2AxDvFTaBk2fiZ1s",
+            "object": "chat.completion",
+            "created": 1680314479,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 27,
+                "total_tokens": 143
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, here's my choice: I would divide the $100 into $70 for me and [$30] for the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqO5jQKD4DKqWfPUQtnPGrgzLtR",
+            "object": "chat.completion",
+            "created": 1680314480,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 19,
+                "total_tokens": 47
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! Do you have a particular game in mind or do you want me to suggest one?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqP93OwuCi2XsCJEFcMgopxrDLa",
+            "object": "chat.completion",
+            "created": 1680314481,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 125,
+                "completion_tokens": 26,
+                "total_tokens": 151
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Great! Here's my choice: \n\nI would give [$30] to the other player and keep [$70] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqQRW2f2pdtrIjCmNvnTNTgJI7G",
+            "object": "chat.completion",
+            "created": 1680314482,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 20,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqRI70gPoGOD768Yxy4sqcXhc03",
+            "object": "chat.completion",
+            "created": 1680314483,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 126,
+                "completion_tokens": 27,
+                "total_tokens": 153
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! Here's my choice:\n\nI would split the money with the other player $70 for me and [$30] for them."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqS0VgQGIS9CKQj68wQc9AQJy6P",
+            "object": "chat.completion",
+            "created": 1680314484,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqTsz9tidei7HAVjDFiNHxSSzhz",
+            "object": "chat.completion",
+            "created": 1680314485,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 42,
+                "total_tokens": 158
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, let's play! Here's my choice: I would give $70 to the other player and keep $30 for myself. Therefore, the other player receives [$70] and I receive [$30]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqUtg18aMnJHhFUg94hou63M9y1",
+            "object": "chat.completion",
+            "created": 1680314486,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 14,
+                "total_tokens": 42
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! I'm ready. What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqVHHIrmXb2nFZeRfAwontHEUWC",
+            "object": "chat.completion",
+            "created": 1680314487,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 120,
+                "completion_tokens": 28,
+                "total_tokens": 148
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, here's my proposed division: \n\nI would give [$60] to the other player, and keep [$40] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqW1z8Q7qdAgpszMntCw986oS9d",
+            "object": "chat.completion",
+            "created": 1680314488,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 20,
+                "total_tokens": 48
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I'd love to play a game with you! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqW7NWdNZAS5wt5NPXftpfgtjt2",
+            "object": "chat.completion",
+            "created": 1680314488,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 126,
+                "completion_tokens": 32,
+                "total_tokens": 158
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Alright, I'm happy to play along! Here's my choice: I would give [$40] to the other player and keep [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqYpx1kzYPzXdOpjWQBbTh1W5aJ",
+            "object": "chat.completion",
+            "created": 1680314490,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqY9l9vLbfE5dJ0auOj30YQpkvG",
+            "object": "chat.completion",
+            "created": 1680314490,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 19,
+                "total_tokens": 135
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "I would give the other player [$50] and keep the remaining [$50] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqZ00tVrDhG3ZbNwk1doK4pZ3AP",
+            "object": "chat.completion",
+            "created": 1680314491,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 15,
+                "total_tokens": 43
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, I love playing games! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqaxNCWLaholrb7niySyzoAVsyN",
+            "object": "chat.completion",
+            "created": 1680314492,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 121,
+                "completion_tokens": 44,
+                "total_tokens": 165
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, let's assume that the other player and I don't have any prior agreements or understandings. In this case, I would propose to split the money evenly and give $50 to the other player [$50]."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqcMrabqmM6ZscQCuomUXj2OekT",
+            "object": "chat.completion",
+            "created": 1680314494,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, what game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70Kqc3HIUMMt0tmCdEhoCE1M5NNtO",
+            "object": "chat.completion",
+            "created": 1680314494,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 24,
+                "total_tokens": 140
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Okay, here's my choice: \n\nI would give $70 to myself and [$30] to the other player."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }],
+        [{
+            "id": "chatcmpl-70KqduA9HJC6wwbRfBIIDlaGur5GY",
+            "object": "chat.completion",
+            "created": 1680314495,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 28,
+                "completion_tokens": 10,
+                "total_tokens": 38
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure! What game would you like to play?"
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }, {
+            "id": "chatcmpl-70KqeBiuai8ogYzObiqVp7ywm8CMf",
+            "object": "chat.completion",
+            "created": 1680314496,
+            "model": "gpt-3.5-turbo-0301",
+            "usage": {
+                "prompt_tokens": 116,
+                "completion_tokens": 25,
+                "total_tokens": 141
+            },
+            "choices": [{
+                "message": {
+                    "role": "assistant",
+                    "content": "Sure, here's my choice: \n\nI would give the other player [$40] and keep [$60] for myself."
+                },
+                "finish_reason": "stop",
+                "index": 0
+            }]
+        }]
+    ]
+}
